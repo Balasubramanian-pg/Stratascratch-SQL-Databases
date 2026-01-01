@@ -1,0 +1,2 @@
+INSERT INTO user_sessions (platform, session_endtime, session_id, session_starttime, user_id, platform, session_endtime, session_id, session_starttime, user_id)
+VALUES ('sample_text', CURRENT_TIMESTAMP - (RANDOM() * INTERVAL '30 day'), 1, CURRENT_TIMESTAMP - (RANDOM() * INTERVAL '30 day'), 'sample_text', 'sample_text', CURRENT_TIMESTAMP - (RANDOM() * INTERVAL '30 day'), 1, CURRENT_TIMESTAMP - (RANDOM() * INTERVAL '30 day'), 'sample_text');

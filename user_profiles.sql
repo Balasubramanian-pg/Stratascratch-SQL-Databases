@@ -1,0 +1,2 @@
+INSERT INTO user_profiles (email, name, signup_date, user_id, email, name, signup_date, user_id)
+VALUES ('sample_text', 'sample_text', CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1, 'sample_text', 'sample_text', CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1);

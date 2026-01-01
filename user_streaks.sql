@@ -1,0 +1,2 @@
+INSERT INTO user_streaks (date_visited, user_id, date_visited, user_id)
+VALUES (CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 'sample_text', CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 'sample_text');
