@@ -1,0 +1,2 @@
+INSERT INTO product_sales (amount, country, original_transaction_id, product_id, status, transaction_date, transaction_id, type)
+VALUES (NULL, 'sample_text', 'sample_text', 'sample_text', 'sample_text', CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 'sample_text', 'sample_text');
