@@ -1,0 +1,2 @@
+INSERT INTO google_file_store (contents, filename, contents, filename, contents, filename, contents, filename, contents, filename)
+VALUES ('sample_text', 'sample_text', 'sample_text', 'sample_text', 'sample_text', 'sample_text', 'sample_text', 'sample_text', 'sample_text', 'sample_text');

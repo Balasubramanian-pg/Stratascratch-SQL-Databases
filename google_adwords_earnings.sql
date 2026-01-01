@@ -1,0 +1,2 @@
+INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year, adwords_earnings, business_name, business_type, n_employees, year, adwords_earnings, business_name, business_type, n_employees, year, adwords_earnings, business_name, business_type, n_employees, year, adwords_earnings, business_name, business_type, n_employees, year)
+VALUES (1, 'sample_text', 'sample_text', 1, 1, 1, 'sample_text', 'sample_text', 1, 1, 1, 'sample_text', 'sample_text', 1, 1, 1, 'sample_text', 'sample_text', 1, 1, 1, 'sample_text', 'sample_text', 1, 1);

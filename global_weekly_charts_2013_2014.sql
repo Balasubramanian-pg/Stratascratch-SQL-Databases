@@ -1,0 +1,2 @@
+INSERT INTO global_weekly_charts_2013_2014 (game, genre, id, platform, pos, publisher, total, week, week_ending, weekly, game, genre, id, platform, pos, publisher, total, week, week_ending, weekly)
+VALUES ('sample_text', 'sample_text', 1, 'sample_text', 1, 'sample_text', 1, 1, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1, 'sample_text', 'sample_text', 1, 'sample_text', 1, 'sample_text', 1, 1, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1);
