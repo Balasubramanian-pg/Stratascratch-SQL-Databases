@@ -1,0 +1,2 @@
+INSERT INTO airbnb_reviews (from_type, from_user, review_score, to_type, to_user, from_type, from_user, review_score, to_type, to_user, from_type, from_user, review_score, to_type, to_user, from_type, from_user, review_score, to_type, to_user)
+VALUES ('sample_text', 1, 1, 'sample_text', 1, 'sample_text', 1, 1, 'sample_text', 1, 'sample_text', 1, 1, 'sample_text', 1, 'sample_text', 1, 1, 'sample_text', 1);
