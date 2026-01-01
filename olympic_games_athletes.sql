@@ -1,0 +1,2 @@
+INSERT INTO olympic_games_athletes (age, city, event, games, height, id, medal, name, season, sex, sport, team, weight, year)
+VALUES (1, 'sample_text', 'sample_text', 'sample_text', 1, 1, 'sample_text', 'sample_text', 'sample_text', 'sample_text', 'sample_text', 'sample_text', 1, 1);

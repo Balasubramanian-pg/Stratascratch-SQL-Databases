@@ -1,0 +1,2 @@
+INSERT INTO noom_signups (plan_id, signup_id, started_at, plan_id, signup_id, started_at)
+VALUES (1, 'sample_text', CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1, 'sample_text', CURRENT_DATE - (RANDOM() * INTERVAL '30 day'));

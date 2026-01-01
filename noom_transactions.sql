@@ -1,0 +1,2 @@
+INSERT INTO noom_transactions (refunded_at, settled_at, signup_id, transaction_id, usd_gross)
+VALUES (CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 'sample_text', 1, 1);
