@@ -1,0 +1,2 @@
+INSERT INTO order_details (customer_id, id, merchant_id, n_items, order_timestamp, total_amount_earned, customer_id, id, merchant_id, n_items, order_timestamp, total_amount_earned, customer_id, id, merchant_id, n_items, order_timestamp, total_amount_earned)
+VALUES (1, 1, 1, 1, CURRENT_TIMESTAMP - (RANDOM() * INTERVAL '30 day'), NULL, 1, 1, 1, 1, CURRENT_TIMESTAMP - (RANDOM() * INTERVAL '30 day'), NULL, 1, 1, 1, 1, CURRENT_TIMESTAMP - (RANDOM() * INTERVAL '30 day'), NULL);

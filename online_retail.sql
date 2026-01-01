@@ -1,0 +1,2 @@
+INSERT INTO online_retail (country, customerid, description, invoicedate, invoiceno, quantity, stockcode, unitprice)
+VALUES ('sample_text', NULL, 'sample_text', CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 'sample_text', 1, 'sample_text', NULL);
