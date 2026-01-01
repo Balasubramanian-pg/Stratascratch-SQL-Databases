@@ -1,0 +1,2 @@
+INSERT INTO facebook_reactions (date_day, friend, post_id, poster, reaction, date_day, friend, post_id, poster, reaction, date_day, friend, post_id, poster, reaction, date_day, friend, post_id, poster, reaction)
+VALUES (1, 1, 1, 1, 'sample_text', 1, 1, 1, 1, 'sample_text', 1, 1, 1, 1, 'sample_text', 1, 1, 1, 1, 'sample_text');

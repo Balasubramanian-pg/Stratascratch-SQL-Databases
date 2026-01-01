@@ -1,0 +1,2 @@
+INSERT INTO facebook_sales_promotions (cost, end_date, media_type, promotion_id, start_date)
+VALUES (1, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 'sample_text', 1, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'));

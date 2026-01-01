@@ -1,0 +1,2 @@
+INSERT INTO facebook_products (brand_name, is_low_fat, is_recyclable, product_category, product_class, product_family, product_id, brand_name, is_low_fat, is_recyclable, product_category, product_class, product_family, product_id)
+VALUES ('sample_text', 'sample_text', 'sample_text', 1, 'sample_text', 'sample_text', 1, 'sample_text', 'sample_text', 'sample_text', 1, 'sample_text', 'sample_text', 1);

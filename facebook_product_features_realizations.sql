@@ -1,0 +1,2 @@
+INSERT INTO facebook_product_features_realizations (feature_id, step_reached, timestamp, user_id, feature_id, step_reached, timestamp, user_id, feature_id, step_reached, timestamp, user_id)
+VALUES (1, 1, CURRENT_TIMESTAMP - (RANDOM() * INTERVAL '30 day'), 1, 1, 1, CURRENT_TIMESTAMP - (RANDOM() * INTERVAL '30 day'), 1, 1, 1, CURRENT_TIMESTAMP - (RANDOM() * INTERVAL '30 day'), 1);
