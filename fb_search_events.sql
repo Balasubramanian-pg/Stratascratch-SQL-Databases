@@ -1,0 +1,2 @@
+INSERT INTO fb_search_events (clicked, search_id, search_results_position, search_term, clicked, search_id, search_results_position, search_term)
+VALUES (1, 1, 1, 'sample_text', 1, 1, 1, 'sample_text');

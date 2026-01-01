@@ -1,0 +1,2 @@
+INSERT INTO fb_searches (age_group, date, search_id, search_query, user_id, age_group, date, search_id, search_query, user_id)
+VALUES ('sample_text', CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1, 'sample_text', 1, 'sample_text', CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1, 'sample_text', 1);

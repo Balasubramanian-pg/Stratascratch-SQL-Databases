@@ -1,0 +1,2 @@
+INSERT INTO flag_review (flag_id, reviewed_by_yt, reviewed_date, reviewed_outcome, flag_id, reviewed_by_yt, reviewed_date, reviewed_outcome, flag_id, reviewed_by_yt, reviewed_date, reviewed_outcome)
+VALUES ('sample_text', TRUE, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 'sample_text', 'sample_text', TRUE, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 'sample_text', 'sample_text', TRUE, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 'sample_text');
