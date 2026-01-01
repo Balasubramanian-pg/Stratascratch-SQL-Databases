@@ -1,0 +1,2 @@
+INSERT INTO employee_list (birth_month, birthday, employee_id, first_name, last_name, profession, birth_month, birthday, employee_id, first_name, last_name, profession)
+VALUES (1, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1, 'sample_text', 'sample_text', 'sample_text', 1, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1, 'sample_text', 'sample_text', 'sample_text');

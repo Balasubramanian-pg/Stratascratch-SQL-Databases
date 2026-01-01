@@ -1,0 +1,2 @@
+INSERT INTO dim_product (market_name, prod_brand, prod_sku_id, prod_sku_name, market_name, prod_brand, prod_sku_id, prod_sku_name, market_name, prod_brand, prod_sku_id, prod_sku_name)
+VALUES ('sample_text', 'sample_text', 'sample_text', 'sample_text', 'sample_text', 'sample_text', 'sample_text', 'sample_text', 'sample_text', 'sample_text', 'sample_text', 'sample_text');
