@@ -1,0 +1,2 @@
+INSERT INTO shipment_tracking (delivered_date, order_amount, order_id, ordered_date, shipped_date, user_id)
+VALUES (CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), NULL, 1, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1);

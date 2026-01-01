@@ -1,0 +1,2 @@
+INSERT INTO signups (location, plan_id, signup_id, signup_start_date, signup_stop_date, location, plan_id, signup_id, signup_start_date, signup_stop_date)
+VALUES ('sample_text', 1, 1, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 'sample_text', 1, 1, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), CURRENT_DATE - (RANDOM() * INTERVAL '30 day'));
