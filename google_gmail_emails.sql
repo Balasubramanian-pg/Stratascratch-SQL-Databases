@@ -1,0 +1,2 @@
+INSERT INTO google_gmail_emails (day, from_user, id, to_user, day, from_user, id, to_user, day, from_user, id, to_user, day, from_user, id, to_user)
+VALUES (1, 'sample_text', 1, 'sample_text', 1, 'sample_text', 1, 'sample_text', 1, 'sample_text', 1, 'sample_text', 1, 'sample_text', 1, 'sample_text');

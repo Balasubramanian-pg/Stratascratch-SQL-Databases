@@ -1,0 +1,2 @@
+INSERT INTO innerwear_macys_com (available_size, brand_name, color, description, mrp, pdp_url, price, product_category, product_name, rating, retailer, review_count, style_attributes, total_sizes)
+VALUES ('sample_text', 'sample_text', 'sample_text', 'sample_text', 'sample_text', 'sample_text', 'sample_text', 'sample_text', 'sample_text', NULL, 'sample_text', NULL, 'sample_text', 'sample_text');

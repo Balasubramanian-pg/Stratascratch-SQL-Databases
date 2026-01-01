@@ -1,0 +1,2 @@
+INSERT INTO google_word_lists (words1, words2, words1, words2, words1, words2, words1, words2, words1, words2)
+VALUES ('sample_text', 'sample_text', 'sample_text', 'sample_text', 'sample_text', 'sample_text', 'sample_text', 'sample_text', 'sample_text', 'sample_text');
