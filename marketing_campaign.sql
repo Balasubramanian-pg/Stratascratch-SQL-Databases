@@ -1,0 +1,2 @@
+INSERT INTO marketing_campaign (created_at, price, product_id, quantity, user_id, created_at, price, product_id, quantity, user_id)
+VALUES (CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1, 1, 1, 1, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1, 1, 1, 1);

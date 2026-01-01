@@ -1,0 +1,2 @@
+INSERT INTO merchant_details (category, id, name, zipcode, category, id, name, zipcode, category, id, name, zipcode)
+VALUES ('sample_text', 1, 'sample_text', 1, 'sample_text', 1, 'sample_text', 1, 'sample_text', 1, 'sample_text', 1);

@@ -1,0 +1,2 @@
+INSERT INTO marathon_male (age, div_tot, gun_time, hometown, net_time, num, pace, person_name, place, age, div_tot, gun_time, hometown, net_time, num, pace, person_name, place, age, div_tot, gun_time, hometown, net_time, num, pace, person_name, place)
+VALUES (1, 'sample_text', 1, 'sample_text', 1, 1, 1, 'sample_text', 1, 1, 'sample_text', 1, 'sample_text', 1, 1, 1, 'sample_text', 1, 1, 'sample_text', 1, 'sample_text', 1, 1, 1, 'sample_text', 1);

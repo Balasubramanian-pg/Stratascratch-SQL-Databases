@@ -1,0 +1,2 @@
+INSERT INTO medical_appointments (age, alcoholism, appointmentday, appointmentid, diabetes, gender, handcap, hipertension, neighbourhood, no_show, patientid, scheduledday, scholarship, sms_received)
+VALUES (1, 1, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1, 1, 'sample_text', 1, 1, 'sample_text', 'sample_text', NULL, CURRENT_TIMESTAMP - (RANDOM() * INTERVAL '30 day'), 1, 1);
