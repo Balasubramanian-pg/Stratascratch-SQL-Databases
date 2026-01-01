@@ -1,0 +1,2 @@
+INSERT INTO dc_bikeshare_q1_2012 (bike_number, duration, duration_seconds, end_station, end_terminal, end_time, id, rider_type, start_station, start_terminal, start_time)
+VALUES ('sample_text', 'sample_text', 1, 'sample_text', 1, CURRENT_TIMESTAMP - (RANDOM() * INTERVAL '30 day'), 1, 'sample_text', 'sample_text', 1, CURRENT_TIMESTAMP - (RANDOM() * INTERVAL '30 day'));

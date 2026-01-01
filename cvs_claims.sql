@@ -1,0 +1,2 @@
+INSERT INTO cvs_claims (account_id, claim_id, date_accepted, date_rejected, date_submitted, account_id, claim_id, date_accepted, date_rejected, date_submitted)
+VALUES ('sample_text', 1, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 'sample_text', 1, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), CURRENT_DATE - (RANDOM() * INTERVAL '30 day'));
