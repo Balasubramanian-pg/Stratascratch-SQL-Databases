@@ -1,0 +1,2 @@
+INSERT INTO college_football_players (full_school_name, height, hometown, id, player_name, position, school_name, state, weight, year)
+VALUES ('sample_text', 1, 'sample_text', 1, 'sample_text', 'sample_text', 'sample_text', 'sample_text', 1, 'sample_text');
