@@ -1,0 +1,2 @@
+INSERT INTO title (affected_from, worker_ref_id, worker_title, affected_from, worker_ref_id, worker_title, affected_from, worker_ref_id, worker_title)
+VALUES (CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1, 'sample_text', CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1, 'sample_text', CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1, 'sample_text');

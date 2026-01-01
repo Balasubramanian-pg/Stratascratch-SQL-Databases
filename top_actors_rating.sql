@@ -1,0 +1,2 @@
+INSERT INTO top_actors_rating (actor_name, genre, movie_rating, movie_title, production_company, release_date)
+VALUES ('sample_text', 'sample_text', NULL, 'sample_text', 'sample_text', CURRENT_DATE - (RANDOM() * INTERVAL '30 day'));

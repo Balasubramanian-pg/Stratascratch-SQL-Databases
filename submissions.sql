@@ -1,0 +1,2 @@
+INSERT INTO submissions (balance, id, interest_rate, loan_id, rate_type, balance, id, interest_rate, loan_id, rate_type, balance, id, interest_rate, loan_id, rate_type)
+VALUES (NULL, 1, NULL, 1, 'sample_text', NULL, 1, NULL, 1, 'sample_text', NULL, 1, NULL, 1, 'sample_text');
