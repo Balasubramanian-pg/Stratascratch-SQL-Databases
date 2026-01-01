@@ -1,0 +1,2 @@
+INSERT INTO loans (created_at, id, status, type, user_id, created_at, id, status, type, user_id)
+VALUES (CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1, 'sample_text', 'sample_text', 1, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1, 'sample_text', 'sample_text', 1);

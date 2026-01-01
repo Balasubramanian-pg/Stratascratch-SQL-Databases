@@ -1,0 +1,2 @@
+INSERT INTO linkedin_users (employer, end_date, position, start_date, user_id, employer, end_date, position, start_date, user_id)
+VALUES ('sample_text', CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 'sample_text', CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1, 'sample_text', CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 'sample_text', CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1);
