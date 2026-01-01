@@ -1,0 +1,2 @@
+INSERT INTO sf_exchange_rate (date, exchange_rate, source_currency, target_currency, date, exchange_rate, source_currency, target_currency)
+VALUES (CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), NULL, 'sample_text', 'sample_text', CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), NULL, 'sample_text', 'sample_text');

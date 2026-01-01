@@ -1,0 +1,2 @@
+INSERT INTO sf_events (account_id, record_date, user_id, account_id, record_date, user_id, account_id, record_date, user_id, account_id, record_date, user_id, account_id, record_date, user_id)
+VALUES (NULL, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), NULL, NULL, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), NULL, NULL, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), NULL, NULL, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), NULL, NULL, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), NULL);

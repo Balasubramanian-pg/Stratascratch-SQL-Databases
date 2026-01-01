@@ -1,0 +1,2 @@
+INSERT INTO search_events (event_id, event_timestamp, event_type, query, session_id, user_id)
+VALUES (1, CURRENT_TIMESTAMP - (RANDOM() * INTERVAL '30 day'), 'sample_text', 'sample_text', 'sample_text', 1);
