@@ -1,0 +1,2 @@
+INSERT INTO facebook_web_log (action, timestamp, user_id, action, timestamp, user_id, action, timestamp, user_id, action, timestamp, user_id)
+VALUES ('sample_text', CURRENT_TIMESTAMP - (RANDOM() * INTERVAL '30 day'), 1, 'sample_text', CURRENT_TIMESTAMP - (RANDOM() * INTERVAL '30 day'), 1, 'sample_text', CURRENT_TIMESTAMP - (RANDOM() * INTERVAL '30 day'), 1, 'sample_text', CURRENT_TIMESTAMP - (RANDOM() * INTERVAL '30 day'), 1);

@@ -1,0 +1,2 @@
+INSERT INTO fb_comments_count (created_at, number_of_comments, user_id, created_at, number_of_comments, user_id)
+VALUES (CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1, 1, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1, 1);
