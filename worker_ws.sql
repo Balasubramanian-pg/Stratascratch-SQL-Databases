@@ -1,0 +1,2 @@
+INSERT INTO worker_ws (department, first_name, joining_date, last_name, salary, worker_id, department, first_name, joining_date, last_name, salary, worker_id, department, first_name, joining_date, last_name, salary, worker_id)
+VALUES ('sample_text', 'sample_text', CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 'sample_text', 1, 1, 'sample_text', 'sample_text', CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 'sample_text', 1, 1, 'sample_text', 'sample_text', CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 'sample_text', 1, 1);

@@ -1,0 +1,2 @@
+INSERT INTO wfm_transactions (customer_id, product_id, sales, store_id, transaction_date, transaction_id, customer_id, product_id, sales, store_id, transaction_date, transaction_id)
+VALUES (1, 1, 1, 1, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1, 1, 1, 1, 1, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1);

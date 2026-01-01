@@ -1,0 +1,2 @@
+INSERT INTO vr_sessions (app_name, end_time, session_id, start_time, user_id)
+VALUES ('sample_text', CURRENT_TIMESTAMP - (RANDOM() * INTERVAL '30 day'), 'sample_text', CURRENT_TIMESTAMP - (RANDOM() * INTERVAL '30 day'), 'sample_text');

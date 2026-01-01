@@ -1,0 +1,2 @@
+INSERT INTO videos_watched (user_id, video_id, watched_at, user_id, video_id, watched_at)
+VALUES ('sample_text', 'sample_text', CURRENT_TIMESTAMP - (RANDOM() * INTERVAL '30 day'), 'sample_text', 'sample_text', CURRENT_TIMESTAMP - (RANDOM() * INTERVAL '30 day'));

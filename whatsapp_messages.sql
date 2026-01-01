@@ -1,0 +1,2 @@
+INSERT INTO whatsapp_messages (message_date, message_id, message_receiver_id, message_sender_id, message_time)
+VALUES (CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1, 'sample_text', 'sample_text', 'sample_text');

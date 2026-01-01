@@ -1,0 +1,2 @@
+INSERT INTO worker_logins (city, country, device_type, id, ip_address, login_timestamp, region, worker_id, city, country, device_type, id, ip_address, login_timestamp, region, worker_id)
+VALUES ('sample_text', 'sample_text', 'sample_text', 1, 'sample_text', CURRENT_TIMESTAMP - (RANDOM() * INTERVAL '30 day'), 'sample_text', 1, 'sample_text', 'sample_text', 'sample_text', 1, 'sample_text', CURRENT_TIMESTAMP - (RANDOM() * INTERVAL '30 day'), 'sample_text', 1);
