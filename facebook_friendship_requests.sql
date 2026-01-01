@@ -1,0 +1,2 @@
+INSERT INTO facebook_friendship_requests (date_approved, date_sent, receiver, sender, date_approved, date_sent, receiver, sender)
+VALUES (CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1, 1, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1, 1);

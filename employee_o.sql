@@ -1,0 +1,2 @@
+INSERT INTO employee_o (age, department, employee_title, first_name, gender, id, last_name, manager_id, salary)
+VALUES (1, 'sample_text', 'sample_text', 'sample_text', 'sample_text', 1, 'sample_text', 1, 1);

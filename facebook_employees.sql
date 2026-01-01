@@ -1,0 +1,2 @@
+INSERT INTO facebook_employees (age, gender, id, is_senior, location, age, gender, id, is_senior, location, age, gender, id, is_senior, location)
+VALUES (1, 'sample_text', 1, TRUE, 'sample_text', 1, 'sample_text', 1, TRUE, 'sample_text', 1, 'sample_text', 1, TRUE, 'sample_text');
