@@ -1,0 +1,2 @@
+INSERT INTO playbook_experiments (device, experiment, experiment_group, location, occurred_at, user_id)
+VALUES ('sample_text', 'sample_text', 'sample_text', 'sample_text', CURRENT_TIMESTAMP - (RANDOM() * INTERVAL '30 day'), 1);
