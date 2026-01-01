@@ -1,0 +1,2 @@
+INSERT INTO salesforce_employees (address, age, bonus, city, department, email, employee_title, first_name, id, last_name, manager_id, salary, sex, target)
+VALUES ('sample_text', 1, 1, 'sample_text', 'sample_text', 'sample_text', 'sample_text', 'sample_text', 1, 'sample_text', 1, 1, 'sample_text', 1);

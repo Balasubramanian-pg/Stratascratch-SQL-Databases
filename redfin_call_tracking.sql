@@ -1,0 +1,2 @@
+INSERT INTO redfin_call_tracking (call_duration, created_on, id, request_id, call_duration, created_on, id, request_id, call_duration, created_on, id, request_id)
+VALUES (1, CURRENT_TIMESTAMP - (RANDOM() * INTERVAL '30 day'), 1, 1, 1, CURRENT_TIMESTAMP - (RANDOM() * INTERVAL '30 day'), 1, 1, 1, CURRENT_TIMESTAMP - (RANDOM() * INTERVAL '30 day'), 1, 1);

@@ -1,0 +1,2 @@
+INSERT INTO rc_users (company_id, status, user_id, company_id, status, user_id, company_id, status, user_id, company_id, status, user_id)
+VALUES (1, 'sample_text', 1, 1, 'sample_text', 1, 1, 'sample_text', 1, 1, 'sample_text', 1);

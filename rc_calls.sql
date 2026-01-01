@@ -1,0 +1,2 @@
+INSERT INTO rc_calls (call_date, call_id, user_id, call_date, call_id, user_id, call_date, call_id, user_id, call_date, call_id, user_id)
+VALUES (CURRENT_TIMESTAMP - (RANDOM() * INTERVAL '30 day'), 1, 1, CURRENT_TIMESTAMP - (RANDOM() * INTERVAL '30 day'), 1, 1, CURRENT_TIMESTAMP - (RANDOM() * INTERVAL '30 day'), 1, 1, CURRENT_TIMESTAMP - (RANDOM() * INTERVAL '30 day'), 1, 1);
