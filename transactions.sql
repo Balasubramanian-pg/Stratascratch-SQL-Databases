@@ -1,0 +1,2 @@
+INSERT INTO transactions (amt, signup_id, transaction_id, transaction_start_date, amt, signup_id, transaction_id, transaction_start_date)
+VALUES (NULL, 1, 1, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), NULL, 1, 1, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'));

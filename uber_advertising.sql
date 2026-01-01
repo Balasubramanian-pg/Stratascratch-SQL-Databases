@@ -1,0 +1,2 @@
+INSERT INTO uber_advertising (advertising_channel, customers_acquired, money_spent, year, advertising_channel, customers_acquired, money_spent, year, advertising_channel, customers_acquired, money_spent, year, advertising_channel, customers_acquired, money_spent, year, advertising_channel, customers_acquired, money_spent, year, advertising_channel, customers_acquired, money_spent, year)
+VALUES ('sample_text', 1, 1, 1, 'sample_text', 1, 1, 1, 'sample_text', 1, 1, 1, 'sample_text', 1, 1, 1, 'sample_text', 1, 1, 1, 'sample_text', 1, 1, 1);
