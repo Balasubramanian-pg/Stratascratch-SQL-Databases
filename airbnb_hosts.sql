@@ -1,0 +1,2 @@
+INSERT INTO airbnb_hosts (age, gender, host_id, nationality, age, gender, host_id, nationality, age, gender, host_id, nationality, age, gender, host_id, nationality, age, gender, host_id, nationality)
+VALUES (1, 'sample_text', 1, 'sample_text', 1, 'sample_text', 1, 'sample_text', 1, 'sample_text', 1, 'sample_text', 1, 'sample_text', 1, 'sample_text', 1, 'sample_text', 1, 'sample_text');

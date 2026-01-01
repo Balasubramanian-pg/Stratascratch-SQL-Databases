@@ -1,0 +1,2 @@
+INSERT INTO airbnb_apartments (apartment_id, apartment_type, city, country, host_id, n_bedrooms, n_beds, apartment_id, apartment_type, city, country, host_id, n_bedrooms, n_beds, apartment_id, apartment_type, city, country, host_id, n_bedrooms, n_beds)
+VALUES ('sample_text', 'sample_text', 'sample_text', 'sample_text', 1, 1, 1, 'sample_text', 'sample_text', 'sample_text', 'sample_text', 1, 1, 1, 'sample_text', 'sample_text', 'sample_text', 'sample_text', 1, 1, 1);

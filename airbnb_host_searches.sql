@@ -1,0 +1,2 @@
+INSERT INTO airbnb_host_searches (accommodates, amenities, bathrooms, bed_type, bedrooms, beds, cancellation_policy, city, cleaning_fee, host_identity_verified, host_response_rate, host_since, id, neighbourhood, number_of_reviews, price, property_type, review_scores_rating, room_type, zipcode)
+VALUES (1, 'sample_text', 1, 'sample_text', 1, 1, 'sample_text', 'sample_text', TRUE, 'sample_text', 'sample_text', CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1, 'sample_text', 1, NULL, 'sample_text', NULL, 'sample_text', 1);
