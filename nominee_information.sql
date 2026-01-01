@@ -1,0 +1,2 @@
+INSERT INTO nominee_information (amg_person_id, birthday, id, name, top_genre, amg_person_id, birthday, id, name, top_genre)
+VALUES (NULL, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1, NULL, NULL, NULL, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1, NULL, NULL);

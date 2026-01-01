@@ -1,0 +1,2 @@
+INSERT INTO my_uber_drives (category, end_date, miles, purpose, start, start_date, stop)
+VALUES ('sample_text', CURRENT_TIMESTAMP - (RANDOM() * INTERVAL '30 day'), NULL, 'sample_text', 'sample_text', CURRENT_TIMESTAMP - (RANDOM() * INTERVAL '30 day'), 'sample_text');
