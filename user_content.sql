@@ -1,0 +1,2 @@
+INSERT INTO user_content (content_id, content_text, content_type, customer_id, content_id, content_text, content_type, customer_id)
+VALUES (1, 'sample_text', 'sample_text', 1, 1, 'sample_text', 'sample_text', 1);

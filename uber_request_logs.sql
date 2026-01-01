@@ -1,0 +1,2 @@
+INSERT INTO uber_request_logs (distance_to_travel, driver_to_client_distance, monetary_cost, request_date, request_id, request_status, distance_to_travel, driver_to_client_distance, monetary_cost, request_date, request_id, request_status)
+VALUES (NULL, NULL, NULL, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1, 'sample_text', NULL, NULL, NULL, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1, 'sample_text');

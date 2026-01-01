@@ -1,0 +1,2 @@
+INSERT INTO uber_orders (monetary_value, number_of_orders, order_date, service_name, status_of_order, monetary_value, number_of_orders, order_date, service_name, status_of_order, monetary_value, number_of_orders, order_date, service_name, status_of_order)
+VALUES (NULL, 1, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 'sample_text', 'sample_text', NULL, 1, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 'sample_text', 'sample_text', NULL, 1, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 'sample_text', 'sample_text');

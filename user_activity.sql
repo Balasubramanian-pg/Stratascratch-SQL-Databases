@@ -1,0 +1,2 @@
+INSERT INTO user_activity (device_type, end_timestamp, start_timestamp, time_difference, user_count)
+VALUES ('sample_text', CURRENT_TIMESTAMP - (RANDOM() * INTERVAL '30 day'), CURRENT_TIMESTAMP - (RANDOM() * INTERVAL '30 day'), NULL, 1);
