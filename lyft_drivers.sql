@@ -1,0 +1,2 @@
+INSERT INTO lyft_drivers (end_date, index, start_date, yearly_salary, end_date, index, start_date, yearly_salary, end_date, index, start_date, yearly_salary)
+VALUES (CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1);

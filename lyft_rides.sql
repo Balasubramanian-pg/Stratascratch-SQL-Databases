@@ -1,0 +1,2 @@
+INSERT INTO lyft_rides (gasoline_cost, hour, index, travel_distance, weather, gasoline_cost, hour, index, travel_distance, weather, gasoline_cost, hour, index, travel_distance, weather, gasoline_cost, hour, index, travel_distance, weather)
+VALUES (NULL, 1, 1, NULL, 'sample_text', NULL, 1, 1, NULL, 'sample_text', NULL, 1, 1, NULL, 'sample_text', NULL, 1, 1, NULL, 'sample_text');

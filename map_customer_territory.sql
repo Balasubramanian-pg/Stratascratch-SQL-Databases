@@ -1,0 +1,2 @@
+INSERT INTO map_customer_territory (cust_id, territory_id, cust_id, territory_id, cust_id, territory_id)
+VALUES ('sample_text', 'sample_text', 'sample_text', 'sample_text', 'sample_text', 'sample_text');

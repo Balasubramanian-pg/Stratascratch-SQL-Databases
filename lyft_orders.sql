@@ -1,0 +1,2 @@
+INSERT INTO lyft_orders (city, country, customer_id, driver_id, order_id, city, country, customer_id, driver_id, order_id)
+VALUES ('sample_text', 'sample_text', 'sample_text', 'sample_text', 1, 'sample_text', 'sample_text', 'sample_text', 'sample_text', 1);
