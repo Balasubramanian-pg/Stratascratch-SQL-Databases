@@ -1,0 +1,2 @@
+INSERT INTO amazon_transactions (created_at, id, item, revenue, user_id, created_at, id, item, revenue, user_id)
+VALUES (CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1, 'sample_text', 1, 1, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1, 'sample_text', 1, 1);

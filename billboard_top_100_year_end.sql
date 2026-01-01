@@ -1,0 +1,2 @@
+INSERT INTO billboard_top_100_year_end (artist, group_name, id, song_name, year, year_rank, artist, group_name, id, song_name, year, year_rank, artist, group_name, id, song_name, year, year_rank, artist, group_name, id, song_name, year, year_rank, artist, group_name, id, song_name, year, year_rank)
+VALUES ('sample_text', 'sample_text', 1, 'sample_text', 1, 1, 'sample_text', 'sample_text', 1, 'sample_text', 1, 1, 'sample_text', 'sample_text', 1, 'sample_text', 1, 1, 'sample_text', 'sample_text', 1, 'sample_text', 1, 1, 'sample_text', 'sample_text', 1, 'sample_text', 1, 1);

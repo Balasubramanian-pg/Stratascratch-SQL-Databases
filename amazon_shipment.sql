@@ -1,0 +1,2 @@
+INSERT INTO amazon_shipment (shipment_date, shipment_id, sub_id, weight, shipment_date, shipment_id, sub_id, weight, shipment_date, shipment_id, sub_id, weight, shipment_date, shipment_id, sub_id, weight)
+VALUES (CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1, 1, 1, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1, 1, 1, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1, 1, 1, CURRENT_DATE - (RANDOM() * INTERVAL '30 day'), 1, 1, 1);

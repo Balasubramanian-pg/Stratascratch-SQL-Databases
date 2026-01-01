@@ -1,0 +1,2 @@
+INSERT INTO amazon_support_tickets (customer_satisfaction, department, employee_id, employee_name, resolution_status, resolution_time_minutes, ticket_id, ticket_priority)
+VALUES (NULL, 'sample_text', 'sample_text', 'sample_text', 'sample_text', NULL, 'sample_text', 'sample_text');
