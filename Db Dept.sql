@@ -1,899 +1,301 @@
 INSERT INTO db_dept (department, id)
-VALUES ('last', 1);
-
-INSERT INTO db_dept (department, id)
-VALUES ('type', 2);
-
-INSERT INTO db_dept (department, id)
-VALUES ('science', 3);
-
-INSERT INTO db_dept (department, id)
-VALUES ('common', 4);
-
-INSERT INTO db_dept (department, id)
-VALUES ('whole', 5);
-
-INSERT INTO db_dept (department, id)
-VALUES ('perhaps', 6);
-
-INSERT INTO db_dept (department, id)
-VALUES ('common', 7);
-
-INSERT INTO db_dept (department, id)
-VALUES ('field', 8);
-
-INSERT INTO db_dept (department, id)
-VALUES ('cause', 9);
-
-INSERT INTO db_dept (department, id)
-VALUES ('chance', 10);
-
-INSERT INTO db_dept (department, id)
-VALUES ('main', 11);
-
-INSERT INTO db_dept (department, id)
-VALUES ('trial', 12);
-
-INSERT INTO db_dept (department, id)
-VALUES ('sort', 13);
-
-INSERT INTO db_dept (department, id)
-VALUES ('over', 14);
-
-INSERT INTO db_dept (department, id)
-VALUES ('head', 15);
-
-INSERT INTO db_dept (department, id)
-VALUES ('themselves', 16);
-
-INSERT INTO db_dept (department, id)
-VALUES ('think', 17);
-
-INSERT INTO db_dept (department, id)
-VALUES ('exactly', 18);
-
-INSERT INTO db_dept (department, id)
-VALUES ('else', 19);
-
-INSERT INTO db_dept (department, id)
-VALUES ('detail', 20);
-
-INSERT INTO db_dept (department, id)
-VALUES ('step', 21);
-
-INSERT INTO db_dept (department, id)
-VALUES ('happen', 22);
-
-INSERT INTO db_dept (department, id)
-VALUES ('address', 23);
-
-INSERT INTO db_dept (department, id)
-VALUES ('current', 24);
-
-INSERT INTO db_dept (department, id)
-VALUES ('enter', 25);
-
-INSERT INTO db_dept (department, id)
-VALUES ('executive', 26);
-
-INSERT INTO db_dept (department, id)
-VALUES ('can', 27);
-
-INSERT INTO db_dept (department, id)
-VALUES ('pattern', 28);
-
-INSERT INTO db_dept (department, id)
-VALUES ('board', 29);
-
-INSERT INTO db_dept (department, id)
-VALUES ('identify', 30);
-
-INSERT INTO db_dept (department, id)
-VALUES ('help', 31);
-
-INSERT INTO db_dept (department, id)
-VALUES ('this', 32);
-
-INSERT INTO db_dept (department, id)
-VALUES ('year', 33);
-
-INSERT INTO db_dept (department, id)
-VALUES ('matter', 34);
-
-INSERT INTO db_dept (department, id)
-VALUES ('instead', 35);
-
-INSERT INTO db_dept (department, id)
-VALUES ('discussion', 36);
-
-INSERT INTO db_dept (department, id)
-VALUES ('not', 37);
-
-INSERT INTO db_dept (department, id)
-VALUES ('right', 38);
-
-INSERT INTO db_dept (department, id)
-VALUES ('represent', 39);
-
-INSERT INTO db_dept (department, id)
-VALUES ('buy', 40);
-
-INSERT INTO db_dept (department, id)
-VALUES ('group', 41);
-
-INSERT INTO db_dept (department, id)
-VALUES ('those', 42);
-
-INSERT INTO db_dept (department, id)
-VALUES ('through', 43);
-
-INSERT INTO db_dept (department, id)
-VALUES ('exist', 44);
-
-INSERT INTO db_dept (department, id)
-VALUES ('worker', 45);
-
-INSERT INTO db_dept (department, id)
-VALUES ('quickly', 46);
-
-INSERT INTO db_dept (department, id)
-VALUES ('control', 47);
-
-INSERT INTO db_dept (department, id)
-VALUES ('agree', 48);
-
-INSERT INTO db_dept (department, id)
-VALUES ('anything', 49);
-
-INSERT INTO db_dept (department, id)
-VALUES ('state', 50);
-
-INSERT INTO db_dept (department, id)
-VALUES ('rate', 51);
-
-INSERT INTO db_dept (department, id)
-VALUES ('guy', 52);
-
-INSERT INTO db_dept (department, id)
-VALUES ('see', 53);
-
-INSERT INTO db_dept (department, id)
-VALUES ('past', 54);
-
-INSERT INTO db_dept (department, id)
-VALUES ('herself', 55);
-
-INSERT INTO db_dept (department, id)
-VALUES ('push', 56);
-
-INSERT INTO db_dept (department, id)
-VALUES ('character', 57);
-
-INSERT INTO db_dept (department, id)
-VALUES ('want', 58);
-
-INSERT INTO db_dept (department, id)
-VALUES ('TV', 59);
-
-INSERT INTO db_dept (department, id)
-VALUES ('increase', 60);
-
-INSERT INTO db_dept (department, id)
-VALUES ('Republican', 61);
-
-INSERT INTO db_dept (department, id)
-VALUES ('minute', 62);
-
-INSERT INTO db_dept (department, id)
-VALUES ('theory', 63);
-
-INSERT INTO db_dept (department, id)
-VALUES ('camera', 64);
-
-INSERT INTO db_dept (department, id)
-VALUES ('some', 65);
-
-INSERT INTO db_dept (department, id)
-VALUES ('federal', 66);
-
-INSERT INTO db_dept (department, id)
-VALUES ('entire', 67);
-
-INSERT INTO db_dept (department, id)
-VALUES ('land', 68);
-
-INSERT INTO db_dept (department, id)
-VALUES ('mission', 69);
-
-INSERT INTO db_dept (department, id)
-VALUES ('environment', 70);
-
-INSERT INTO db_dept (department, id)
-VALUES ('sell', 71);
-
-INSERT INTO db_dept (department, id)
-VALUES ('officer', 72);
-
-INSERT INTO db_dept (department, id)
-VALUES ('let', 73);
-
-INSERT INTO db_dept (department, id)
-VALUES ('modern', 74);
-
-INSERT INTO db_dept (department, id)
-VALUES ('military', 75);
-
-INSERT INTO db_dept (department, id)
-VALUES ('company', 76);
-
-INSERT INTO db_dept (department, id)
-VALUES ('many', 77);
-
-INSERT INTO db_dept (department, id)
-VALUES ('eye', 78);
-
-INSERT INTO db_dept (department, id)
-VALUES ('red', 79);
-
-INSERT INTO db_dept (department, id)
-VALUES ('pressure', 80);
-
-INSERT INTO db_dept (department, id)
-VALUES ('whole', 81);
-
-INSERT INTO db_dept (department, id)
-VALUES ('task', 82);
-
-INSERT INTO db_dept (department, id)
-VALUES ('write', 83);
-
-INSERT INTO db_dept (department, id)
-VALUES ('dog', 84);
-
-INSERT INTO db_dept (department, id)
-VALUES ('will', 85);
-
-INSERT INTO db_dept (department, id)
-VALUES ('prepare', 86);
-
-INSERT INTO db_dept (department, id)
-VALUES ('somebody', 87);
-
-INSERT INTO db_dept (department, id)
-VALUES ('matter', 88);
-
-INSERT INTO db_dept (department, id)
-VALUES ('candidate', 89);
-
-INSERT INTO db_dept (department, id)
-VALUES ('interest', 90);
-
-INSERT INTO db_dept (department, id)
-VALUES ('seek', 91);
-
-INSERT INTO db_dept (department, id)
-VALUES ('dinner', 92);
-
-INSERT INTO db_dept (department, id)
-VALUES ('pick', 93);
-
-INSERT INTO db_dept (department, id)
-VALUES ('man', 94);
-
-INSERT INTO db_dept (department, id)
-VALUES ('watch', 95);
-
-INSERT INTO db_dept (department, id)
-VALUES ('current', 96);
-
-INSERT INTO db_dept (department, id)
-VALUES ('never', 97);
-
-INSERT INTO db_dept (department, id)
-VALUES ('avoid', 98);
-
-INSERT INTO db_dept (department, id)
-VALUES ('low', 99);
-
-INSERT INTO db_dept (department, id)
-VALUES ('will', 100);
-
-INSERT INTO db_dept (department, id)
-VALUES ('instead', 101);
-
-INSERT INTO db_dept (department, id)
-VALUES ('real', 102);
-
-INSERT INTO db_dept (department, id)
-VALUES ('usually', 103);
-
-INSERT INTO db_dept (department, id)
-VALUES ('able', 104);
-
-INSERT INTO db_dept (department, id)
-VALUES ('style', 105);
-
-INSERT INTO db_dept (department, id)
-VALUES ('case', 106);
-
-INSERT INTO db_dept (department, id)
-VALUES ('executive', 107);
-
-INSERT INTO db_dept (department, id)
-VALUES ('near', 108);
-
-INSERT INTO db_dept (department, id)
-VALUES ('prepare', 109);
-
-INSERT INTO db_dept (department, id)
-VALUES ('personal', 110);
-
-INSERT INTO db_dept (department, id)
-VALUES ('that', 111);
-
-INSERT INTO db_dept (department, id)
-VALUES ('subject', 112);
-
-INSERT INTO db_dept (department, id)
-VALUES ('ago', 113);
-
-INSERT INTO db_dept (department, id)
-VALUES ('Democrat', 114);
-
-INSERT INTO db_dept (department, id)
-VALUES ('common', 115);
-
-INSERT INTO db_dept (department, id)
-VALUES ('throw', 116);
-
-INSERT INTO db_dept (department, id)
-VALUES ('book', 117);
-
-INSERT INTO db_dept (department, id)
-VALUES ('together', 118);
-
-INSERT INTO db_dept (department, id)
-VALUES ('all', 119);
-
-INSERT INTO db_dept (department, id)
-VALUES ('start', 120);
-
-INSERT INTO db_dept (department, id)
-VALUES ('away', 121);
-
-INSERT INTO db_dept (department, id)
-VALUES ('beautiful', 122);
-
-INSERT INTO db_dept (department, id)
-VALUES ('many', 123);
-
-INSERT INTO db_dept (department, id)
-VALUES ('write', 124);
-
-INSERT INTO db_dept (department, id)
-VALUES ('would', 125);
-
-INSERT INTO db_dept (department, id)
-VALUES ('else', 126);
-
-INSERT INTO db_dept (department, id)
-VALUES ('little', 127);
-
-INSERT INTO db_dept (department, id)
-VALUES ('answer', 128);
-
-INSERT INTO db_dept (department, id)
-VALUES ('office', 129);
-
-INSERT INTO db_dept (department, id)
-VALUES ('game', 130);
-
-INSERT INTO db_dept (department, id)
-VALUES ('already', 131);
-
-INSERT INTO db_dept (department, id)
-VALUES ('pay', 132);
-
-INSERT INTO db_dept (department, id)
-VALUES ('century', 133);
-
-INSERT INTO db_dept (department, id)
-VALUES ('role', 134);
-
-INSERT INTO db_dept (department, id)
-VALUES ('sea', 135);
-
-INSERT INTO db_dept (department, id)
-VALUES ('box', 136);
-
-INSERT INTO db_dept (department, id)
-VALUES ('policy', 137);
-
-INSERT INTO db_dept (department, id)
-VALUES ('executive', 138);
-
-INSERT INTO db_dept (department, id)
-VALUES ('successful', 139);
-
-INSERT INTO db_dept (department, id)
-VALUES ('security', 140);
-
-INSERT INTO db_dept (department, id)
-VALUES ('reveal', 141);
-
-INSERT INTO db_dept (department, id)
-VALUES ('community', 142);
-
-INSERT INTO db_dept (department, id)
-VALUES ('inside', 143);
-
-INSERT INTO db_dept (department, id)
-VALUES ('ready', 144);
-
-INSERT INTO db_dept (department, id)
-VALUES ('my', 145);
-
-INSERT INTO db_dept (department, id)
-VALUES ('hospital', 146);
-
-INSERT INTO db_dept (department, id)
-VALUES ('degree', 147);
-
-INSERT INTO db_dept (department, id)
-VALUES ('drive', 148);
-
-INSERT INTO db_dept (department, id)
-VALUES ('want', 149);
-
-INSERT INTO db_dept (department, id)
-VALUES ('poor', 150);
-
-INSERT INTO db_dept (department, id)
-VALUES ('machine', 151);
-
-INSERT INTO db_dept (department, id)
-VALUES ('on', 152);
-
-INSERT INTO db_dept (department, id)
-VALUES ('bag', 153);
-
-INSERT INTO db_dept (department, id)
-VALUES ('beyond', 154);
-
-INSERT INTO db_dept (department, id)
-VALUES ('above', 155);
-
-INSERT INTO db_dept (department, id)
-VALUES ('and', 156);
-
-INSERT INTO db_dept (department, id)
-VALUES ('expect', 157);
-
-INSERT INTO db_dept (department, id)
-VALUES ('three', 158);
-
-INSERT INTO db_dept (department, id)
-VALUES ('tax', 159);
-
-INSERT INTO db_dept (department, id)
-VALUES ('account', 160);
-
-INSERT INTO db_dept (department, id)
-VALUES ('turn', 161);
-
-INSERT INTO db_dept (department, id)
-VALUES ('remain', 162);
-
-INSERT INTO db_dept (department, id)
-VALUES ('think', 163);
-
-INSERT INTO db_dept (department, id)
-VALUES ('born', 164);
-
-INSERT INTO db_dept (department, id)
-VALUES ('response', 165);
-
-INSERT INTO db_dept (department, id)
-VALUES ('bill', 166);
-
-INSERT INTO db_dept (department, id)
-VALUES ('teach', 167);
-
-INSERT INTO db_dept (department, id)
-VALUES ('its', 168);
-
-INSERT INTO db_dept (department, id)
-VALUES ('current', 169);
-
-INSERT INTO db_dept (department, id)
-VALUES ('major', 170);
-
-INSERT INTO db_dept (department, id)
-VALUES ('begin', 171);
-
-INSERT INTO db_dept (department, id)
-VALUES ('but', 172);
-
-INSERT INTO db_dept (department, id)
-VALUES ('under', 173);
-
-INSERT INTO db_dept (department, id)
-VALUES ('positive', 174);
-
-INSERT INTO db_dept (department, id)
-VALUES ('offer', 175);
-
-INSERT INTO db_dept (department, id)
-VALUES ('around', 176);
-
-INSERT INTO db_dept (department, id)
-VALUES ('young', 177);
-
-INSERT INTO db_dept (department, id)
-VALUES ('kid', 178);
-
-INSERT INTO db_dept (department, id)
-VALUES ('usually', 179);
-
-INSERT INTO db_dept (department, id)
-VALUES ('fight', 180);
-
-INSERT INTO db_dept (department, id)
-VALUES ('American', 181);
-
-INSERT INTO db_dept (department, id)
-VALUES ('study', 182);
-
-INSERT INTO db_dept (department, id)
-VALUES ('born', 183);
-
-INSERT INTO db_dept (department, id)
-VALUES ('put', 184);
-
-INSERT INTO db_dept (department, id)
-VALUES ('compare', 185);
-
-INSERT INTO db_dept (department, id)
-VALUES ('yet', 186);
-
-INSERT INTO db_dept (department, id)
-VALUES ('course', 187);
-
-INSERT INTO db_dept (department, id)
-VALUES ('everybody', 188);
-
-INSERT INTO db_dept (department, id)
-VALUES ('area', 189);
-
-INSERT INTO db_dept (department, id)
-VALUES ('ten', 190);
-
-INSERT INTO db_dept (department, id)
-VALUES ('suggest', 191);
-
-INSERT INTO db_dept (department, id)
-VALUES ('similar', 192);
-
-INSERT INTO db_dept (department, id)
-VALUES ('end', 193);
-
-INSERT INTO db_dept (department, id)
-VALUES ('attack', 194);
-
-INSERT INTO db_dept (department, id)
-VALUES ('remain', 195);
-
-INSERT INTO db_dept (department, id)
-VALUES ('join', 196);
-
-INSERT INTO db_dept (department, id)
-VALUES ('someone', 197);
-
-INSERT INTO db_dept (department, id)
-VALUES ('soon', 198);
-
-INSERT INTO db_dept (department, id)
-VALUES ('guy', 199);
-
-INSERT INTO db_dept (department, id)
-VALUES ('response', 200);
-
-INSERT INTO db_dept (department, id)
-VALUES ('provide', 201);
-
-INSERT INTO db_dept (department, id)
-VALUES ('statement', 202);
-
-INSERT INTO db_dept (department, id)
-VALUES ('new', 203);
-
-INSERT INTO db_dept (department, id)
-VALUES ('trade', 204);
-
-INSERT INTO db_dept (department, id)
-VALUES ('walk', 205);
-
-INSERT INTO db_dept (department, id)
-VALUES ('reason', 206);
-
-INSERT INTO db_dept (department, id)
-VALUES ('behind', 207);
-
-INSERT INTO db_dept (department, id)
-VALUES ('performance', 208);
-
-INSERT INTO db_dept (department, id)
-VALUES ('perform', 209);
-
-INSERT INTO db_dept (department, id)
-VALUES ('success', 210);
-
-INSERT INTO db_dept (department, id)
-VALUES ('sister', 211);
-
-INSERT INTO db_dept (department, id)
-VALUES ('above', 212);
-
-INSERT INTO db_dept (department, id)
-VALUES ('live', 213);
-
-INSERT INTO db_dept (department, id)
-VALUES ('around', 214);
-
-INSERT INTO db_dept (department, id)
-VALUES ('least', 215);
-
-INSERT INTO db_dept (department, id)
-VALUES ('theory', 216);
-
-INSERT INTO db_dept (department, id)
-VALUES ('major', 217);
-
-INSERT INTO db_dept (department, id)
-VALUES ('speech', 218);
-
-INSERT INTO db_dept (department, id)
-VALUES ('bit', 219);
-
-INSERT INTO db_dept (department, id)
-VALUES ('exactly', 220);
-
-INSERT INTO db_dept (department, id)
-VALUES ('program', 221);
-
-INSERT INTO db_dept (department, id)
-VALUES ('history', 222);
-
-INSERT INTO db_dept (department, id)
-VALUES ('close', 223);
-
-INSERT INTO db_dept (department, id)
-VALUES ('gas', 224);
-
-INSERT INTO db_dept (department, id)
-VALUES ('score', 225);
-
-INSERT INTO db_dept (department, id)
-VALUES ('structure', 226);
-
-INSERT INTO db_dept (department, id)
-VALUES ('no', 227);
-
-INSERT INTO db_dept (department, id)
-VALUES ('want', 228);
-
-INSERT INTO db_dept (department, id)
-VALUES ('thus', 229);
-
-INSERT INTO db_dept (department, id)
-VALUES ('smile', 230);
-
-INSERT INTO db_dept (department, id)
-VALUES ('forward', 231);
-
-INSERT INTO db_dept (department, id)
-VALUES ('oil', 232);
-
-INSERT INTO db_dept (department, id)
-VALUES ('build', 233);
-
-INSERT INTO db_dept (department, id)
-VALUES ('cell', 234);
-
-INSERT INTO db_dept (department, id)
-VALUES ('raise', 235);
-
-INSERT INTO db_dept (department, id)
-VALUES ('laugh', 236);
-
-INSERT INTO db_dept (department, id)
-VALUES ('job', 237);
-
-INSERT INTO db_dept (department, id)
-VALUES ('cold', 238);
-
-INSERT INTO db_dept (department, id)
-VALUES ('free', 239);
-
-INSERT INTO db_dept (department, id)
-VALUES ('probably', 240);
-
-INSERT INTO db_dept (department, id)
-VALUES ('happy', 241);
-
-INSERT INTO db_dept (department, id)
-VALUES ('follow', 242);
-
-INSERT INTO db_dept (department, id)
-VALUES ('million', 243);
-
-INSERT INTO db_dept (department, id)
-VALUES ('home', 244);
-
-INSERT INTO db_dept (department, id)
-VALUES ('use', 245);
-
-INSERT INTO db_dept (department, id)
-VALUES ('information', 246);
-
-INSERT INTO db_dept (department, id)
-VALUES ('stage', 247);
-
-INSERT INTO db_dept (department, id)
-VALUES ('charge', 248);
-
-INSERT INTO db_dept (department, id)
-VALUES ('along', 249);
-
-INSERT INTO db_dept (department, id)
-VALUES ('its', 250);
-
-INSERT INTO db_dept (department, id)
-VALUES ('take', 251);
-
-INSERT INTO db_dept (department, id)
-VALUES ('nation', 252);
-
-INSERT INTO db_dept (department, id)
-VALUES ('north', 253);
-
-INSERT INTO db_dept (department, id)
-VALUES ('measure', 254);
-
-INSERT INTO db_dept (department, id)
-VALUES ('middle', 255);
-
-INSERT INTO db_dept (department, id)
-VALUES ('development', 256);
-
-INSERT INTO db_dept (department, id)
-VALUES ('receive', 257);
-
-INSERT INTO db_dept (department, id)
-VALUES ('one', 258);
-
-INSERT INTO db_dept (department, id)
-VALUES ('than', 259);
-
-INSERT INTO db_dept (department, id)
-VALUES ('dark', 260);
-
-INSERT INTO db_dept (department, id)
-VALUES ('source', 261);
-
-INSERT INTO db_dept (department, id)
-VALUES ('whole', 262);
-
-INSERT INTO db_dept (department, id)
-VALUES ('price', 263);
-
-INSERT INTO db_dept (department, id)
-VALUES ('present', 264);
-
-INSERT INTO db_dept (department, id)
-VALUES ('food', 265);
-
-INSERT INTO db_dept (department, id)
-VALUES ('research', 266);
-
-INSERT INTO db_dept (department, id)
-VALUES ('realize', 267);
-
-INSERT INTO db_dept (department, id)
-VALUES ('type', 268);
-
-INSERT INTO db_dept (department, id)
-VALUES ('same', 269);
-
-INSERT INTO db_dept (department, id)
-VALUES ('certain', 270);
-
-INSERT INTO db_dept (department, id)
-VALUES ('early', 271);
-
-INSERT INTO db_dept (department, id)
-VALUES ('animal', 272);
-
-INSERT INTO db_dept (department, id)
-VALUES ('could', 273);
-
-INSERT INTO db_dept (department, id)
-VALUES ('respond', 274);
-
-INSERT INTO db_dept (department, id)
-VALUES ('manage', 275);
-
-INSERT INTO db_dept (department, id)
-VALUES ('company', 276);
-
-INSERT INTO db_dept (department, id)
-VALUES ('history', 277);
-
-INSERT INTO db_dept (department, id)
-VALUES ('each', 278);
-
-INSERT INTO db_dept (department, id)
-VALUES ('human', 279);
-
-INSERT INTO db_dept (department, id)
-VALUES ('involve', 280);
-
-INSERT INTO db_dept (department, id)
-VALUES ('floor', 281);
-
-INSERT INTO db_dept (department, id)
-VALUES ('herself', 282);
-
-INSERT INTO db_dept (department, id)
-VALUES ('offer', 283);
-
-INSERT INTO db_dept (department, id)
-VALUES ('market', 284);
-
-INSERT INTO db_dept (department, id)
-VALUES ('there', 285);
-
-INSERT INTO db_dept (department, id)
-VALUES ('where', 286);
-
-INSERT INTO db_dept (department, id)
-VALUES ('south', 287);
-
-INSERT INTO db_dept (department, id)
-VALUES ('commercial', 288);
-
-INSERT INTO db_dept (department, id)
-VALUES ('body', 289);
-
-INSERT INTO db_dept (department, id)
-VALUES ('experience', 290);
-
-INSERT INTO db_dept (department, id)
-VALUES ('big', 291);
-
-INSERT INTO db_dept (department, id)
-VALUES ('this', 292);
-
-INSERT INTO db_dept (department, id)
-VALUES ('situation', 293);
-
-INSERT INTO db_dept (department, id)
-VALUES ('piece', 294);
-
-INSERT INTO db_dept (department, id)
-VALUES ('break', 295);
-
-INSERT INTO db_dept (department, id)
-VALUES ('voice', 296);
-
-INSERT INTO db_dept (department, id)
-VALUES ('put', 297);
-
-INSERT INTO db_dept (department, id)
-VALUES ('cause', 298);
-
-INSERT INTO db_dept (department, id)
-VALUES ('entire', 299);
-
-INSERT INTO db_dept (department, id)
-VALUES ('hand', 300);
+VALUES ('last', 1,
+('type', 2,
+('science', 3,
+('common', 4,
+('whole', 5,
+('perhaps', 6,
+('common', 7,
+('field', 8,
+('cause', 9,
+('chance', 10,
+('main', 11,
+('trial', 12,
+('sort', 13,
+('over', 14,
+('head', 15,
+('themselves', 16,
+('think', 17,
+('exactly', 18,
+('else', 19,
+('detail', 20,
+('step', 21,
+('happen', 22,
+('address', 23,
+('current', 24,
+('enter', 25,
+('executive', 26,
+('can', 27,
+('pattern', 28,
+('board', 29,
+('identify', 30,
+('help', 31,
+('this', 32,
+('year', 33,
+('matter', 34,
+('instead', 35,
+('discussion', 36,
+('not', 37,
+('right', 38,
+('represent', 39,
+('buy', 40,
+('group', 41,
+('those', 42,
+('through', 43,
+('exist', 44,
+('worker', 45,
+('quickly', 46,
+('control', 47,
+('agree', 48,
+('anything', 49,
+('state', 50,
+('rate', 51,
+('guy', 52,
+('see', 53,
+('past', 54,
+('herself', 55,
+('push', 56,
+('character', 57,
+('want', 58,
+('TV', 59,
+('increase', 60,
+('Republican', 61,
+('minute', 62,
+('theory', 63,
+('camera', 64,
+('some', 65,
+('federal', 66,
+('entire', 67,
+('land', 68,
+('mission', 69,
+('environment', 70,
+('sell', 71,
+('officer', 72,
+('let', 73,
+('modern', 74,
+('military', 75,
+('company', 76,
+('many', 77,
+('eye', 78,
+('red', 79,
+('pressure', 80,
+('whole', 81,
+('task', 82,
+('write', 83,
+('dog', 84,
+('will', 85,
+('prepare', 86,
+('somebody', 87,
+('matter', 88,
+('candidate', 89,
+('interest', 90,
+('seek', 91,
+('dinner', 92,
+('pick', 93,
+('man', 94,
+('watch', 95,
+('current', 96,
+('never', 97,
+('avoid', 98,
+('low', 99,
+('will', 100,
+('instead', 101,
+('real', 102,
+('usually', 103,
+('able', 104,
+('style', 105,
+('case', 106,
+('executive', 107,
+('near', 108,
+('prepare', 109,
+('personal', 110,
+('that', 111,
+('subject', 112,
+('ago', 113,
+('Democrat', 114,
+('common', 115,
+('throw', 116,
+('book', 117,
+('together', 118,
+('all', 119,
+('start', 120,
+('away', 121,
+('beautiful', 122,
+('many', 123,
+('write', 124,
+('would', 125,
+('else', 126,
+('little', 127,
+('answer', 128,
+('office', 129,
+('game', 130,
+('already', 131,
+('pay', 132,
+('century', 133,
+('role', 134,
+('sea', 135,
+('box', 136,
+('policy', 137,
+('executive', 138,
+('successful', 139,
+('security', 140,
+('reveal', 141,
+('community', 142,
+('inside', 143,
+('ready', 144,
+('my', 145,
+('hospital', 146,
+('degree', 147,
+('drive', 148,
+('want', 149,
+('poor', 150,
+('machine', 151,
+('on', 152,
+('bag', 153,
+('beyond', 154,
+('above', 155,
+('and', 156,
+('expect', 157,
+('three', 158,
+('tax', 159,
+('account', 160,
+('turn', 161,
+('remain', 162,
+('think', 163,
+('born', 164,
+('response', 165,
+('bill', 166,
+('teach', 167,
+('its', 168,
+('current', 169,
+('major', 170,
+('begin', 171,
+('but', 172,
+('under', 173,
+('positive', 174,
+('offer', 175,
+('around', 176,
+('young', 177,
+('kid', 178,
+('usually', 179,
+('fight', 180,
+('American', 181,
+('study', 182,
+('born', 183,
+('put', 184,
+('compare', 185,
+('yet', 186,
+('course', 187,
+('everybody', 188,
+('area', 189,
+('ten', 190,
+('suggest', 191,
+('similar', 192,
+('end', 193,
+('attack', 194,
+('remain', 195,
+('join', 196,
+('someone', 197,
+('soon', 198,
+('guy', 199,
+('response', 200,
+('provide', 201,
+('statement', 202,
+('new', 203,
+('trade', 204,
+('walk', 205,
+('reason', 206,
+('behind', 207,
+('performance', 208,
+('perform', 209,
+('success', 210,
+('sister', 211,
+('above', 212,
+('live', 213,
+('around', 214,
+('least', 215,
+('theory', 216,
+('major', 217,
+('speech', 218,
+('bit', 219,
+('exactly', 220,
+('program', 221,
+('history', 222,
+('close', 223,
+('gas', 224,
+('score', 225,
+('structure', 226,
+('no', 227,
+('want', 228,
+('thus', 229,
+('smile', 230,
+('forward', 231,
+('oil', 232,
+('build', 233,
+('cell', 234,
+('raise', 235,
+('laugh', 236,
+('job', 237,
+('cold', 238,
+('free', 239,
+('probably', 240,
+('happy', 241,
+('follow', 242,
+('million', 243,
+('home', 244,
+('use', 245,
+('information', 246,
+('stage', 247,
+('charge', 248,
+('along', 249,
+('its', 250,
+('take', 251,
+('nation', 252,
+('north', 253,
+('measure', 254,
+('middle', 255,
+('development', 256,
+('receive', 257,
+('one', 258,
+('than', 259,
+('dark', 260,
+('source', 261,
+('whole', 262,
+('price', 263,
+('present', 264,
+('food', 265,
+('research', 266,
+('realize', 267,
+('type', 268,
+('same', 269,
+('certain', 270,
+('early', 271,
+('animal', 272,
+('could', 273,
+('respond', 274,
+('manage', 275,
+('company', 276,
+('history', 277,
+('each', 278,
+('human', 279,
+('involve', 280,
+('floor', 281,
+('herself', 282,
+('offer', 283,
+('market', 284,
+('there', 285,
+('where', 286,
+('south', 287,
+('commercial', 288,
+('body', 289,
+('experience', 290,
+('big', 291,
+('this', 292,
+('situation', 293,
+('piece', 294,
+('break', 295,
+('voice', 296,
+('put', 297,
+('cause', 298,
+('entire', 299,
+('hand', 300);
