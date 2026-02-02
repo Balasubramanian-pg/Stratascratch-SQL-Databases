@@ -1,899 +1,301 @@
 INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('son', 'past', 1);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('local', 'fast', 2);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('discover', 'light', 3);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('rock', 'son', 4);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('budget', 'six', 5);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('interest', 'during', 6);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('no', 'capital', 7);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('leg', 'activity', 8);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('here', 'growth', 9);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('hit', 'company', 10);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('determine', 'small', 11);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('use', 'time', 12);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('year', 'head', 13);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('pull', 'PM', 14);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('general', 'office', 15);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('window', 'reveal', 16);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('view', 'time', 17);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('nothing', 'customer', 18);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('or', 'leader', 19);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('charge', 'food', 20);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('crime', 'sure', 21);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('red', 'consumer', 22);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('environmental', 'join', 23);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('lead', 'cut', 24);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('office', 'opportunity', 25);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('present', 'fly', 26);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('whatever', 'leg', 27);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('large', 'follow', 28);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('baby', 'against', 29);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('hospital', 'party', 30);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('candidate', 'arm', 31);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('show', 'our', 32);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('network', 'week', 33);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('answer', 'reality', 34);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('project', 'catch', 35);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('cost', 'picture', 36);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('money', 'likely', 37);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('fine', 'south', 38);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('child', 'society', 39);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('house', 'mention', 40);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('lay', 'participant', 41);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('participant', 'never', 42);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('then', 'media', 43);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('clear', 'own', 44);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('deal', 'he', 45);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('red', 'instead', 46);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('while', 'religious', 47);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('condition', 'idea', 48);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('night', 'magazine', 49);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('possible', 'answer', 50);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('also', 'as', 51);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('speak', 'nothing', 52);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('behind', 'health', 53);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('condition', 'start', 54);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('great', 'price', 55);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('old', 'few', 56);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('option', 'close', 57);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('partner', 'there', 58);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('father', 'lawyer', 59);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('clearly', 'protect', 60);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('cut', 'challenge', 61);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('politics', 'or', 62);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('another', 'should', 63);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('scientist', 'behind', 64);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('in', 'expert', 65);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('suffer', 'cost', 66);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('do', 'long', 67);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('tree', 'store', 68);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('friend', 'say', 69);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('page', 'current', 70);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('cold', 'show', 71);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('enter', 'large', 72);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('sing', 'record', 73);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('so', 'guy', 74);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('then', 'though', 75);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('court', 'leg', 76);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('have', 'himself', 77);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('entire', 'position', 78);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('benefit', 'vote', 79);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('quickly', 'alone', 80);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('know', 'work', 81);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('public', 'watch', 82);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('everything', 'difference', 83);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('measure', 'customer', 84);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('include', 'move', 85);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('author', 'president', 86);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('whom', 'institution', 87);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('may', 'size', 88);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('if', 'for', 89);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('draw', 'data', 90);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('white', 'draw', 91);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('society', 'market', 92);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('feel', 'stop', 93);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('cell', 'when', 94);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('join', 'evidence', 95);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('bit', 'recently', 96);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('establish', 'hospital', 97);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('strategy', 'south', 98);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('natural', 'half', 99);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('improve', 'wrong', 100);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('stand', 'outside', 101);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('soldier', 'different', 102);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('guy', 'south', 103);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('not', 'develop', 104);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('central', 'by', 105);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('about', 'agreement', 106);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('south', 'sit', 107);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('community', 'either', 108);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('nothing', 'leader', 109);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('after', 'more', 110);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('build', 'green', 111);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('hit', 'task', 112);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('clearly', 'policy', 113);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('organization', 'indeed', 114);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('after', 'kitchen', 115);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('use', 'president', 116);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('human', 'pattern', 117);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('raise', 'tend', 118);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('expect', 'blood', 119);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('consider', 'growth', 120);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('usually', 'nearly', 121);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('poor', 'force', 122);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('memory', 'yourself', 123);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('him', 'western', 124);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('next', 'memory', 125);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('southern', 'law', 126);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('final', 'mouth', 127);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('military', 'exactly', 128);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('opportunity', 'member', 129);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('fine', 'national', 130);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('low', 'check', 131);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('rise', 'lawyer', 132);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('generation', 'group', 133);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('tend', 'court', 134);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('impact', 'blood', 135);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('detail', 'with', 136);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('wrong', 'discuss', 137);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('seem', 'teacher', 138);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('happy', 'walk', 139);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('bad', 'million', 140);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('president', 'main', 141);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('address', 'knowledge', 142);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('far', 'build', 143);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('for', 'artist', 144);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('strategy', 'where', 145);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('case', 'could', 146);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('important', 'time', 147);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('result', 'protect', 148);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('boy', 'nor', 149);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('clear', 'cut', 150);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('from', 'thus', 151);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('new', 'respond', 152);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('camera', 'leg', 153);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('everyone', 'able', 154);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('no', 'different', 155);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('question', 'image', 156);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('head', 'kind', 157);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('I', 'wide', 158);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('community', 'guess', 159);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('focus', 'pretty', 160);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('whatever', 'exactly', 161);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('result', 'point', 162);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('center', 'media', 163);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('material', 'sport', 164);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('floor', 'identify', 165);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('child', 'foreign', 166);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('where', 'remember', 167);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('whether', 'hand', 168);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('apply', 'open', 169);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('ago', 'for', 170);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('send', 'little', 171);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('defense', 'drive', 172);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('national', 'imagine', 173);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('scientist', 'human', 174);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('people', 'including', 175);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('main', 'include', 176);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('explain', 'see', 177);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('expert', 'hot', 178);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('expect', 'perform', 179);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('house', 'threat', 180);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('shoulder', 'open', 181);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('can', 'example', 182);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('high', 'language', 183);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('focus', 'push', 184);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('forward', 'true', 185);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('person', 'bring', 186);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('cultural', 'mission', 187);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('city', 'even', 188);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('situation', 'return', 189);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('table', 'understand', 190);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('not', 'politics', 191);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('agent', 'stock', 192);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('election', 'put', 193);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('family', 'natural', 194);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('item', 'work', 195);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('discover', 'fact', 196);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('edge', 'board', 197);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('song', 'court', 198);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('suggest', 'occur', 199);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('best', 'share', 200);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('office', 'wish', 201);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('eat', 'these', 202);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('member', 'both', 203);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('name', 'candidate', 204);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('decide', 'popular', 205);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('those', 'others', 206);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('professor', 'but', 207);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('subject', 'thank', 208);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('would', 'check', 209);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('anyone', 'see', 210);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('give', 'central', 211);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('left', 'yard', 212);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('kind', 'fine', 213);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('later', 'forward', 214);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('a', 'morning', 215);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('understand', 'exactly', 216);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('table', 'shake', 217);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('really', 'loss', 218);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('image', 'forget', 219);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('fast', 'both', 220);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('true', 'rich', 221);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('reason', 'technology', 222);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('few', 'record', 223);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('hold', 'left', 224);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('force', 'card', 225);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('hold', 'according', 226);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('happen', 'rule', 227);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('skin', 'available', 228);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('night', 'machine', 229);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('and', 'notice', 230);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('eat', 'want', 231);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('attorney', 'break', 232);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('from', 'admit', 233);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('official', 'some', 234);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('surface', 'short', 235);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('policy', 'always', 236);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('include', 'strong', 237);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('democratic', 'house', 238);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('attention', 'perhaps', 239);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('memory', 'where', 240);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('fine', 'here', 241);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('stay', 'kid', 242);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('notice', 'against', 243);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('major', 'magazine', 244);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('surface', 'avoid', 245);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('spend', 'easy', 246);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('factor', 'away', 247);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('million', 'court', 248);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('whose', 'home', 249);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('put', 'start', 250);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('next', 'her', 251);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('drop', 'former', 252);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('remember', 'red', 253);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('choose', 'product', 254);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('range', 'fact', 255);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('agreement', 'as', 256);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('but', 'significant', 257);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('unit', 'same', 258);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('section', 'picture', 259);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('stand', 'continue', 260);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('stuff', 'public', 261);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('cause', 'help', 262);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('computer', 'hot', 263);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('hospital', 'teach', 264);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('here', 'or', 265);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('clear', 'art', 266);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('usually', 'glass', 267);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('candidate', 'worker', 268);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('see', 'change', 269);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('trade', 'general', 270);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('civil', 'staff', 271);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('talk', 'oil', 272);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('none', 'office', 273);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('sing', 'road', 274);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('window', 'grow', 275);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('form', 'fly', 276);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('involve', 'mouth', 277);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('production', 'ago', 278);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('yard', 'expert', 279);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('mention', 'wish', 280);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('occur', 'Mr', 281);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('control', 'method', 282);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('crime', 'ok', 283);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('bit', 'ok', 284);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('under', 'arm', 285);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('board', 'he', 286);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('medical', 'enjoy', 287);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('surface', 'computer', 288);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('two', 'hot', 289);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('only', 'apply', 290);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('decade', 'nice', 291);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('collection', 'thing', 292);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('listen', 'weight', 293);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('per', 'message', 294);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('majority', 'result', 295);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('dream', 'top', 296);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('role', 'toward', 297);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('crime', 'wife', 298);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('dinner', 'senior', 299);
-
-INSERT INTO wfm_stores (location, store_brand, store_id)
-VALUES ('plant', 'manager', 300);
+VALUES ('son', 'past', 1,
+('local', 'fast', 2,
+('discover', 'light', 3,
+('rock', 'son', 4,
+('budget', 'six', 5,
+('interest', 'during', 6,
+('no', 'capital', 7,
+('leg', 'activity', 8,
+('here', 'growth', 9,
+('hit', 'company', 10,
+('determine', 'small', 11,
+('use', 'time', 12,
+('year', 'head', 13,
+('pull', 'PM', 14,
+('general', 'office', 15,
+('window', 'reveal', 16,
+('view', 'time', 17,
+('nothing', 'customer', 18,
+('or', 'leader', 19,
+('charge', 'food', 20,
+('crime', 'sure', 21,
+('red', 'consumer', 22,
+('environmental', 'join', 23,
+('lead', 'cut', 24,
+('office', 'opportunity', 25,
+('present', 'fly', 26,
+('whatever', 'leg', 27,
+('large', 'follow', 28,
+('baby', 'against', 29,
+('hospital', 'party', 30,
+('candidate', 'arm', 31,
+('show', 'our', 32,
+('network', 'week', 33,
+('answer', 'reality', 34,
+('project', 'catch', 35,
+('cost', 'picture', 36,
+('money', 'likely', 37,
+('fine', 'south', 38,
+('child', 'society', 39,
+('house', 'mention', 40,
+('lay', 'participant', 41,
+('participant', 'never', 42,
+('then', 'media', 43,
+('clear', 'own', 44,
+('deal', 'he', 45,
+('red', 'instead', 46,
+('while', 'religious', 47,
+('condition', 'idea', 48,
+('night', 'magazine', 49,
+('possible', 'answer', 50,
+('also', 'as', 51,
+('speak', 'nothing', 52,
+('behind', 'health', 53,
+('condition', 'start', 54,
+('great', 'price', 55,
+('old', 'few', 56,
+('option', 'close', 57,
+('partner', 'there', 58,
+('father', 'lawyer', 59,
+('clearly', 'protect', 60,
+('cut', 'challenge', 61,
+('politics', 'or', 62,
+('another', 'should', 63,
+('scientist', 'behind', 64,
+('in', 'expert', 65,
+('suffer', 'cost', 66,
+('do', 'long', 67,
+('tree', 'store', 68,
+('friend', 'say', 69,
+('page', 'current', 70,
+('cold', 'show', 71,
+('enter', 'large', 72,
+('sing', 'record', 73,
+('so', 'guy', 74,
+('then', 'though', 75,
+('court', 'leg', 76,
+('have', 'himself', 77,
+('entire', 'position', 78,
+('benefit', 'vote', 79,
+('quickly', 'alone', 80,
+('know', 'work', 81,
+('public', 'watch', 82,
+('everything', 'difference', 83,
+('measure', 'customer', 84,
+('include', 'move', 85,
+('author', 'president', 86,
+('whom', 'institution', 87,
+('may', 'size', 88,
+('if', 'for', 89,
+('draw', 'data', 90,
+('white', 'draw', 91,
+('society', 'market', 92,
+('feel', 'stop', 93,
+('cell', 'when', 94,
+('join', 'evidence', 95,
+('bit', 'recently', 96,
+('establish', 'hospital', 97,
+('strategy', 'south', 98,
+('natural', 'half', 99,
+('improve', 'wrong', 100,
+('stand', 'outside', 101,
+('soldier', 'different', 102,
+('guy', 'south', 103,
+('not', 'develop', 104,
+('central', 'by', 105,
+('about', 'agreement', 106,
+('south', 'sit', 107,
+('community', 'either', 108,
+('nothing', 'leader', 109,
+('after', 'more', 110,
+('build', 'green', 111,
+('hit', 'task', 112,
+('clearly', 'policy', 113,
+('organization', 'indeed', 114,
+('after', 'kitchen', 115,
+('use', 'president', 116,
+('human', 'pattern', 117,
+('raise', 'tend', 118,
+('expect', 'blood', 119,
+('consider', 'growth', 120,
+('usually', 'nearly', 121,
+('poor', 'force', 122,
+('memory', 'yourself', 123,
+('him', 'western', 124,
+('next', 'memory', 125,
+('southern', 'law', 126,
+('final', 'mouth', 127,
+('military', 'exactly', 128,
+('opportunity', 'member', 129,
+('fine', 'national', 130,
+('low', 'check', 131,
+('rise', 'lawyer', 132,
+('generation', 'group', 133,
+('tend', 'court', 134,
+('impact', 'blood', 135,
+('detail', 'with', 136,
+('wrong', 'discuss', 137,
+('seem', 'teacher', 138,
+('happy', 'walk', 139,
+('bad', 'million', 140,
+('president', 'main', 141,
+('address', 'knowledge', 142,
+('far', 'build', 143,
+('for', 'artist', 144,
+('strategy', 'where', 145,
+('case', 'could', 146,
+('important', 'time', 147,
+('result', 'protect', 148,
+('boy', 'nor', 149,
+('clear', 'cut', 150,
+('from', 'thus', 151,
+('new', 'respond', 152,
+('camera', 'leg', 153,
+('everyone', 'able', 154,
+('no', 'different', 155,
+('question', 'image', 156,
+('head', 'kind', 157,
+('I', 'wide', 158,
+('community', 'guess', 159,
+('focus', 'pretty', 160,
+('whatever', 'exactly', 161,
+('result', 'point', 162,
+('center', 'media', 163,
+('material', 'sport', 164,
+('floor', 'identify', 165,
+('child', 'foreign', 166,
+('where', 'remember', 167,
+('whether', 'hand', 168,
+('apply', 'open', 169,
+('ago', 'for', 170,
+('send', 'little', 171,
+('defense', 'drive', 172,
+('national', 'imagine', 173,
+('scientist', 'human', 174,
+('people', 'including', 175,
+('main', 'include', 176,
+('explain', 'see', 177,
+('expert', 'hot', 178,
+('expect', 'perform', 179,
+('house', 'threat', 180,
+('shoulder', 'open', 181,
+('can', 'example', 182,
+('high', 'language', 183,
+('focus', 'push', 184,
+('forward', 'true', 185,
+('person', 'bring', 186,
+('cultural', 'mission', 187,
+('city', 'even', 188,
+('situation', 'return', 189,
+('table', 'understand', 190,
+('not', 'politics', 191,
+('agent', 'stock', 192,
+('election', 'put', 193,
+('family', 'natural', 194,
+('item', 'work', 195,
+('discover', 'fact', 196,
+('edge', 'board', 197,
+('song', 'court', 198,
+('suggest', 'occur', 199,
+('best', 'share', 200,
+('office', 'wish', 201,
+('eat', 'these', 202,
+('member', 'both', 203,
+('name', 'candidate', 204,
+('decide', 'popular', 205,
+('those', 'others', 206,
+('professor', 'but', 207,
+('subject', 'thank', 208,
+('would', 'check', 209,
+('anyone', 'see', 210,
+('give', 'central', 211,
+('left', 'yard', 212,
+('kind', 'fine', 213,
+('later', 'forward', 214,
+('a', 'morning', 215,
+('understand', 'exactly', 216,
+('table', 'shake', 217,
+('really', 'loss', 218,
+('image', 'forget', 219,
+('fast', 'both', 220,
+('true', 'rich', 221,
+('reason', 'technology', 222,
+('few', 'record', 223,
+('hold', 'left', 224,
+('force', 'card', 225,
+('hold', 'according', 226,
+('happen', 'rule', 227,
+('skin', 'available', 228,
+('night', 'machine', 229,
+('and', 'notice', 230,
+('eat', 'want', 231,
+('attorney', 'break', 232,
+('from', 'admit', 233,
+('official', 'some', 234,
+('surface', 'short', 235,
+('policy', 'always', 236,
+('include', 'strong', 237,
+('democratic', 'house', 238,
+('attention', 'perhaps', 239,
+('memory', 'where', 240,
+('fine', 'here', 241,
+('stay', 'kid', 242,
+('notice', 'against', 243,
+('major', 'magazine', 244,
+('surface', 'avoid', 245,
+('spend', 'easy', 246,
+('factor', 'away', 247,
+('million', 'court', 248,
+('whose', 'home', 249,
+('put', 'start', 250,
+('next', 'her', 251,
+('drop', 'former', 252,
+('remember', 'red', 253,
+('choose', 'product', 254,
+('range', 'fact', 255,
+('agreement', 'as', 256,
+('but', 'significant', 257,
+('unit', 'same', 258,
+('section', 'picture', 259,
+('stand', 'continue', 260,
+('stuff', 'public', 261,
+('cause', 'help', 262,
+('computer', 'hot', 263,
+('hospital', 'teach', 264,
+('here', 'or', 265,
+('clear', 'art', 266,
+('usually', 'glass', 267,
+('candidate', 'worker', 268,
+('see', 'change', 269,
+('trade', 'general', 270,
+('civil', 'staff', 271,
+('talk', 'oil', 272,
+('none', 'office', 273,
+('sing', 'road', 274,
+('window', 'grow', 275,
+('form', 'fly', 276,
+('involve', 'mouth', 277,
+('production', 'ago', 278,
+('yard', 'expert', 279,
+('mention', 'wish', 280,
+('occur', 'Mr', 281,
+('control', 'method', 282,
+('crime', 'ok', 283,
+('bit', 'ok', 284,
+('under', 'arm', 285,
+('board', 'he', 286,
+('medical', 'enjoy', 287,
+('surface', 'computer', 288,
+('two', 'hot', 289,
+('only', 'apply', 290,
+('decade', 'nice', 291,
+('collection', 'thing', 292,
+('listen', 'weight', 293,
+('per', 'message', 294,
+('majority', 'result', 295,
+('dream', 'top', 296,
+('role', 'toward', 297,
+('crime', 'wife', 298,
+('dinner', 'senior', 299,
+('plant', 'manager', 300);
