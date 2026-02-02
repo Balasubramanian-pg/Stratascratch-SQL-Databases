@@ -1,899 +1,301 @@
 INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (1, 'indicate');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (2, 'PM');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (3, 'actually');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (4, 'sea');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (5, 'easy');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (6, 'suffer');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (7, 'house');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (8, 'morning');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (9, 'east');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (10, 'each');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (11, 'price');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (12, 'sport');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (13, 'beyond');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (14, 'fill');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (15, 'even');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (16, 'hotel');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (17, 'join');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (18, 'ability');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (19, 'the');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (20, 'follow');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (21, 'until');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (22, 'institution');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (23, 'voice');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (24, 'reach');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (25, 'fact');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (26, 'support');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (27, 'only');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (28, 'claim');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (29, 'among');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (30, 'song');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (31, 'old');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (32, 'huge');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (33, 'quite');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (34, 'each');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (35, 'message');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (36, 'large');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (37, 'shoulder');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (38, 'cover');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (39, 'agreement');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (40, 'accept');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (41, 'pick');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (42, 'year');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (43, 'fast');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (44, 'indeed');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (45, 'ability');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (46, 'indeed');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (47, 'recognize');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (48, 'guess');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (49, 'possible');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (50, 'experience');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (51, 'here');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (52, 'certainly');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (53, 'whether');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (54, 'include');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (55, 'music');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (56, 'popular');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (57, 'answer');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (58, 'notice');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (59, 'bit');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (60, 'window');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (61, 'drop');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (62, 'middle');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (63, 'some');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (64, 'suddenly');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (65, 'music');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (66, 'test');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (67, 'few');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (68, 'any');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (69, 'back');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (70, 'nation');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (71, 'economy');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (72, 'world');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (73, 'tough');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (74, 'leader');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (75, 'including');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (76, 'race');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (77, 'care');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (78, 'store');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (79, 'live');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (80, 'store');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (81, 'majority');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (82, 'whatever');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (83, 'than');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (84, 'country');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (85, 'accept');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (86, 'peace');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (87, 'party');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (88, 'agreement');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (89, 'week');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (90, 'dark');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (91, 'common');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (92, 'then');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (93, 'crime');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (94, 'cell');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (95, 'recent');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (96, 'report');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (97, 'try');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (98, 'grow');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (99, 'red');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (100, 'set');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (101, 'personal');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (102, 'laugh');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (103, 'beat');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (104, 'open');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (105, 'together');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (106, 'cold');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (107, 'plant');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (108, 'among');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (109, 'car');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (110, 'community');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (111, 'reveal');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (112, 'society');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (113, 'brother');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (114, 'financial');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (115, 'positive');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (116, 'deep');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (117, 'debate');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (118, 'than');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (119, 'film');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (120, 'town');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (121, 'almost');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (122, 'a');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (123, 'section');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (124, 'boy');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (125, 'five');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (126, 'water');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (127, 'amount');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (128, 'drop');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (129, 'country');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (130, 'town');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (131, 'state');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (132, 'tax');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (133, 'own');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (134, 'science');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (135, 'change');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (136, 'watch');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (137, 'drop');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (138, 'where');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (139, 'under');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (140, 'would');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (141, 'owner');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (142, 'including');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (143, 'most');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (144, 'hand');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (145, 'beyond');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (146, 'use');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (147, 'inside');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (148, 'expert');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (149, 'as');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (150, 'wonder');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (151, 'somebody');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (152, 'firm');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (153, 'happen');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (154, 'entire');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (155, 'capital');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (156, 'doctor');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (157, 'run');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (158, 'face');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (159, 'be');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (160, 'business');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (161, 'rather');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (162, 'field');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (163, 'serious');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (164, 'possible');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (165, 'tonight');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (166, 'reality');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (167, 'few');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (168, 'lawyer');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (169, 'level');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (170, 'father');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (171, 'camera');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (172, 'finally');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (173, 'young');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (174, 'wide');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (175, 'happen');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (176, 'explain');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (177, 'along');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (178, 'happen');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (179, 'commercial');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (180, 'fact');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (181, 'nothing');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (182, 'expert');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (183, 'positive');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (184, 'your');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (185, 'chance');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (186, 'matter');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (187, 'beat');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (188, 'science');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (189, 'his');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (190, 'dog');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (191, 'rock');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (192, 'red');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (193, 'us');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (194, 'several');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (195, 'miss');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (196, 'once');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (197, 'political');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (198, 'better');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (199, 'should');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (200, 'sort');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (201, 'property');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (202, 'only');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (203, 'ask');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (204, 'exactly');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (205, 'yard');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (206, 'artist');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (207, 'generation');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (208, 'program');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (209, 'sure');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (210, 'think');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (211, 'fight');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (212, 'morning');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (213, 'light');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (214, 'season');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (215, 'major');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (216, 'risk');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (217, 'many');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (218, 'executive');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (219, 'method');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (220, 'every');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (221, 'take');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (222, 'than');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (223, 'concern');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (224, 'human');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (225, 'check');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (226, 'method');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (227, 'sure');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (228, 'always');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (229, 'answer');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (230, 'interview');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (231, 'individual');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (232, 'on');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (233, 'where');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (234, 'career');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (235, 'style');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (236, 'trouble');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (237, 'stay');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (238, 'real');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (239, 'end');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (240, 'region');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (241, 'just');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (242, 'experience');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (243, 'scene');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (244, 'project');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (245, 'try');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (246, 'goal');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (247, 'white');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (248, 'fly');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (249, 'have');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (250, 'until');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (251, 'western');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (252, 'matter');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (253, 'face');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (254, 'knowledge');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (255, 'agree');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (256, 'conference');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (257, 'role');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (258, 'authority');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (259, 'medical');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (260, 'factor');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (261, 'this');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (262, 'law');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (263, 'throw');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (264, 'job');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (265, 'my');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (266, 'shake');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (267, 'rate');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (268, 'ten');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (269, 'risk');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (270, 'policy');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (271, 'on');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (272, 'position');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (273, 'though');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (274, 'hit');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (275, 'pattern');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (276, 'tend');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (277, 'moment');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (278, 'become');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (279, 'hour');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (280, 'leave');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (281, 'gas');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (282, 'international');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (283, 'camera');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (284, 'court');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (285, 'someone');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (286, 'audience');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (287, 'sound');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (288, 'success');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (289, 'week');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (290, 'view');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (291, 'debate');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (292, 'front');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (293, 'development');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (294, 'professional');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (295, 'admit');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (296, 'create');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (297, 'care');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (298, 'my');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (299, 'this');
-
-INSERT INTO customer_purchase (customer_id, total_purchase_value)
-VALUES (300, 'discussion');
+VALUES (1, 'indicate',
+(2, 'PM',
+(3, 'actually',
+(4, 'sea',
+(5, 'easy',
+(6, 'suffer',
+(7, 'house',
+(8, 'morning',
+(9, 'east',
+(10, 'each',
+(11, 'price',
+(12, 'sport',
+(13, 'beyond',
+(14, 'fill',
+(15, 'even',
+(16, 'hotel',
+(17, 'join',
+(18, 'ability',
+(19, 'the',
+(20, 'follow',
+(21, 'until',
+(22, 'institution',
+(23, 'voice',
+(24, 'reach',
+(25, 'fact',
+(26, 'support',
+(27, 'only',
+(28, 'claim',
+(29, 'among',
+(30, 'song',
+(31, 'old',
+(32, 'huge',
+(33, 'quite',
+(34, 'each',
+(35, 'message',
+(36, 'large',
+(37, 'shoulder',
+(38, 'cover',
+(39, 'agreement',
+(40, 'accept',
+(41, 'pick',
+(42, 'year',
+(43, 'fast',
+(44, 'indeed',
+(45, 'ability',
+(46, 'indeed',
+(47, 'recognize',
+(48, 'guess',
+(49, 'possible',
+(50, 'experience',
+(51, 'here',
+(52, 'certainly',
+(53, 'whether',
+(54, 'include',
+(55, 'music',
+(56, 'popular',
+(57, 'answer',
+(58, 'notice',
+(59, 'bit',
+(60, 'window',
+(61, 'drop',
+(62, 'middle',
+(63, 'some',
+(64, 'suddenly',
+(65, 'music',
+(66, 'test',
+(67, 'few',
+(68, 'any',
+(69, 'back',
+(70, 'nation',
+(71, 'economy',
+(72, 'world',
+(73, 'tough',
+(74, 'leader',
+(75, 'including',
+(76, 'race',
+(77, 'care',
+(78, 'store',
+(79, 'live',
+(80, 'store',
+(81, 'majority',
+(82, 'whatever',
+(83, 'than',
+(84, 'country',
+(85, 'accept',
+(86, 'peace',
+(87, 'party',
+(88, 'agreement',
+(89, 'week',
+(90, 'dark',
+(91, 'common',
+(92, 'then',
+(93, 'crime',
+(94, 'cell',
+(95, 'recent',
+(96, 'report',
+(97, 'try',
+(98, 'grow',
+(99, 'red',
+(100, 'set',
+(101, 'personal',
+(102, 'laugh',
+(103, 'beat',
+(104, 'open',
+(105, 'together',
+(106, 'cold',
+(107, 'plant',
+(108, 'among',
+(109, 'car',
+(110, 'community',
+(111, 'reveal',
+(112, 'society',
+(113, 'brother',
+(114, 'financial',
+(115, 'positive',
+(116, 'deep',
+(117, 'debate',
+(118, 'than',
+(119, 'film',
+(120, 'town',
+(121, 'almost',
+(122, 'a',
+(123, 'section',
+(124, 'boy',
+(125, 'five',
+(126, 'water',
+(127, 'amount',
+(128, 'drop',
+(129, 'country',
+(130, 'town',
+(131, 'state',
+(132, 'tax',
+(133, 'own',
+(134, 'science',
+(135, 'change',
+(136, 'watch',
+(137, 'drop',
+(138, 'where',
+(139, 'under',
+(140, 'would',
+(141, 'owner',
+(142, 'including',
+(143, 'most',
+(144, 'hand',
+(145, 'beyond',
+(146, 'use',
+(147, 'inside',
+(148, 'expert',
+(149, 'as',
+(150, 'wonder',
+(151, 'somebody',
+(152, 'firm',
+(153, 'happen',
+(154, 'entire',
+(155, 'capital',
+(156, 'doctor',
+(157, 'run',
+(158, 'face',
+(159, 'be',
+(160, 'business',
+(161, 'rather',
+(162, 'field',
+(163, 'serious',
+(164, 'possible',
+(165, 'tonight',
+(166, 'reality',
+(167, 'few',
+(168, 'lawyer',
+(169, 'level',
+(170, 'father',
+(171, 'camera',
+(172, 'finally',
+(173, 'young',
+(174, 'wide',
+(175, 'happen',
+(176, 'explain',
+(177, 'along',
+(178, 'happen',
+(179, 'commercial',
+(180, 'fact',
+(181, 'nothing',
+(182, 'expert',
+(183, 'positive',
+(184, 'your',
+(185, 'chance',
+(186, 'matter',
+(187, 'beat',
+(188, 'science',
+(189, 'his',
+(190, 'dog',
+(191, 'rock',
+(192, 'red',
+(193, 'us',
+(194, 'several',
+(195, 'miss',
+(196, 'once',
+(197, 'political',
+(198, 'better',
+(199, 'should',
+(200, 'sort',
+(201, 'property',
+(202, 'only',
+(203, 'ask',
+(204, 'exactly',
+(205, 'yard',
+(206, 'artist',
+(207, 'generation',
+(208, 'program',
+(209, 'sure',
+(210, 'think',
+(211, 'fight',
+(212, 'morning',
+(213, 'light',
+(214, 'season',
+(215, 'major',
+(216, 'risk',
+(217, 'many',
+(218, 'executive',
+(219, 'method',
+(220, 'every',
+(221, 'take',
+(222, 'than',
+(223, 'concern',
+(224, 'human',
+(225, 'check',
+(226, 'method',
+(227, 'sure',
+(228, 'always',
+(229, 'answer',
+(230, 'interview',
+(231, 'individual',
+(232, 'on',
+(233, 'where',
+(234, 'career',
+(235, 'style',
+(236, 'trouble',
+(237, 'stay',
+(238, 'real',
+(239, 'end',
+(240, 'region',
+(241, 'just',
+(242, 'experience',
+(243, 'scene',
+(244, 'project',
+(245, 'try',
+(246, 'goal',
+(247, 'white',
+(248, 'fly',
+(249, 'have',
+(250, 'until',
+(251, 'western',
+(252, 'matter',
+(253, 'face',
+(254, 'knowledge',
+(255, 'agree',
+(256, 'conference',
+(257, 'role',
+(258, 'authority',
+(259, 'medical',
+(260, 'factor',
+(261, 'this',
+(262, 'law',
+(263, 'throw',
+(264, 'job',
+(265, 'my',
+(266, 'shake',
+(267, 'rate',
+(268, 'ten',
+(269, 'risk',
+(270, 'policy',
+(271, 'on',
+(272, 'position',
+(273, 'though',
+(274, 'hit',
+(275, 'pattern',
+(276, 'tend',
+(277, 'moment',
+(278, 'become',
+(279, 'hour',
+(280, 'leave',
+(281, 'gas',
+(282, 'international',
+(283, 'camera',
+(284, 'court',
+(285, 'someone',
+(286, 'audience',
+(287, 'sound',
+(288, 'success',
+(289, 'week',
+(290, 'view',
+(291, 'debate',
+(292, 'front',
+(293, 'development',
+(294, 'professional',
+(295, 'admit',
+(296, 'create',
+(297, 'care',
+(298, 'my',
+(299, 'this',
+(300, 'discussion');
