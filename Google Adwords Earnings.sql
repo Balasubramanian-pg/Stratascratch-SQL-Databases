@@ -1,899 +1,301 @@
 INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('discuss', 'Mallory Lopez', 'increase', 'have', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('hope', 'Kevin Peterson', 'area', 'weight', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('arm', 'Elizabeth Hill', 'information', 'once', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('condition', 'Debra Joseph', 'meeting', 'book', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('night', 'Jonathan Cook', 'market', 'benefit', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('back', 'Jennifer Reyes', 'condition', 'describe', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('either', 'Jonathon Smith', 'model', 'often', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('child', 'Jessica Johnson', 'without', 'language', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('last', 'Michael Matthews', 'white', 'follow', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('choose', 'Adam Morris', 'quickly', 'back', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('PM', 'Jonathan Brown', 'role', 'chance', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('job', 'Ronald Juarez', 'understand', 'line', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('again', 'Alex Steele PhD', 'world', 'model', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('media', 'Dawn Gardner', 'do', 'key', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('once', 'Marilyn Spears', 'hold', 'investment', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('science', 'Ashley Berry', 'firm', 'model', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('represent', 'Scott Taylor', 'identify', 'least', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('option', 'Whitney Bryant', 'spend', 'measure', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('field', 'Jeffrey Gonzalez', 'decision', 'raise', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('resource', 'Kathleen Jackson', 'realize', 'statement', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('though', 'Jessica Christian', 'car', 'him', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('could', 'Kristine Weaver', 'record', 'seem', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('this', 'Mary Mccann', 'culture', 'ahead', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('once', 'Oscar Vargas', 'accept', 'speak', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('cold', 'Jason Hoffman', 'space', 'begin', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('main', 'David Bush', 'environment', 'nor', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('opportunity', 'Maria Watson', 'former', 'senior', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('lose', 'Brian Edwards', 'keep', 'likely', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('tax', 'Robert Gilbert', 'good', 'simply', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('air', 'Kristen Arnold', 'relationship', 'free', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('clear', 'William Ramsey', 'receive', 'city', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('particularly', 'Mark Cruz', 'partner', 'trade', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('long', 'Brittany Parker', 'on', 'affect', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('from', 'Scott Guerrero', 'fire', 'any', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('day', 'Kenneth Brown', 'work', 'peace', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('what', 'Robert Johnson', 'fine', 'bank', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('the', 'Steven Johnson', 'add', 'receive', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('follow', 'Jamie Wilkerson', 'five', 'movement', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('all', 'Colin Anderson', 'still', 'really', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('whether', 'Dr. Carla York', 'either', 'close', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('new', 'Timothy Pratt', 'food', 'campaign', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('lead', 'Molly Nelson', 'probably', 'word', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('along', 'Lauren Pierce', 'detail', 'entire', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('doctor', 'Crystal Guerrero', 'at', 'while', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('morning', 'Kristy Allen', 'participant', 'cut', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('hand', 'Caleb Walton', 'finish', 'standard', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('site', 'Ricardo Reyes', 'pattern', 'someone', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('me', 'Dr. Thomas Ward', 'yard', 'send', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('system', 'Stephanie Dunn', 'hotel', 'relate', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('commercial', 'Kevin Diaz', 'appear', 'arrive', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('western', 'Kristin Diaz', 'or', 'discuss', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('much', 'Alicia Hansen', 'hundred', 'fact', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('surface', 'Robert Foster MD', 'give', 'anyone', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('example', 'Chad Anderson', 'movie', 'call', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('focus', 'Morgan Peters', 'authority', 'must', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('speak', 'Justin Moran', 'production', 'audience', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('positive', 'Blake Austin', 'identify', 'senior', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('former', 'Courtney Rodriguez', 'early', 'lose', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('one', 'Donald Becker', 'why', 'bad', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('letter', 'Donald Carter', 'instead', 'present', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('hair', 'Matthew Long', 'population', 'Republican', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('young', 'John Smith', 'wife', 'will', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('assume', 'Brenda Escobar', 'these', 'impact', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('power', 'Angela Oliver', 'group', 'far', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('there', 'Christopher Perez', 'buy', 'no', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('report', 'Derrick Edwards', 'past', 'which', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('plan', 'Jose Curtis', 'whose', 'key', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('record', 'Alexandria Mullins', 'window', 'enter', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('song', 'Brian Campos', 'whether', 'low', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('against', 'Daniel Baker', 'space', 'fly', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('response', 'Ashley Bell', 'rock', 'watch', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('stay', 'Dr. Amber Dixon', 'film', 'city', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('several', 'Catherine Miles', 'place', 'political', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('compare', 'Darren Palmer', 'effort', 'change', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('participant', 'Jay Rogers', 'detail', 'clearly', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('describe', 'Kenneth Jones', 'respond', 'west', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('before', 'Tricia Wilson', 'again', 'attorney', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('join', 'Ann Barker', 'language', 'design', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('sometimes', 'Miguel Jackson', 'my', 'pass', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('center', 'Joseph Coleman', 'apply', 'analysis', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('relate', 'Leroy Ray', 'rise', 'might', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('attorney', 'Adam Hernandez', 'matter', 'better', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('increase', 'Cynthia Stewart', 'in', 'away', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('list', 'Kelsey Walker', 'sing', 'here', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('music', 'Denise Morales', 'responsibility', 'hour', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('actually', 'Eric Thomas', 'finally', 'probably', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('help', 'Laura Baker', 'travel', 'on', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('guess', 'Daniel Diaz', 'news', 'pick', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('degree', 'Abigail George', 'nation', 'a', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('somebody', 'Sean Monroe', 'science', 'long', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('model', 'Kevin Kennedy', 'system', 'choice', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('which', 'Dennis Morrow', 'today', 'carry', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('after', 'Jacqueline Brown', 'off', 'language', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('seem', 'Lisa Washington', 'movie', 'war', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('nearly', 'Richard Lee', 'new', 'marriage', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('stand', 'Brian Turner', 'prove', 'away', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('audience', 'Wanda Pugh', 'those', 'power', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('indicate', 'Michael Alvarado', 'enjoy', 'song', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('partner', 'Cindy Fowler', 'plan', 'low', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('medical', 'Robert Howell', 'give', 'campaign', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('since', 'Vernon Miller', 'common', 'kitchen', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('talk', 'Patricia Day', 'break', 'feeling', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('question', 'Perry Callahan', 'imagine', 'know', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('officer', 'Ann Dominguez', 'game', 'environmental', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('amount', 'Corey Greene', 'mean', 'value', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('medical', 'Lisa Rojas', 'meet', 'skin', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('other', 'Jermaine Wright', 'present', 'drop', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('company', 'Ricky Hayes', 'have', 'hospital', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('catch', 'Brian Clarke', 'music', 'free', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('general', 'Megan Gill', 'school', 'wife', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('sure', 'Kim Shepherd', 'discuss', 'little', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('better', 'Linda Sanchez', 'everybody', 'standard', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('bank', 'Molly Johnston', 'lose', 'lead', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('few', 'Holly Lee', 'interview', 'thank', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('technology', 'Scott Sandoval', 'store', 'surface', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('indicate', 'Dillon Tyler', 'their', 'bring', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('seat', 'Cody Bradley', 'return', 'think', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('care', 'Tina Jones', 'leg', 'claim', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('manager', 'Robert Santos', 'threat', 'by', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('garden', 'Yolanda Alvarez', 'player', 'source', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('capital', 'Regina White', 'debate', 'send', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('state', 'Daniel Rivera', 'reduce', 'seem', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('become', 'Anthony Jones', 'finish', 'method', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('business', 'Jordan Rice', 'particularly', 'author', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('sing', 'Adam Ashley', 'kind', 'throw', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('news', 'Dustin Mills', 'today', 'soon', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('itself', 'Kenneth Lopez', 'party', 'all', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('item', 'Sarah Cooper', 'something', 'night', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('foreign', 'Tammy Gillespie', 'nearly', 'several', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('tend', 'Shelia Graves', 'girl', 'attack', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('foreign', 'Alejandro Reeves', 'create', 'they', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('investment', 'Marc Thomas', 'turn', 'out', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('door', 'Megan Smith', 'responsibility', 'toward', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('table', 'Dawn Rich', 'sister', 'build', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('true', 'Lisa Cardenas', 'decide', 'cause', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('benefit', 'Nicholas Davis', 'whether', 'media', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('would', 'Dawn Lynch', 'relate', 'out', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('enjoy', 'Melissa Riley', 'power', 'product', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('resource', 'Melissa Vargas', 'generation', 'politics', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('trouble', 'Dr. Sarah Vasquez', 'father', 'energy', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('change', 'Krystal Diaz', 'you', 'method', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('truth', 'Anthony Taylor', 'power', 'itself', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('girl', 'Steven Mcgee', 'Democrat', 'quite', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('end', 'Jeremy Wong', 'bill', 'where', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('hotel', 'Ariel Stephens', 'ground', 'glass', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('trade', 'Tony Gilbert', 'determine', 'watch', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('real', 'Todd Vasquez', 'early', 'road', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('professor', 'Sheila Nguyen', 'defense', 'project', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('behind', 'Zachary Valdez', 'challenge', 'north', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('job', 'Frank Branch', 'PM', 'step', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('development', 'John Simmons', 'material', 'customer', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('thought', 'Matthew Santiago', 'every', 'give', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('machine', 'Dr. Julie Lane', 'field', 'remain', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('ball', 'Jennifer Buckley', 'child', 'energy', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('focus', 'James Olson', 'sure', 'very', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('early', 'Sharon Hoover', 'onto', 'thank', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('keep', 'Jessica Burgess', 'direction', 'same', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('former', 'Joshua Schroeder', 'wide', 'check', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('hand', 'Jeremy Dixon', 'deep', 'decision', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('never', 'Jeffrey Frederick', 'page', 'possible', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('short', 'Daniel Burke III', 'claim', 'writer', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('thank', 'Angela Rodriguez', 'start', 'firm', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('imagine', 'Michael Mack DDS', 'their', 'turn', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('turn', 'Mr. Aaron Murphy', 'long', 'couple', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('support', 'Holly Landry', 'happen', 'never', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('after', 'Amanda Burns', 'simply', 'campaign', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('name', 'Kimberly Ramirez', 'dream', 'many', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('open', 'Michael Downs', 'kid', 'significant', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('usually', 'Mr. Anthony Mendez', 'billion', 'professional', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('the', 'Larry Roberts', 'say', 'rock', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('sure', 'Sherry Obrien', 'debate', 'myself', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('community', 'Brooke Nelson', 'security', 'prove', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('yourself', 'Mark Quinn', 'way', 'care', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('allow', 'Mr. Aaron Lewis PhD', 'simple', 'back', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('turn', 'Kimberly Williams', 'kitchen', 'environmental', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('development', 'Jermaine Thomas', 'win', 'point', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('station', 'Luke Brown', 'stay', 'physical', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('last', 'Aaron Miles', 'forward', 'another', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('small', 'Johnny Anderson', 'interest', 'question', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('community', 'Julie Luna', 'evidence', 'song', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('those', 'William Stone', 'commercial', 'many', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('idea', 'Tamara Chandler', 'she', 'participant', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('behavior', 'Jacob Hughes', 'off', 'add', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('sea', 'Thomas Holmes', 'interest', 'piece', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('go', 'Emma Peterson', 'stop', 'manager', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('quality', 'Melissa Bruce', 'probably', 'media', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('success', 'Cheryl Roach', 'develop', 'ball', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('safe', 'Melvin Conley', 'small', 'fear', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('stay', 'Tina Hernandez', 'toward', 'professor', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('watch', 'Ricky Simmons', 'tell', 'allow', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('activity', 'David Clark', 'manage', 'yourself', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('eye', 'Ricky Mendoza', 'eight', 'rather', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('need', 'Shawn Henderson', 'mean', 'toward', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('really', 'Melanie Lynch', 'news', 'free', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('rich', 'Emily Stevenson', 'country', 'add', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('field', 'William Frank', 'herself', 'station', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('floor', 'Jeremiah Perez', 'term', 'course', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('capital', 'Tasha Daniels', 'husband', 'develop', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('third', 'Justin Floyd', 'sport', 'section', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('happy', 'Joshua Taylor', 'ball', 'adult', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('you', 'James Vasquez', 'bit', 'create', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('book', 'Billy Roberts DDS', 'you', 'my', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('growth', 'Julia Garcia', 'business', 'part', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('television', 'Jessica Johnson', 'cost', 'of', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('top', 'Allison Alvarez', 'poor', 'draw', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('bag', 'Julie Rose', 'reason', 'establish', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('society', 'Gabrielle Grant', 'some', 'garden', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('professor', 'Charlene Baker', 'test', 'more', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('friend', 'Justin Cole', 'scene', 'inside', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('particular', 'Brian Liu', 'beautiful', 'focus', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('keep', 'Kyle Peterson', 'increase', 'long', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('require', 'Annette Phillips', 'market', 'threat', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('north', 'Kevin Lin', 'them', 'thus', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('over', 'Trevor Wells', 'collection', 'blue', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('over', 'Ariel Quinn', 'during', 'example', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('her', 'Ann Gordon', 'against', 'significant', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('such', 'Melissa Mcclure', 'structure', 'eight', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('true', 'Alex Perez', 'score', 'number', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('sit', 'David Todd', 'score', 'improve', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('treatment', 'David Lucas', 'test', 'decision', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('direction', 'John Henderson', 'likely', 'throw', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('interview', 'Mary Foley', 'involve', 'magazine', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('later', 'Mark Pratt', 'way', 'spend', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('strategy', 'Betty Harris', 'security', 'form', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('half', 'Nathan Smith', 'eye', 'produce', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('serious', 'Amy Kelley', 'over', 'firm', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('peace', 'Lindsay Boyd', 'necessary', 'enjoy', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('event', 'Maurice Mitchell', 'about', 'kid', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('necessary', 'Michele Fischer', 'floor', 'find', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('free', 'Kristen Pollard', 'blood', 'energy', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('road', 'Kelly Myers', 'serve', 'true', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('stock', 'Ashley Calderon', 'walk', 'teach', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('hope', 'Jamie Bright', 'ahead', 'language', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('grow', 'Valerie Jenkins', 'threat', 'white', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('western', 'Rodney Campbell', 'discover', 'key', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('begin', 'Donna Hill', 'you', 'charge', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('yet', 'Kirk Newman', 'reveal', 'human', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('every', 'Megan Ramirez', 'member', 'data', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('sport', 'Russell Anderson', 'along', 'perform', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('rather', 'Craig Glenn', 'anything', 'table', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('subject', 'Joshua Moore', 'necessary', 'kind', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('image', 'Chad Wilson', 'back', 'unit', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('hit', 'Brian Campbell', 'word', 'way', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('building', 'Robert Brown', 'short', 'she', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('court', 'Adam Evans', 'much', 'treat', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('glass', 'Michael Washington', 'structure', 'ten', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('very', 'Ashley Underwood', 'traditional', 'speak', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('visit', 'Patty Johnson', 'think', 'poor', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('within', 'Bruce Smith', 'animal', 'former', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('still', 'Sergio Gibson', 'imagine', 'job', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('traditional', 'Valerie Werner', 'spring', 'environmental', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('ready', 'David Arnold', 'enter', 'must', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('right', 'Amy Wong', 'indeed', 'season', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('local', 'Robert Rangel', 'nation', 'certainly', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('into', 'William Carter', 'free', 'section', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('word', 'Eric Johnson', 'people', 'century', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('design', 'Brittany Shannon', 'customer', 'growth', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('wrong', 'Hannah Mcintosh', 'professional', 'thought', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('argue', 'Mark Austin', 'local', 'investment', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('dinner', 'John Allen', 'modern', 'simple', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('commercial', 'Michael Ritter', 'seven', 'TV', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('door', 'Lisa Lam', 'southern', 'himself', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('wait', 'Randy Wong', 'court', 'politics', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('my', 'Vanessa Little', 'travel', 'including', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('human', 'Donna Goodman', 'sense', 'forget', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('beautiful', 'Zachary Gutierrez', 'wife', 'degree', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('find', 'Stacey Brown', 'of', 'here', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('expect', 'Cheryl Smith', 'should', 'individual', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('story', 'James Martinez', 'his', 'yourself', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('send', 'Donna Delgado', 'first', 'it', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('Democrat', 'Devon Callahan', 'person', 'last', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('party', 'Carrie Wong', 'happy', 'although', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('recent', 'Patricia Perkins DVM', 'tree', 'others', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('international', 'Mrs. Bethany Payne', 'school', 'east', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('lawyer', 'Mrs. Jessica Mcdowell', 'itself', 'blood', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('single', 'Mariah Martin', 'someone', 'across', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('exactly', 'Kathleen Barnett', 'director', 'have', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('maintain', 'Terry Williams', 'box', 'buy', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('mean', 'George Bond', 'mention', 'mother', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('PM', 'Regina Quinn', 'create', 'kitchen', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('cup', 'Alexandria Ayala', 'management', 'four', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('hand', 'Brandy Valdez', 'left', 'cut', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('good', 'Rachel Lamb', 'save', 'much', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('story', 'Mark Stein', 'three', 'shoulder', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('discover', 'Kim James', 'tend', 'address', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('check', 'John Jarvis', 'stock', 'large', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('about', 'Daniel Cooper', 'laugh', 'program', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('machine', 'Earl Alexander', 'sit', 'few', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('marriage', 'Alex Juarez', 'seem', 'leg', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('property', 'Clinton Glenn', 'energy', 'per', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('movie', 'Troy Garrison', 'myself', 'glass', 2021);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('indicate', 'Erica Smith', 'friend', 'action', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('form', 'Rebecca Williams', 'relationship', 'race', 2024);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('friend', 'Joseph Carpenter', 'scene', 'situation', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('necessary', 'Craig Carter', 'run', 'high', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('difficult', 'Kurt Chandler', 'provide', 'that', 2020);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('if', 'Timothy Richard', 'measure', 'chance', 2025);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('word', 'Sarah Horne', 'discuss', 'article', 2023);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('movie', 'Drew Clark', 'lose', 'number', 2022);
-
-INSERT INTO google_adwords_earnings (adwords_earnings, business_name, business_type, n_employees, year)
-VALUES ('mind', 'Shane Griffith', 'citizen', 'fact', 2021);
+VALUES ('discuss', 'Mallory Lopez', 'increase', 'have', 2023,
+('hope', 'Kevin Peterson', 'area', 'weight', 2025,
+('arm', 'Elizabeth Hill', 'information', 'once', 2024,
+('condition', 'Debra Joseph', 'meeting', 'book', 2024,
+('night', 'Jonathan Cook', 'market', 'benefit', 2022,
+('back', 'Jennifer Reyes', 'condition', 'describe', 2022,
+('either', 'Jonathon Smith', 'model', 'often', 2025,
+('child', 'Jessica Johnson', 'without', 'language', 2020,
+('last', 'Michael Matthews', 'white', 'follow', 2025,
+('choose', 'Adam Morris', 'quickly', 'back', 2021,
+('PM', 'Jonathan Brown', 'role', 'chance', 2024,
+('job', 'Ronald Juarez', 'understand', 'line', 2022,
+('again', 'Alex Steele PhD', 'world', 'model', 2023,
+('media', 'Dawn Gardner', 'do', 'key', 2022,
+('once', 'Marilyn Spears', 'hold', 'investment', 2025,
+('science', 'Ashley Berry', 'firm', 'model', 2025,
+('represent', 'Scott Taylor', 'identify', 'least', 2022,
+('option', 'Whitney Bryant', 'spend', 'measure', 2025,
+('field', 'Jeffrey Gonzalez', 'decision', 'raise', 2024,
+('resource', 'Kathleen Jackson', 'realize', 'statement', 2025,
+('though', 'Jessica Christian', 'car', 'him', 2023,
+('could', 'Kristine Weaver', 'record', 'seem', 2021,
+('this', 'Mary Mccann', 'culture', 'ahead', 2024,
+('once', 'Oscar Vargas', 'accept', 'speak', 2023,
+('cold', 'Jason Hoffman', 'space', 'begin', 2023,
+('main', 'David Bush', 'environment', 'nor', 2024,
+('opportunity', 'Maria Watson', 'former', 'senior', 2022,
+('lose', 'Brian Edwards', 'keep', 'likely', 2022,
+('tax', 'Robert Gilbert', 'good', 'simply', 2024,
+('air', 'Kristen Arnold', 'relationship', 'free', 2025,
+('clear', 'William Ramsey', 'receive', 'city', 2021,
+('particularly', 'Mark Cruz', 'partner', 'trade', 2020,
+('long', 'Brittany Parker', 'on', 'affect', 2020,
+('from', 'Scott Guerrero', 'fire', 'any', 2021,
+('day', 'Kenneth Brown', 'work', 'peace', 2025,
+('what', 'Robert Johnson', 'fine', 'bank', 2021,
+('the', 'Steven Johnson', 'add', 'receive', 2023,
+('follow', 'Jamie Wilkerson', 'five', 'movement', 2021,
+('all', 'Colin Anderson', 'still', 'really', 2024,
+('whether', 'Dr. Carla York', 'either', 'close', 2023,
+('new', 'Timothy Pratt', 'food', 'campaign', 2024,
+('lead', 'Molly Nelson', 'probably', 'word', 2020,
+('along', 'Lauren Pierce', 'detail', 'entire', 2023,
+('doctor', 'Crystal Guerrero', 'at', 'while', 2022,
+('morning', 'Kristy Allen', 'participant', 'cut', 2024,
+('hand', 'Caleb Walton', 'finish', 'standard', 2023,
+('site', 'Ricardo Reyes', 'pattern', 'someone', 2021,
+('me', 'Dr. Thomas Ward', 'yard', 'send', 2023,
+('system', 'Stephanie Dunn', 'hotel', 'relate', 2023,
+('commercial', 'Kevin Diaz', 'appear', 'arrive', 2024,
+('western', 'Kristin Diaz', 'or', 'discuss', 2024,
+('much', 'Alicia Hansen', 'hundred', 'fact', 2024,
+('surface', 'Robert Foster MD', 'give', 'anyone', 2024,
+('example', 'Chad Anderson', 'movie', 'call', 2024,
+('focus', 'Morgan Peters', 'authority', 'must', 2021,
+('speak', 'Justin Moran', 'production', 'audience', 2020,
+('positive', 'Blake Austin', 'identify', 'senior', 2020,
+('former', 'Courtney Rodriguez', 'early', 'lose', 2023,
+('one', 'Donald Becker', 'why', 'bad', 2025,
+('letter', 'Donald Carter', 'instead', 'present', 2024,
+('hair', 'Matthew Long', 'population', 'Republican', 2024,
+('young', 'John Smith', 'wife', 'will', 2022,
+('assume', 'Brenda Escobar', 'these', 'impact', 2022,
+('power', 'Angela Oliver', 'group', 'far', 2022,
+('there', 'Christopher Perez', 'buy', 'no', 2020,
+('report', 'Derrick Edwards', 'past', 'which', 2020,
+('plan', 'Jose Curtis', 'whose', 'key', 2021,
+('record', 'Alexandria Mullins', 'window', 'enter', 2021,
+('song', 'Brian Campos', 'whether', 'low', 2022,
+('against', 'Daniel Baker', 'space', 'fly', 2021,
+('response', 'Ashley Bell', 'rock', 'watch', 2025,
+('stay', 'Dr. Amber Dixon', 'film', 'city', 2022,
+('several', 'Catherine Miles', 'place', 'political', 2023,
+('compare', 'Darren Palmer', 'effort', 'change', 2022,
+('participant', 'Jay Rogers', 'detail', 'clearly', 2023,
+('describe', 'Kenneth Jones', 'respond', 'west', 2025,
+('before', 'Tricia Wilson', 'again', 'attorney', 2023,
+('join', 'Ann Barker', 'language', 'design', 2023,
+('sometimes', 'Miguel Jackson', 'my', 'pass', 2022,
+('center', 'Joseph Coleman', 'apply', 'analysis', 2020,
+('relate', 'Leroy Ray', 'rise', 'might', 2025,
+('attorney', 'Adam Hernandez', 'matter', 'better', 2024,
+('increase', 'Cynthia Stewart', 'in', 'away', 2020,
+('list', 'Kelsey Walker', 'sing', 'here', 2021,
+('music', 'Denise Morales', 'responsibility', 'hour', 2021,
+('actually', 'Eric Thomas', 'finally', 'probably', 2020,
+('help', 'Laura Baker', 'travel', 'on', 2020,
+('guess', 'Daniel Diaz', 'news', 'pick', 2022,
+('degree', 'Abigail George', 'nation', 'a', 2025,
+('somebody', 'Sean Monroe', 'science', 'long', 2020,
+('model', 'Kevin Kennedy', 'system', 'choice', 2024,
+('which', 'Dennis Morrow', 'today', 'carry', 2024,
+('after', 'Jacqueline Brown', 'off', 'language', 2022,
+('seem', 'Lisa Washington', 'movie', 'war', 2022,
+('nearly', 'Richard Lee', 'new', 'marriage', 2020,
+('stand', 'Brian Turner', 'prove', 'away', 2025,
+('audience', 'Wanda Pugh', 'those', 'power', 2024,
+('indicate', 'Michael Alvarado', 'enjoy', 'song', 2025,
+('partner', 'Cindy Fowler', 'plan', 'low', 2024,
+('medical', 'Robert Howell', 'give', 'campaign', 2020,
+('since', 'Vernon Miller', 'common', 'kitchen', 2024,
+('talk', 'Patricia Day', 'break', 'feeling', 2020,
+('question', 'Perry Callahan', 'imagine', 'know', 2024,
+('officer', 'Ann Dominguez', 'game', 'environmental', 2021,
+('amount', 'Corey Greene', 'mean', 'value', 2022,
+('medical', 'Lisa Rojas', 'meet', 'skin', 2024,
+('other', 'Jermaine Wright', 'present', 'drop', 2022,
+('company', 'Ricky Hayes', 'have', 'hospital', 2023,
+('catch', 'Brian Clarke', 'music', 'free', 2023,
+('general', 'Megan Gill', 'school', 'wife', 2025,
+('sure', 'Kim Shepherd', 'discuss', 'little', 2025,
+('better', 'Linda Sanchez', 'everybody', 'standard', 2023,
+('bank', 'Molly Johnston', 'lose', 'lead', 2022,
+('few', 'Holly Lee', 'interview', 'thank', 2021,
+('technology', 'Scott Sandoval', 'store', 'surface', 2020,
+('indicate', 'Dillon Tyler', 'their', 'bring', 2024,
+('seat', 'Cody Bradley', 'return', 'think', 2021,
+('care', 'Tina Jones', 'leg', 'claim', 2025,
+('manager', 'Robert Santos', 'threat', 'by', 2021,
+('garden', 'Yolanda Alvarez', 'player', 'source', 2020,
+('capital', 'Regina White', 'debate', 'send', 2024,
+('state', 'Daniel Rivera', 'reduce', 'seem', 2024,
+('become', 'Anthony Jones', 'finish', 'method', 2024,
+('business', 'Jordan Rice', 'particularly', 'author', 2025,
+('sing', 'Adam Ashley', 'kind', 'throw', 2025,
+('news', 'Dustin Mills', 'today', 'soon', 2020,
+('itself', 'Kenneth Lopez', 'party', 'all', 2024,
+('item', 'Sarah Cooper', 'something', 'night', 2020,
+('foreign', 'Tammy Gillespie', 'nearly', 'several', 2020,
+('tend', 'Shelia Graves', 'girl', 'attack', 2024,
+('foreign', 'Alejandro Reeves', 'create', 'they', 2022,
+('investment', 'Marc Thomas', 'turn', 'out', 2023,
+('door', 'Megan Smith', 'responsibility', 'toward', 2025,
+('table', 'Dawn Rich', 'sister', 'build', 2022,
+('true', 'Lisa Cardenas', 'decide', 'cause', 2020,
+('benefit', 'Nicholas Davis', 'whether', 'media', 2025,
+('would', 'Dawn Lynch', 'relate', 'out', 2025,
+('enjoy', 'Melissa Riley', 'power', 'product', 2022,
+('resource', 'Melissa Vargas', 'generation', 'politics', 2023,
+('trouble', 'Dr. Sarah Vasquez', 'father', 'energy', 2023,
+('change', 'Krystal Diaz', 'you', 'method', 2021,
+('truth', 'Anthony Taylor', 'power', 'itself', 2024,
+('girl', 'Steven Mcgee', 'Democrat', 'quite', 2020,
+('end', 'Jeremy Wong', 'bill', 'where', 2024,
+('hotel', 'Ariel Stephens', 'ground', 'glass', 2020,
+('trade', 'Tony Gilbert', 'determine', 'watch', 2020,
+('real', 'Todd Vasquez', 'early', 'road', 2024,
+('professor', 'Sheila Nguyen', 'defense', 'project', 2025,
+('behind', 'Zachary Valdez', 'challenge', 'north', 2022,
+('job', 'Frank Branch', 'PM', 'step', 2021,
+('development', 'John Simmons', 'material', 'customer', 2022,
+('thought', 'Matthew Santiago', 'every', 'give', 2021,
+('machine', 'Dr. Julie Lane', 'field', 'remain', 2022,
+('ball', 'Jennifer Buckley', 'child', 'energy', 2020,
+('focus', 'James Olson', 'sure', 'very', 2022,
+('early', 'Sharon Hoover', 'onto', 'thank', 2025,
+('keep', 'Jessica Burgess', 'direction', 'same', 2021,
+('former', 'Joshua Schroeder', 'wide', 'check', 2025,
+('hand', 'Jeremy Dixon', 'deep', 'decision', 2021,
+('never', 'Jeffrey Frederick', 'page', 'possible', 2021,
+('short', 'Daniel Burke III', 'claim', 'writer', 2020,
+('thank', 'Angela Rodriguez', 'start', 'firm', 2020,
+('imagine', 'Michael Mack DDS', 'their', 'turn', 2023,
+('turn', 'Mr. Aaron Murphy', 'long', 'couple', 2024,
+('support', 'Holly Landry', 'happen', 'never', 2022,
+('after', 'Amanda Burns', 'simply', 'campaign', 2020,
+('name', 'Kimberly Ramirez', 'dream', 'many', 2020,
+('open', 'Michael Downs', 'kid', 'significant', 2024,
+('usually', 'Mr. Anthony Mendez', 'billion', 'professional', 2022,
+('the', 'Larry Roberts', 'say', 'rock', 2025,
+('sure', 'Sherry Obrien', 'debate', 'myself', 2022,
+('community', 'Brooke Nelson', 'security', 'prove', 2021,
+('yourself', 'Mark Quinn', 'way', 'care', 2023,
+('allow', 'Mr. Aaron Lewis PhD', 'simple', 'back', 2021,
+('turn', 'Kimberly Williams', 'kitchen', 'environmental', 2023,
+('development', 'Jermaine Thomas', 'win', 'point', 2025,
+('station', 'Luke Brown', 'stay', 'physical', 2024,
+('last', 'Aaron Miles', 'forward', 'another', 2020,
+('small', 'Johnny Anderson', 'interest', 'question', 2021,
+('community', 'Julie Luna', 'evidence', 'song', 2023,
+('those', 'William Stone', 'commercial', 'many', 2021,
+('idea', 'Tamara Chandler', 'she', 'participant', 2023,
+('behavior', 'Jacob Hughes', 'off', 'add', 2022,
+('sea', 'Thomas Holmes', 'interest', 'piece', 2020,
+('go', 'Emma Peterson', 'stop', 'manager', 2021,
+('quality', 'Melissa Bruce', 'probably', 'media', 2023,
+('success', 'Cheryl Roach', 'develop', 'ball', 2023,
+('safe', 'Melvin Conley', 'small', 'fear', 2020,
+('stay', 'Tina Hernandez', 'toward', 'professor', 2023,
+('watch', 'Ricky Simmons', 'tell', 'allow', 2024,
+('activity', 'David Clark', 'manage', 'yourself', 2021,
+('eye', 'Ricky Mendoza', 'eight', 'rather', 2020,
+('need', 'Shawn Henderson', 'mean', 'toward', 2024,
+('really', 'Melanie Lynch', 'news', 'free', 2025,
+('rich', 'Emily Stevenson', 'country', 'add', 2024,
+('field', 'William Frank', 'herself', 'station', 2021,
+('floor', 'Jeremiah Perez', 'term', 'course', 2022,
+('capital', 'Tasha Daniels', 'husband', 'develop', 2024,
+('third', 'Justin Floyd', 'sport', 'section', 2021,
+('happy', 'Joshua Taylor', 'ball', 'adult', 2022,
+('you', 'James Vasquez', 'bit', 'create', 2021,
+('book', 'Billy Roberts DDS', 'you', 'my', 2024,
+('growth', 'Julia Garcia', 'business', 'part', 2023,
+('television', 'Jessica Johnson', 'cost', 'of', 2025,
+('top', 'Allison Alvarez', 'poor', 'draw', 2024,
+('bag', 'Julie Rose', 'reason', 'establish', 2024,
+('society', 'Gabrielle Grant', 'some', 'garden', 2020,
+('professor', 'Charlene Baker', 'test', 'more', 2023,
+('friend', 'Justin Cole', 'scene', 'inside', 2020,
+('particular', 'Brian Liu', 'beautiful', 'focus', 2024,
+('keep', 'Kyle Peterson', 'increase', 'long', 2020,
+('require', 'Annette Phillips', 'market', 'threat', 2023,
+('north', 'Kevin Lin', 'them', 'thus', 2025,
+('over', 'Trevor Wells', 'collection', 'blue', 2024,
+('over', 'Ariel Quinn', 'during', 'example', 2024,
+('her', 'Ann Gordon', 'against', 'significant', 2022,
+('such', 'Melissa Mcclure', 'structure', 'eight', 2023,
+('true', 'Alex Perez', 'score', 'number', 2025,
+('sit', 'David Todd', 'score', 'improve', 2021,
+('treatment', 'David Lucas', 'test', 'decision', 2020,
+('direction', 'John Henderson', 'likely', 'throw', 2020,
+('interview', 'Mary Foley', 'involve', 'magazine', 2024,
+('later', 'Mark Pratt', 'way', 'spend', 2024,
+('strategy', 'Betty Harris', 'security', 'form', 2020,
+('half', 'Nathan Smith', 'eye', 'produce', 2025,
+('serious', 'Amy Kelley', 'over', 'firm', 2024,
+('peace', 'Lindsay Boyd', 'necessary', 'enjoy', 2020,
+('event', 'Maurice Mitchell', 'about', 'kid', 2022,
+('necessary', 'Michele Fischer', 'floor', 'find', 2023,
+('free', 'Kristen Pollard', 'blood', 'energy', 2024,
+('road', 'Kelly Myers', 'serve', 'true', 2021,
+('stock', 'Ashley Calderon', 'walk', 'teach', 2022,
+('hope', 'Jamie Bright', 'ahead', 'language', 2023,
+('grow', 'Valerie Jenkins', 'threat', 'white', 2024,
+('western', 'Rodney Campbell', 'discover', 'key', 2021,
+('begin', 'Donna Hill', 'you', 'charge', 2020,
+('yet', 'Kirk Newman', 'reveal', 'human', 2022,
+('every', 'Megan Ramirez', 'member', 'data', 2020,
+('sport', 'Russell Anderson', 'along', 'perform', 2025,
+('rather', 'Craig Glenn', 'anything', 'table', 2025,
+('subject', 'Joshua Moore', 'necessary', 'kind', 2025,
+('image', 'Chad Wilson', 'back', 'unit', 2024,
+('hit', 'Brian Campbell', 'word', 'way', 2023,
+('building', 'Robert Brown', 'short', 'she', 2021,
+('court', 'Adam Evans', 'much', 'treat', 2021,
+('glass', 'Michael Washington', 'structure', 'ten', 2022,
+('very', 'Ashley Underwood', 'traditional', 'speak', 2024,
+('visit', 'Patty Johnson', 'think', 'poor', 2024,
+('within', 'Bruce Smith', 'animal', 'former', 2024,
+('still', 'Sergio Gibson', 'imagine', 'job', 2021,
+('traditional', 'Valerie Werner', 'spring', 'environmental', 2022,
+('ready', 'David Arnold', 'enter', 'must', 2023,
+('right', 'Amy Wong', 'indeed', 'season', 2025,
+('local', 'Robert Rangel', 'nation', 'certainly', 2020,
+('into', 'William Carter', 'free', 'section', 2023,
+('word', 'Eric Johnson', 'people', 'century', 2025,
+('design', 'Brittany Shannon', 'customer', 'growth', 2021,
+('wrong', 'Hannah Mcintosh', 'professional', 'thought', 2023,
+('argue', 'Mark Austin', 'local', 'investment', 2022,
+('dinner', 'John Allen', 'modern', 'simple', 2022,
+('commercial', 'Michael Ritter', 'seven', 'TV', 2023,
+('door', 'Lisa Lam', 'southern', 'himself', 2025,
+('wait', 'Randy Wong', 'court', 'politics', 2021,
+('my', 'Vanessa Little', 'travel', 'including', 2025,
+('human', 'Donna Goodman', 'sense', 'forget', 2024,
+('beautiful', 'Zachary Gutierrez', 'wife', 'degree', 2024,
+('find', 'Stacey Brown', 'of', 'here', 2022,
+('expect', 'Cheryl Smith', 'should', 'individual', 2022,
+('story', 'James Martinez', 'his', 'yourself', 2024,
+('send', 'Donna Delgado', 'first', 'it', 2024,
+('Democrat', 'Devon Callahan', 'person', 'last', 2021,
+('party', 'Carrie Wong', 'happy', 'although', 2025,
+('recent', 'Patricia Perkins DVM', 'tree', 'others', 2022,
+('international', 'Mrs. Bethany Payne', 'school', 'east', 2023,
+('lawyer', 'Mrs. Jessica Mcdowell', 'itself', 'blood', 2021,
+('single', 'Mariah Martin', 'someone', 'across', 2023,
+('exactly', 'Kathleen Barnett', 'director', 'have', 2020,
+('maintain', 'Terry Williams', 'box', 'buy', 2021,
+('mean', 'George Bond', 'mention', 'mother', 2021,
+('PM', 'Regina Quinn', 'create', 'kitchen', 2022,
+('cup', 'Alexandria Ayala', 'management', 'four', 2022,
+('hand', 'Brandy Valdez', 'left', 'cut', 2023,
+('good', 'Rachel Lamb', 'save', 'much', 2020,
+('story', 'Mark Stein', 'three', 'shoulder', 2022,
+('discover', 'Kim James', 'tend', 'address', 2020,
+('check', 'John Jarvis', 'stock', 'large', 2020,
+('about', 'Daniel Cooper', 'laugh', 'program', 2025,
+('machine', 'Earl Alexander', 'sit', 'few', 2021,
+('marriage', 'Alex Juarez', 'seem', 'leg', 2020,
+('property', 'Clinton Glenn', 'energy', 'per', 2021,
+('movie', 'Troy Garrison', 'myself', 'glass', 2021,
+('indicate', 'Erica Smith', 'friend', 'action', 2024,
+('form', 'Rebecca Williams', 'relationship', 'race', 2024,
+('friend', 'Joseph Carpenter', 'scene', 'situation', 2022,
+('necessary', 'Craig Carter', 'run', 'high', 2022,
+('difficult', 'Kurt Chandler', 'provide', 'that', 2020,
+('if', 'Timothy Richard', 'measure', 'chance', 2025,
+('word', 'Sarah Horne', 'discuss', 'article', 2023,
+('movie', 'Drew Clark', 'lose', 'number', 2022,
+('mind', 'Shane Griffith', 'citizen', 'fact', 2021);
