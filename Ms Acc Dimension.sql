@@ -1,899 +1,301 @@
 INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (1, 'significant');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (2, 'same');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (3, 'goal');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (4, 'or');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (5, 'community');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (6, 'house');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (7, 'hear');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (8, 'Mr');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (9, 'way');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (10, 'risk');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (11, 'me');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (12, 'new');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (13, 'start');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (14, 'argue');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (15, 'treat');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (16, 'spend');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (17, 'system');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (18, 'PM');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (19, 'individual');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (20, 'election');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (21, 'speak');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (22, 'radio');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (23, 'line');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (24, 'tend');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (25, 'employee');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (26, 'hour');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (27, 'age');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (28, 'want');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (29, 'guess');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (30, 'meet');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (31, 'glass');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (32, 'must');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (33, 'three');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (34, 'able');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (35, 'town');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (36, 'when');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (37, 'hospital');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (38, 'southern');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (39, 'picture');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (40, 'point');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (41, 'student');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (42, 'quality');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (43, 'never');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (44, 'ability');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (45, 'scientist');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (46, 'significant');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (47, 'pattern');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (48, 'guess');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (49, 'since');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (50, 'claim');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (51, 'possible');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (52, 'discuss');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (53, 'son');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (54, 'answer');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (55, 'reality');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (56, 'change');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (57, 'certainly');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (58, 'all');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (59, 'far');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (60, 'run');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (61, 'until');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (62, 'might');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (63, 'job');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (64, 'next');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (65, 'pull');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (66, 'president');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (67, 'indicate');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (68, 'owner');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (69, 'believe');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (70, 'various');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (71, 'other');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (72, 'these');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (73, 'happy');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (74, 'avoid');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (75, 'spend');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (76, 'little');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (77, 'population');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (78, 'security');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (79, 'final');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (80, 'state');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (81, 'study');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (82, 'upon');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (83, 'performance');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (84, 'toward');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (85, 'receive');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (86, 'six');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (87, 'treatment');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (88, 'there');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (89, 'yard');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (90, 'school');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (91, 'executive');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (92, 'role');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (93, 'current');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (94, 'reality');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (95, 'knowledge');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (96, 'summer');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (97, 'however');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (98, 'base');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (99, 'real');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (100, 'certainly');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (101, 'recently');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (102, 'however');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (103, 'two');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (104, 'break');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (105, 'listen');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (106, 'drug');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (107, 'method');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (108, 'police');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (109, 'once');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (110, 'message');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (111, 'know');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (112, 'under');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (113, 'view');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (114, 'find');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (115, 'perhaps');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (116, 'pressure');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (117, 'only');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (118, 'trouble');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (119, 'present');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (120, 'able');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (121, 'explain');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (122, 'hard');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (123, 'total');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (124, 'crime');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (125, 'above');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (126, 'statement');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (127, 'money');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (128, 'kitchen');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (129, 'bill');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (130, 'agreement');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (131, 'third');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (132, 'brother');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (133, 'across');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (134, 'throughout');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (135, 'billion');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (136, 'lose');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (137, 'way');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (138, 'action');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (139, 'truth');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (140, 'father');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (141, 'threat');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (142, 'Democrat');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (143, 'decision');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (144, 'success');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (145, 'student');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (146, 'able');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (147, 'cause');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (148, 'TV');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (149, 'who');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (150, 'keep');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (151, 'ahead');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (152, 'yeah');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (153, 'industry');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (154, 'defense');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (155, 'doctor');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (156, 'debate');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (157, 'lawyer');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (158, 'eye');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (159, 'successful');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (160, 'none');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (161, 'glass');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (162, 'once');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (163, 'usually');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (164, 'again');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (165, 'forget');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (166, 'side');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (167, 'talk');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (168, 'system');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (169, 'report');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (170, 'green');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (171, 'catch');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (172, 'media');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (173, 'ready');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (174, 'activity');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (175, 'tonight');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (176, 'value');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (177, 'part');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (178, 'just');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (179, 'ball');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (180, 'program');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (181, 'past');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (182, 'hold');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (183, 'leave');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (184, 'institution');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (185, 'drop');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (186, 'of');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (187, 'analysis');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (188, 'manager');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (189, 'least');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (190, 'dinner');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (191, 'significant');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (192, 'seem');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (193, 'federal');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (194, 'put');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (195, 'student');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (196, 'response');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (197, 'social');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (198, 'such');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (199, 'manager');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (200, 'from');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (201, 'east');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (202, 'yet');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (203, 'themselves');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (204, 'return');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (205, 'surface');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (206, 'baby');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (207, 'leave');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (208, 'look');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (209, 'friend');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (210, 'remain');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (211, 'run');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (212, 'large');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (213, 'raise');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (214, 'look');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (215, 'subject');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (216, 'police');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (217, 'argue');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (218, 'case');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (219, 'threat');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (220, 'issue');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (221, 'above');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (222, 'her');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (223, 'ten');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (224, 'around');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (225, 'image');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (226, 'trip');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (227, 'treatment');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (228, 'military');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (229, 'foreign');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (230, 'door');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (231, 'she');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (232, 'he');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (233, 'former');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (234, 'risk');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (235, 'action');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (236, 'report');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (237, 'ground');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (238, 'body');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (239, 'purpose');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (240, 'buy');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (241, 'across');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (242, 'school');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (243, 'center');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (244, 'day');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (245, 'from');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (246, 'throw');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (247, 'throughout');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (248, 'direction');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (249, 'senior');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (250, 'manager');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (251, 'per');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (252, 'prevent');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (253, 'raise');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (254, 'adult');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (255, 'test');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (256, 'call');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (257, 'trade');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (258, 'market');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (259, 'along');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (260, 'trouble');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (261, 'live');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (262, 'successful');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (263, 'through');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (264, 'affect');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (265, 'actually');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (266, 'car');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (267, 'look');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (268, 'employee');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (269, 'yet');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (270, 'window');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (271, 'soon');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (272, 'risk');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (273, 'wide');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (274, 'art');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (275, 'everything');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (276, 'along');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (277, 'to');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (278, 'might');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (279, 'difference');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (280, 'measure');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (281, 'west');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (282, 'edge');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (283, 'better');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (284, 'race');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (285, 'also');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (286, 'direction');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (287, 'less');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (288, 'three');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (289, 'report');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (290, 'debate');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (291, 'kid');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (292, 'deal');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (293, 'sense');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (294, 'character');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (295, 'second');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (296, 'drop');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (297, 'officer');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (298, 'wide');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (299, 'military');
-
-INSERT INTO ms_acc_dimension (acc_id, paying_customer)
-VALUES (300, 'challenge');
+VALUES (1, 'significant',
+(2, 'same',
+(3, 'goal',
+(4, 'or',
+(5, 'community',
+(6, 'house',
+(7, 'hear',
+(8, 'Mr',
+(9, 'way',
+(10, 'risk',
+(11, 'me',
+(12, 'new',
+(13, 'start',
+(14, 'argue',
+(15, 'treat',
+(16, 'spend',
+(17, 'system',
+(18, 'PM',
+(19, 'individual',
+(20, 'election',
+(21, 'speak',
+(22, 'radio',
+(23, 'line',
+(24, 'tend',
+(25, 'employee',
+(26, 'hour',
+(27, 'age',
+(28, 'want',
+(29, 'guess',
+(30, 'meet',
+(31, 'glass',
+(32, 'must',
+(33, 'three',
+(34, 'able',
+(35, 'town',
+(36, 'when',
+(37, 'hospital',
+(38, 'southern',
+(39, 'picture',
+(40, 'point',
+(41, 'student',
+(42, 'quality',
+(43, 'never',
+(44, 'ability',
+(45, 'scientist',
+(46, 'significant',
+(47, 'pattern',
+(48, 'guess',
+(49, 'since',
+(50, 'claim',
+(51, 'possible',
+(52, 'discuss',
+(53, 'son',
+(54, 'answer',
+(55, 'reality',
+(56, 'change',
+(57, 'certainly',
+(58, 'all',
+(59, 'far',
+(60, 'run',
+(61, 'until',
+(62, 'might',
+(63, 'job',
+(64, 'next',
+(65, 'pull',
+(66, 'president',
+(67, 'indicate',
+(68, 'owner',
+(69, 'believe',
+(70, 'various',
+(71, 'other',
+(72, 'these',
+(73, 'happy',
+(74, 'avoid',
+(75, 'spend',
+(76, 'little',
+(77, 'population',
+(78, 'security',
+(79, 'final',
+(80, 'state',
+(81, 'study',
+(82, 'upon',
+(83, 'performance',
+(84, 'toward',
+(85, 'receive',
+(86, 'six',
+(87, 'treatment',
+(88, 'there',
+(89, 'yard',
+(90, 'school',
+(91, 'executive',
+(92, 'role',
+(93, 'current',
+(94, 'reality',
+(95, 'knowledge',
+(96, 'summer',
+(97, 'however',
+(98, 'base',
+(99, 'real',
+(100, 'certainly',
+(101, 'recently',
+(102, 'however',
+(103, 'two',
+(104, 'break',
+(105, 'listen',
+(106, 'drug',
+(107, 'method',
+(108, 'police',
+(109, 'once',
+(110, 'message',
+(111, 'know',
+(112, 'under',
+(113, 'view',
+(114, 'find',
+(115, 'perhaps',
+(116, 'pressure',
+(117, 'only',
+(118, 'trouble',
+(119, 'present',
+(120, 'able',
+(121, 'explain',
+(122, 'hard',
+(123, 'total',
+(124, 'crime',
+(125, 'above',
+(126, 'statement',
+(127, 'money',
+(128, 'kitchen',
+(129, 'bill',
+(130, 'agreement',
+(131, 'third',
+(132, 'brother',
+(133, 'across',
+(134, 'throughout',
+(135, 'billion',
+(136, 'lose',
+(137, 'way',
+(138, 'action',
+(139, 'truth',
+(140, 'father',
+(141, 'threat',
+(142, 'Democrat',
+(143, 'decision',
+(144, 'success',
+(145, 'student',
+(146, 'able',
+(147, 'cause',
+(148, 'TV',
+(149, 'who',
+(150, 'keep',
+(151, 'ahead',
+(152, 'yeah',
+(153, 'industry',
+(154, 'defense',
+(155, 'doctor',
+(156, 'debate',
+(157, 'lawyer',
+(158, 'eye',
+(159, 'successful',
+(160, 'none',
+(161, 'glass',
+(162, 'once',
+(163, 'usually',
+(164, 'again',
+(165, 'forget',
+(166, 'side',
+(167, 'talk',
+(168, 'system',
+(169, 'report',
+(170, 'green',
+(171, 'catch',
+(172, 'media',
+(173, 'ready',
+(174, 'activity',
+(175, 'tonight',
+(176, 'value',
+(177, 'part',
+(178, 'just',
+(179, 'ball',
+(180, 'program',
+(181, 'past',
+(182, 'hold',
+(183, 'leave',
+(184, 'institution',
+(185, 'drop',
+(186, 'of',
+(187, 'analysis',
+(188, 'manager',
+(189, 'least',
+(190, 'dinner',
+(191, 'significant',
+(192, 'seem',
+(193, 'federal',
+(194, 'put',
+(195, 'student',
+(196, 'response',
+(197, 'social',
+(198, 'such',
+(199, 'manager',
+(200, 'from',
+(201, 'east',
+(202, 'yet',
+(203, 'themselves',
+(204, 'return',
+(205, 'surface',
+(206, 'baby',
+(207, 'leave',
+(208, 'look',
+(209, 'friend',
+(210, 'remain',
+(211, 'run',
+(212, 'large',
+(213, 'raise',
+(214, 'look',
+(215, 'subject',
+(216, 'police',
+(217, 'argue',
+(218, 'case',
+(219, 'threat',
+(220, 'issue',
+(221, 'above',
+(222, 'her',
+(223, 'ten',
+(224, 'around',
+(225, 'image',
+(226, 'trip',
+(227, 'treatment',
+(228, 'military',
+(229, 'foreign',
+(230, 'door',
+(231, 'she',
+(232, 'he',
+(233, 'former',
+(234, 'risk',
+(235, 'action',
+(236, 'report',
+(237, 'ground',
+(238, 'body',
+(239, 'purpose',
+(240, 'buy',
+(241, 'across',
+(242, 'school',
+(243, 'center',
+(244, 'day',
+(245, 'from',
+(246, 'throw',
+(247, 'throughout',
+(248, 'direction',
+(249, 'senior',
+(250, 'manager',
+(251, 'per',
+(252, 'prevent',
+(253, 'raise',
+(254, 'adult',
+(255, 'test',
+(256, 'call',
+(257, 'trade',
+(258, 'market',
+(259, 'along',
+(260, 'trouble',
+(261, 'live',
+(262, 'successful',
+(263, 'through',
+(264, 'affect',
+(265, 'actually',
+(266, 'car',
+(267, 'look',
+(268, 'employee',
+(269, 'yet',
+(270, 'window',
+(271, 'soon',
+(272, 'risk',
+(273, 'wide',
+(274, 'art',
+(275, 'everything',
+(276, 'along',
+(277, 'to',
+(278, 'might',
+(279, 'difference',
+(280, 'measure',
+(281, 'west',
+(282, 'edge',
+(283, 'better',
+(284, 'race',
+(285, 'also',
+(286, 'direction',
+(287, 'less',
+(288, 'three',
+(289, 'report',
+(290, 'debate',
+(291, 'kid',
+(292, 'deal',
+(293, 'sense',
+(294, 'character',
+(295, 'second',
+(296, 'drop',
+(297, 'officer',
+(298, 'wide',
+(299, 'military',
+(300, 'challenge');
