@@ -1,899 +1,301 @@
 INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-04-04', 1, 1, 'bag', 1, 'get', 1, 'official', 'tax', 'concern');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-11-15', 2, 2, 'culture', 2, 'goal', 2, 'start', 'her', 'always');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-09-15', 3, 3, 'public', 3, 'yet', 3, 'sort', 'throughout', 'old');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-07-20', 4, 4, 'real', 4, 'air', 4, 'serious', 'tax', 'example');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2026-01-28', 5, 5, 'office', 5, 'site', 5, 'front', 'eat', 'name');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-06-03', 6, 6, 'single', 6, 'unit', 6, 'onto', 'tend', 'into');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-04-06', 7, 7, 'degree', 7, 'share', 7, 'simply', 'huge', 'wind');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-01-21', 8, 8, 'cold', 8, 'senior', 8, 'wide', 'million', 'program');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2026-01-18', 9, 9, 'business', 9, 'country', 9, 'truth', 'relationship', 'example');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-10-16', 10, 10, 'management', 10, 'see', 10, 'hot', 'hotel', 'size');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-04-26', 11, 11, 'everything', 11, 'economic', 11, 'international', 'focus', 'campaign');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-12-17', 12, 12, 'turn', 12, 'newspaper', 12, 'reveal', 'single', 'one');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-10-29', 13, 13, 'north', 13, 'be', 13, 'writer', 'as', 'study');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-02-26', 14, 14, 'white', 14, 'like', 14, 'TV', 'Democrat', 'again');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-07-29', 15, 15, 'case', 15, 'resource', 15, 'understand', 'argue', 'fill');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-06-30', 16, 16, 'keep', 16, 'serve', 16, 'mention', 'suffer', 'particularly');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-02-06', 17, 17, 'plan', 17, 'event', 17, 'prove', 'check', 'case');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-10-10', 18, 18, 'bag', 18, 'land', 18, 'almost', 'rule', 'glass');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-12-15', 19, 19, 'stuff', 19, 'offer', 19, 'year', 'visit', 'street');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-02-07', 20, 20, 'organization', 20, 'far', 20, 'movie', 'democratic', 'task');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-04-18', 21, 21, 'gun', 21, 'central', 21, 'program', 'line', 'send');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-06-12', 22, 22, 'now', 22, 'seat', 22, 'system', 'me', 'free');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-02-14', 23, 23, 'piece', 23, 'then', 23, 'medical', 'method', 'sometimes');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-06-21', 24, 24, 'sense', 24, 'church', 24, 'artist', 'can', 'write');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-10-22', 25, 25, 'realize', 25, 'summer', 25, 'must', 'dream', 'account');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2026-01-21', 26, 26, 'rather', 26, 'ever', 26, 'community', 'west', 'strong');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-06-12', 27, 27, 'him', 27, 'rule', 27, 'collection', 'rise', 'goal');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-10-09', 28, 28, 'attention', 28, 'church', 28, 'music', 'cost', 'stage');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-03-30', 29, 29, 'government', 29, 'can', 29, 'billion', 'month', 'another');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-11-22', 30, 30, 'begin', 30, 'big', 30, 'agreement', 'speak', 'green');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-04-09', 31, 31, 'hard', 31, 'ball', 31, 'oil', 'brother', 'society');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-05-19', 32, 32, 'economy', 32, 'exist', 32, 'test', 'person', 'nation');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-08-19', 33, 33, 'business', 33, 'indicate', 33, 'guess', 'quickly', 'gun');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-11-07', 34, 34, 'effect', 34, 'surface', 34, 'cell', 'move', 'turn');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-10-09', 35, 35, 'about', 35, 'keep', 35, 'collection', 'party', 'once');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2026-01-24', 36, 36, 'goal', 36, 'use', 36, 'occur', 'seven', 'tough');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-07-23', 37, 37, 'themselves', 37, 'front', 37, 'agent', 'just', 'interesting');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-12-11', 38, 38, 'capital', 38, 'he', 38, 'view', 'current', 'this');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-09-25', 39, 39, 'see', 39, 'example', 39, 'writer', 'set', 'everybody');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-09-22', 40, 40, 'song', 40, 'seat', 40, 'reveal', 'enough', 'quality');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-01-18', 41, 41, 'must', 41, 'address', 41, 'shake', 'section', 'beyond');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-01-12', 42, 42, 'feel', 42, 'article', 42, 'yes', 'those', 'west');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-05-01', 43, 43, 'indicate', 43, 'practice', 43, 'agree', 'threat', 'others');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-07-05', 44, 44, 'until', 44, 'still', 44, 'party', 'surface', 'better');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-11-22', 45, 45, 'executive', 45, 'entire', 45, 'huge', 'energy', 'fear');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-02-13', 46, 46, 'lead', 46, 'environment', 46, 'American', 'but', 'easy');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-08-16', 47, 47, 'eye', 47, 'no', 47, 'first', 'price', 'within');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-05-09', 48, 48, 'soon', 48, 'send', 48, 'raise', 'my', 'international');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-12-23', 49, 49, 'investment', 49, 'party', 49, 'item', 'risk', 'official');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-11-07', 50, 50, 'American', 50, 'time', 50, 'sing', 'perhaps', 'blue');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-02-09', 51, 51, 'score', 51, 'financial', 51, 'specific', 'cause', 'program');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-04-03', 52, 52, 'writer', 52, 'management', 52, 'strategy', 'general', 'continue');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-05-26', 53, 53, 'quickly', 53, 'forward', 53, 'item', 'finally', 'language');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-09-30', 54, 54, 'body', 54, 'official', 54, 'culture', 'organization', 'standard');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-03-14', 55, 55, 'catch', 55, 'indeed', 55, 'tough', 'maybe', 'door');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-06-10', 56, 56, 'decade', 56, 'debate', 56, 'during', 'early', 'factor');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-11-29', 57, 57, 'month', 57, 'our', 57, 'simple', 'cell', 'rock');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-04-27', 58, 58, 'item', 58, 'happen', 58, 'final', 'rate', 'enjoy');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-02-28', 59, 59, 'market', 59, 'other', 59, 'in', 'star', 'grow');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-04-14', 60, 60, 'marriage', 60, 'base', 60, 'food', 'college', 'TV');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-03-24', 61, 61, 'baby', 61, 'other', 61, 'star', 'follow', 'quality');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-02-05', 62, 62, 'take', 62, 'job', 62, 'me', 'natural', 'mind');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-07-04', 63, 63, 'training', 63, 'particular', 63, 'doctor', 'value', 'certain');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-07-07', 64, 64, 'series', 64, 'training', 64, 'fact', 'force', 'put');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-11-25', 65, 65, 'left', 65, 'discussion', 65, 'admit', 'control', 'performance');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-04-29', 66, 66, 'environmental', 66, 'truth', 66, 'federal', 'total', 'student');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-05-05', 67, 67, 'thought', 67, 'front', 67, 'party', 'seek', 'miss');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-05-18', 68, 68, 'poor', 68, 'right', 68, 'send', 'through', 'capital');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-10-10', 69, 69, 'reflect', 69, 'dream', 69, 'industry', 'cost', 'magazine');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-04-02', 70, 70, 'result', 70, 'difference', 70, 'test', 'sea', 'direction');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-11-18', 71, 71, 'American', 71, 'individual', 71, 'so', 'perform', 'throughout');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-12-16', 72, 72, 'game', 72, 'product', 72, 'success', 'about', 'join');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-10-07', 73, 73, 'kitchen', 73, 'raise', 73, 'society', 'always', 'actually');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-06-18', 74, 74, 'lose', 74, 'pull', 74, 'mission', 'bar', 'worker');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-05-10', 75, 75, 'by', 75, 'doctor', 75, 'such', 'expect', 'another');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-08-27', 76, 76, 'hear', 76, 'herself', 76, 'magazine', 'no', 'fill');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-06-18', 77, 77, 'cell', 77, 'difference', 77, 'everyone', 'final', 'major');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-07-24', 78, 78, 'send', 78, 'protect', 78, 'coach', 'white', 'free');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-03-15', 79, 79, 'trial', 79, 'officer', 79, 'own', 'rest', 'into');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-04-01', 80, 80, 'man', 80, 'clear', 80, 'decision', 'assume', 'drop');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-12-24', 81, 81, 'north', 81, 'treatment', 81, 'drug', 'less', 'hand');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-10-14', 82, 82, 'democratic', 82, 'husband', 82, 'once', 'evening', 'recognize');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-08-21', 83, 83, 'exactly', 83, 'long', 83, 'tonight', 'owner', 'work');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-12-10', 84, 84, 'friend', 84, 'price', 84, 'figure', 'glass', 'person');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-09-08', 85, 85, 'western', 85, 'interesting', 85, 'public', 'identify', 'sound');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-07-12', 86, 86, 'word', 86, 'law', 86, 'major', 'amount', 'hand');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-11-24', 87, 87, 'their', 87, 'inside', 87, 'big', 'throw', 'head');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-04-23', 88, 88, 'sea', 88, 'choice', 88, 'attention', 'impact', 'catch');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-07-02', 89, 89, 'evidence', 89, 'nor', 89, 'young', 'realize', 'first');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-05-10', 90, 90, 'involve', 90, 'available', 90, 'pass', 'couple', 'second');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-04-18', 91, 91, 'hold', 91, 'let', 91, 'face', 'science', 'beat');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-07-08', 92, 92, 'account', 92, 'several', 92, 'believe', 'difficult', 'my');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-09-06', 93, 93, 'manage', 93, 'order', 93, 'success', 'protect', 'listen');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-03-16', 94, 94, 'teacher', 94, 'a', 94, 'city', 'reason', 'debate');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-06-20', 95, 95, 'serve', 95, 'you', 95, 'political', 'traditional', 'end');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-10-14', 96, 96, 'than', 96, 'heart', 96, 'include', 'most', 'other');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-10-17', 97, 97, 'particular', 97, 'production', 97, 'TV', 'theory', 'main');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-07-29', 98, 98, 'recently', 98, 'west', 98, 'leader', 'before', 'nation');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-03-17', 99, 99, 'site', 99, 'couple', 99, 'not', 'feel', 'begin');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-05-16', 100, 100, 'fill', 100, 'career', 100, 'sport', 'hear', 'about');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-06-27', 101, 101, 'people', 101, 'city', 101, 'little', 'force', 'long');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-06-21', 102, 102, 'million', 102, 'around', 102, 'election', 'friend', 'less');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-08-21', 103, 103, 'attack', 103, 'ahead', 103, 'herself', 'minute', 'surface');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-06-07', 104, 104, 'fill', 104, 'candidate', 104, 'look', 'western', 'must');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-11-03', 105, 105, 'plan', 105, 'plan', 105, 'suggest', 'budget', 'result');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-05-12', 106, 106, 'while', 106, 'help', 106, 'however', 'leave', 'leader');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-05-02', 107, 107, 'subject', 107, 'too', 107, 'form', 'western', 'race');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-06-05', 108, 108, 'care', 108, 'not', 108, 'impact', 'approach', 'walk');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-05-22', 109, 109, 'strong', 109, 'everyone', 109, 'price', 'poor', 'face');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2026-01-03', 110, 110, 'job', 110, 'line', 110, 'beat', 'present', 'television');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-02-05', 111, 111, 'risk', 111, 'cause', 111, 'leave', 'service', 'production');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-08-22', 112, 112, 'speech', 112, 'there', 112, 'it', 'tree', 'forward');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-07-09', 113, 113, 'try', 113, 'pretty', 113, 'order', 'apply', 'American');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-10-21', 114, 114, 'free', 114, 'pay', 114, 'until', 'fish', 'eight');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-05-15', 115, 115, 'may', 115, 'consider', 115, 'cup', 'consumer', 'enough');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-04-09', 116, 116, 'above', 116, 'cut', 116, 'toward', 'participant', 'approach');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-08-01', 117, 117, 'budget', 117, 'source', 117, 'campaign', 'back', 'police');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2026-01-06', 118, 118, 'try', 118, 'would', 118, 'often', 'far', 'safe');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-03-21', 119, 119, 'upon', 119, 'economy', 119, 'magazine', 'single', 'seek');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-10-07', 120, 120, 'perhaps', 120, 'list', 120, 'modern', 'person', 'ball');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-07-01', 121, 121, 'receive', 121, 'focus', 121, 'west', 'art', 'nature');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-07-21', 122, 122, 'forward', 122, 'Democrat', 122, 'fire', 'democratic', 'five');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-03-19', 123, 123, 'this', 123, 'plan', 123, 'single', 'however', 'sure');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-11-25', 124, 124, 'trade', 124, 'political', 124, 'sense', 'food', 'style');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-07-28', 125, 125, 'purpose', 125, 'begin', 125, 'among', 'his', 'add');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-11-18', 126, 126, 'without', 126, 'data', 126, 'role', 'single', 'garden');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-08-20', 127, 127, 'job', 127, 'become', 127, 'article', 'ball', 'which');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-01-24', 128, 128, 'view', 128, 'build', 128, 'author', 'store', 'almost');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-10-01', 129, 129, 'fire', 129, 'letter', 129, 'price', 'worker', 'edge');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-07-02', 130, 130, 'article', 130, 'prevent', 130, 'do', 'fish', 'include');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-05-15', 131, 131, 'receive', 131, 'Republican', 131, 'exactly', 'population', 'movie');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-08-06', 132, 132, 'how', 132, 'middle', 132, 'answer', 'improve', 'office');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-04-08', 133, 133, 'race', 133, 'as', 133, 'understand', 'business', 'your');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-09-27', 134, 134, 'recent', 134, 'computer', 134, 'open', 'similar', 'risk');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-01-14', 135, 135, 'meeting', 135, 'star', 135, 'miss', 'lead', 'vote');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-07-09', 136, 136, 'win', 136, 'city', 136, 'your', 'money', 'choose');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-02-25', 137, 137, 'house', 137, 'unit', 137, 'look', 'street', 'husband');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-10-03', 138, 138, 'old', 138, 'around', 138, 'course', 'fight', 'several');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-07-06', 139, 139, 'action', 139, 'base', 139, 'evening', 'true', 'medical');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-12-15', 140, 140, 'accept', 140, 'anything', 140, 'among', 'box', 'push');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-02-06', 141, 141, 'mission', 141, 'offer', 141, 'risk', 'ever', 'lot');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-02-06', 142, 142, 'popular', 142, 'throughout', 142, 'method', 'me', 'society');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-06-18', 143, 143, 'ever', 143, 'actually', 143, 'machine', 'always', 'recognize');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2026-01-30', 144, 144, 'different', 144, 'within', 144, 'treat', 'evidence', 'control');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-07-06', 145, 145, 'mention', 145, 'center', 145, 'table', 'front', 'prove');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-03-25', 146, 146, 'later', 146, 'issue', 146, 'book', 'various', 'prevent');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-10-07', 147, 147, 'job', 147, 'class', 147, 'tonight', 'dream', 'scientist');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-08-17', 148, 148, 'claim', 148, 'coach', 148, 'green', 'per', 'candidate');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-04-18', 149, 149, 'plant', 149, 'better', 149, 'help', 'success', 'beautiful');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-02-08', 150, 150, 'ago', 150, 'receive', 150, 'consider', 'market', 'yard');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-02-15', 151, 151, 'happen', 151, 'huge', 151, 'social', 'traditional', 'camera');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-02-22', 152, 152, 'idea', 152, 'industry', 152, 'recognize', 'mean', 'act');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-11-12', 153, 153, 'popular', 153, 'second', 153, 'teach', 'walk', 'so');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-08-29', 154, 154, 'way', 154, 'artist', 154, 'require', 'race', 'career');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-03-07', 155, 155, 'seven', 155, 'note', 155, 'here', 'its', 'against');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-03-17', 156, 156, 'report', 156, 'ability', 156, 'give', 'step', 'born');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-07-22', 157, 157, 'station', 157, 'difficult', 157, 'clearly', 'as', 'successful');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-11-25', 158, 158, 'anyone', 158, 'Democrat', 158, 'really', 'herself', 'because');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-07-17', 159, 159, 'former', 159, 'after', 159, 'majority', 'easy', 'politics');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2026-01-21', 160, 160, 'daughter', 160, 'collection', 160, 'enough', 'every', 'find');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-06-15', 161, 161, 'enough', 161, 'write', 161, 'reduce', 'yard', 'raise');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-03-28', 162, 162, 'subject', 162, 'analysis', 162, 'thing', 'push', 'color');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-05-02', 163, 163, 'issue', 163, 'trade', 163, 'social', 'agency', 'store');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-09-02', 164, 164, 'perform', 164, 'gun', 164, 'contain', 'dream', 'surface');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-05-19', 165, 165, 'life', 165, 'true', 165, 'attention', 'stay', 'too');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-06-07', 166, 166, 'argue', 166, 'it', 166, 'table', 'address', 'actually');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-06-14', 167, 167, 'nice', 167, 'article', 167, 'product', 'whole', 'themselves');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2026-01-22', 168, 168, 'us', 168, 'require', 168, 'shoulder', 'more', 'explain');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-04-16', 169, 169, 'reflect', 169, 'base', 169, 'huge', 'culture', 'officer');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-04-12', 170, 170, 'imagine', 170, 'grow', 170, 'street', 'opportunity', 'price');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-02-27', 171, 171, 'budget', 171, 'agree', 171, 'his', 'sea', 'last');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-02-26', 172, 172, 'dog', 172, 'where', 172, 'fast', 'other', 'base');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-10-18', 173, 173, 'law', 173, 'term', 173, 'imagine', 'perhaps', 'hotel');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-04-04', 174, 174, 'lay', 174, 'somebody', 174, 'skill', 'news', 'listen');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-12-04', 175, 175, 'necessary', 175, 'door', 175, 'break', 'along', 'owner');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-06-23', 176, 176, 'lot', 176, 'wife', 176, 'during', 'future', 'like');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-12-25', 177, 177, 'you', 177, 'carry', 177, 'some', 'mind', 'run');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-07-07', 178, 178, 'these', 178, 'pretty', 178, 'again', 'remember', 'truth');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2026-01-17', 179, 179, 'authority', 179, 'evening', 179, 'suggest', 'toward', 'avoid');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-12-31', 180, 180, 'suggest', 180, 'civil', 180, 'trouble', 'very', 'past');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-03-25', 181, 181, 'few', 181, 'senior', 181, 'artist', 'business', 'study');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-08-03', 182, 182, 'class', 182, 'control', 182, 'administration', 'pull', 'economic');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-01-02', 183, 183, 'television', 183, 'financial', 183, 'catch', 'past', 'them');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-07-21', 184, 184, 'individual', 184, 'outside', 184, 'he', 'model', 'bag');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-03-08', 185, 185, 'draw', 185, 'senior', 185, 'election', 'drug', 'science');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-06-14', 186, 186, 'image', 186, 'magazine', 186, 'other', 'dark', 'true');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-12-03', 187, 187, 'religious', 187, 'reveal', 187, 'audience', 'face', 'anyone');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-12-14', 188, 188, 'former', 188, 'ten', 188, 'tax', 'can', 'industry');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2026-01-07', 189, 189, 'Democrat', 189, 'spend', 189, 'cup', 'war', 'Republican');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-06-17', 190, 190, 'interview', 190, 'end', 190, 'than', 'citizen', 'history');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-04-27', 191, 191, 'six', 191, 'watch', 191, 'billion', 'travel', 'what');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-05-20', 192, 192, 'study', 192, 'own', 192, 'either', 'course', 'believe');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-03-11', 193, 193, 'perhaps', 193, 'community', 193, 'official', 'save', 'political');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-07-28', 194, 194, 'write', 194, 'lawyer', 194, 'her', 'artist', 'on');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-09-26', 195, 195, 'serve', 195, 'art', 195, 'consumer', 'site', 'capital');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-07-04', 196, 196, 'very', 196, 'yet', 196, 'old', 'fast', 'play');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-04-16', 197, 197, 'usually', 197, 'professor', 197, 'into', 'research', 'form');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-06-08', 198, 198, 'already', 198, 'new', 198, 'range', 'reduce', 'senior');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-12-23', 199, 199, 'local', 199, 'gas', 199, 'model', 'quite', 'one');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-10-13', 200, 200, 'American', 200, 'economic', 200, 'action', 'song', 'war');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-12-31', 201, 201, 'relate', 201, 'cause', 201, 'decade', 'age', 'service');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-02-12', 202, 202, 'may', 202, 'court', 202, 'energy', 'seek', 'begin');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-06-27', 203, 203, 'argue', 203, 'art', 203, 'station', 'foreign', 'health');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-12-08', 204, 204, 'partner', 204, 'key', 204, 'his', 'event', 'success');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-03-07', 205, 205, 'any', 205, 'Mr', 205, 'test', 'available', 'account');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-07-26', 206, 206, 'front', 206, 'play', 206, 'early', 'daughter', 'figure');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-04-26', 207, 207, 'employee', 207, 'region', 207, 'away', 'heart', 'research');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-06-28', 208, 208, 'wonder', 208, 'whether', 208, 'beautiful', 'per', 'tend');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-07-30', 209, 209, 'four', 209, 'share', 209, 'reality', 'arm', 'into');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-08-13', 210, 210, 'born', 210, 'suggest', 210, 'half', 'great', 'boy');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-10-22', 211, 211, 'film', 211, 'lose', 211, 'customer', 'card', 'hot');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-08-04', 212, 212, 'wonder', 212, 'easy', 212, 'customer', 'act', 'personal');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-02-10', 213, 213, 'sport', 213, 'foreign', 213, 'performance', 'process', 'decision');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-06-26', 214, 214, 'address', 214, 'something', 214, 'seven', 'difference', 'available');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-04-20', 215, 215, 'administration', 215, 'school', 215, 'reflect', 'population', 'board');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-06-12', 216, 216, 'return', 216, 'just', 216, 'difference', 'product', 'establish');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-03-27', 217, 217, 'begin', 217, 'find', 217, 'including', 'actually', 'bring');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-12-27', 218, 218, 'toward', 218, 'stop', 218, 'pay', 'however', 'relationship');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-08-28', 219, 219, 'page', 219, 'shoulder', 219, 'computer', 'well', 'relate');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-06-09', 220, 220, 'themselves', 220, 'present', 220, 'wait', 'main', 'rest');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-03-03', 221, 221, 'thank', 221, 'small', 221, 'too', 'agreement', 'medical');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-07-18', 222, 222, 'help', 222, 'expert', 222, 'threat', 'picture', 'maintain');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2026-01-25', 223, 223, 'interview', 223, 'no', 223, 'gas', 'cut', 'source');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-09-04', 224, 224, 'scene', 224, 'customer', 224, 'good', 'from', 'most');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-03-25', 225, 225, 'trouble', 225, 'political', 225, 'shoulder', 'tell', 'air');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-03-16', 226, 226, 'simply', 226, 'understand', 226, 'soon', 'fill', 'chance');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-01-26', 227, 227, 'that', 227, 'actually', 227, 'financial', 'push', 'avoid');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2026-01-20', 228, 228, 'care', 228, 'out', 228, 'put', 'article', 'reduce');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-05-17', 229, 229, 'language', 229, 'business', 229, 'best', 'whose', 'compare');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-10-04', 230, 230, 'imagine', 230, 'character', 230, 'our', 'involve', 'kitchen');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-11-10', 231, 231, 'involve', 231, 'its', 231, 'goal', 'imagine', 'war');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-07-11', 232, 232, 'consumer', 232, 'total', 232, 'final', 'real', 'show');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-04-08', 233, 233, 'use', 233, 'nor', 233, 'interview', 'herself', 'per');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-08-16', 234, 234, 'happen', 234, 'value', 234, 'partner', 'idea', 'never');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-09-27', 235, 235, 'available', 235, 'past', 235, 'mean', 'character', 'challenge');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-02-29', 236, 236, 'example', 236, 'bed', 236, 'usually', 'wrong', 'in');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-05-19', 237, 237, 'choose', 237, 'process', 237, 'thought', 'like', 'song');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-07-01', 238, 238, 'between', 238, 'view', 238, 'name', 'across', 'source');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-03-06', 239, 239, 'bed', 239, 'suddenly', 239, 'media', 'common', 'contain');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-06-08', 240, 240, 'theory', 240, 'weight', 240, 'three', 'actually', 'manager');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-05-19', 241, 241, 'east', 241, 'although', 241, 'spend', 'positive', 'military');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-05-19', 242, 242, 'per', 242, 'affect', 242, 'future', 'police', 'fact');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-12-27', 243, 243, 'answer', 243, 'anything', 243, 'most', 'building', 'need');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-05-05', 244, 244, 'system', 244, 'line', 244, 'catch', 'represent', 'majority');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-10-29', 245, 245, 'black', 245, 'use', 245, 'present', 'realize', 'send');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-11-09', 246, 246, 'forward', 246, 'speak', 246, 'camera', 'almost', 'per');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-05-31', 247, 247, 'win', 247, 'newspaper', 247, 'left', 'sound', 'star');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-09-13', 248, 248, 'culture', 248, 'off', 248, 'guess', 'above', 'along');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-12-23', 249, 249, 'admit', 249, 'traditional', 249, 'how', 'environment', 'eye');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-02-09', 250, 250, 'marriage', 250, 'good', 250, 'way', 'Mrs', 'agent');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-06-01', 251, 251, 'beyond', 251, 'moment', 251, 'smile', 'difficult', 'little');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-06-14', 252, 252, 'be', 252, 'never', 252, 'quickly', 'door', 'behind');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-08-06', 253, 253, 'us', 253, 'coach', 253, 'explain', 'information', 'analysis');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2026-01-11', 254, 254, 'early', 254, 'religious', 254, 'nor', 'leave', 'safe');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-02-17', 255, 255, 'rise', 255, 'design', 255, 'type', 'difference', 'article');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-03-06', 256, 256, 'out', 256, 'southern', 256, 'whose', 'total', 'claim');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-11-22', 257, 257, 'represent', 257, 'fact', 257, 'any', 'might', 'language');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-09-06', 258, 258, 'best', 258, 'they', 258, 'debate', 'resource', 'team');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-04-26', 259, 259, 'not', 259, 'together', 259, 'field', 'since', 'voice');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-03-21', 260, 260, 'religious', 260, 'push', 260, 'sense', 'team', 'system');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-08-18', 261, 261, 'owner', 261, 'identify', 261, 'bank', 'number', 'wife');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-06-22', 262, 262, 'line', 262, 'Mr', 262, 'teacher', 'drive', 'share');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-01-15', 263, 263, 'physical', 263, 'inside', 263, 'fact', 'standard', 'song');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-03-11', 264, 264, 'open', 264, 'without', 264, 'who', 'government', 'hit');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-08-18', 265, 265, 'voice', 265, 'fly', 265, 'meet', 'hair', 'whose');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-11-24', 266, 266, 'different', 266, 'generation', 266, 'call', 'so', 'nearly');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-08-15', 267, 267, 'today', 267, 'whether', 267, 'region', 'than', 'top');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-11-24', 268, 268, 'to', 268, 'laugh', 268, 'by', 'small', 'down');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-02-21', 269, 269, 'system', 269, 'though', 269, 'statement', 'service', 'mission');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-02-09', 270, 270, 'process', 270, 'gun', 270, 'plan', 'baby', 'goal');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-04-30', 271, 271, 'lay', 271, 'often', 271, 'not', 'ask', 'population');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-07-11', 272, 272, 'once', 272, 'growth', 272, 'save', 'one', 'enough');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-08-10', 273, 273, 'because', 273, 'generation', 273, 'once', 'tonight', 'each');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-09-19', 274, 274, 'suggest', 274, 'rate', 274, 'summer', 'show', 'three');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2026-01-27', 275, 275, 'expect', 275, 'movement', 275, 'practice', 'thing', 'magazine');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-11-14', 276, 276, 'mission', 276, 'Congress', 276, 'fine', 'sort', 'positive');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-08-31', 277, 277, 'about', 277, 'eight', 277, 'foot', 'also', 'full');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-10-15', 278, 278, 'claim', 278, 'create', 278, 'fine', 'lead', 'size');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-02-17', 279, 279, 'impact', 279, 'sport', 279, 'business', 'rest', 'instead');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-03-07', 280, 280, 'another', 280, 'decade', 280, 'despite', 'use', 'suffer');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-07-11', 281, 281, 'place', 281, 'long', 281, 'southern', 'social', 'station');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-01-26', 282, 282, 'research', 282, 'budget', 282, 'court', 'such', 'lead');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-05-27', 283, 283, 'candidate', 283, 'six', 283, 'no', 'phone', 'experience');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-11-19', 284, 284, 'magazine', 284, 'drive', 284, 'continue', 'investment', 'article');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2026-01-14', 285, 285, 'such', 285, 'future', 285, 'pull', 'Democrat', 'author');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-11-28', 286, 286, 'friend', 286, 'Democrat', 286, 'trial', 'range', 'consumer');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-06-22', 287, 287, 'lawyer', 287, 'family', 287, 'information', 'born', 'score');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-06-17', 288, 288, 'worker', 288, 'order', 288, 'figure', 'edge', 'maybe');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-06-23', 289, 289, 'hear', 289, 'so', 289, 'kind', 'enter', 'away');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-08-20', 290, 290, 'receive', 290, 'off', 290, 'job', 'my', 'over');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-12-24', 291, 291, 'own', 291, 'go', 291, 'week', 'meeting', 'seem');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-09-26', 292, 292, 'lot', 292, 'receive', 292, 'movie', 'result', 'campaign');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-10-28', 293, 293, 'hold', 293, 'no', 293, 'by', 'live', 'time');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-10-30', 294, 294, 'a', 294, 'for', 294, 'time', 'dream', 'laugh');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-05-22', 295, 295, 'another', 295, 'beyond', 295, 'single', 'industry', 'play');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-04-19', 296, 296, 'else', 296, 'until', 296, 'sign', 'right', 'leave');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2026-01-03', 297, 297, 'plant', 297, 'full', 297, 'see', 'garden', 'open');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2024-08-01', 298, 298, 'well', 298, 'simple', 298, 'explain', 'life', 'music');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-03-26', 299, 299, 'chance', 299, 'ground', 299, 'close', 'far', 'we');
-
-INSERT INTO trip_details (actual_time_of_arrival, city_id, client_id, client_rating, driver_id, driver_rating, id, predicted_eta, request_at, status)
-VALUES ('2025-04-24', 300, 300, 'blue', 300, 'note', 300, 'cost', 'fear', 'partner');
+VALUES ('2024-04-04', 1, 1, 'bag', 1, 'get', 1, 'official', 'tax', 'concern',
+('2025-11-15', 2, 2, 'culture', 2, 'goal', 2, 'start', 'her', 'always',
+('2025-09-15', 3, 3, 'public', 3, 'yet', 3, 'sort', 'throughout', 'old',
+('2024-07-20', 4, 4, 'real', 4, 'air', 4, 'serious', 'tax', 'example',
+('2026-01-28', 5, 5, 'office', 5, 'site', 5, 'front', 'eat', 'name',
+('2025-06-03', 6, 6, 'single', 6, 'unit', 6, 'onto', 'tend', 'into',
+('2024-04-06', 7, 7, 'degree', 7, 'share', 7, 'simply', 'huge', 'wind',
+('2025-01-21', 8, 8, 'cold', 8, 'senior', 8, 'wide', 'million', 'program',
+('2026-01-18', 9, 9, 'business', 9, 'country', 9, 'truth', 'relationship', 'example',
+('2025-10-16', 10, 10, 'management', 10, 'see', 10, 'hot', 'hotel', 'size',
+('2024-04-26', 11, 11, 'everything', 11, 'economic', 11, 'international', 'focus', 'campaign',
+('2024-12-17', 12, 12, 'turn', 12, 'newspaper', 12, 'reveal', 'single', 'one',
+('2024-10-29', 13, 13, 'north', 13, 'be', 13, 'writer', 'as', 'study',
+('2024-02-26', 14, 14, 'white', 14, 'like', 14, 'TV', 'Democrat', 'again',
+('2025-07-29', 15, 15, 'case', 15, 'resource', 15, 'understand', 'argue', 'fill',
+('2025-06-30', 16, 16, 'keep', 16, 'serve', 16, 'mention', 'suffer', 'particularly',
+('2024-02-06', 17, 17, 'plan', 17, 'event', 17, 'prove', 'check', 'case',
+('2025-10-10', 18, 18, 'bag', 18, 'land', 18, 'almost', 'rule', 'glass',
+('2025-12-15', 19, 19, 'stuff', 19, 'offer', 19, 'year', 'visit', 'street',
+('2025-02-07', 20, 20, 'organization', 20, 'far', 20, 'movie', 'democratic', 'task',
+('2024-04-18', 21, 21, 'gun', 21, 'central', 21, 'program', 'line', 'send',
+('2024-06-12', 22, 22, 'now', 22, 'seat', 22, 'system', 'me', 'free',
+('2024-02-14', 23, 23, 'piece', 23, 'then', 23, 'medical', 'method', 'sometimes',
+('2025-06-21', 24, 24, 'sense', 24, 'church', 24, 'artist', 'can', 'write',
+('2025-10-22', 25, 25, 'realize', 25, 'summer', 25, 'must', 'dream', 'account',
+('2026-01-21', 26, 26, 'rather', 26, 'ever', 26, 'community', 'west', 'strong',
+('2024-06-12', 27, 27, 'him', 27, 'rule', 27, 'collection', 'rise', 'goal',
+('2024-10-09', 28, 28, 'attention', 28, 'church', 28, 'music', 'cost', 'stage',
+('2024-03-30', 29, 29, 'government', 29, 'can', 29, 'billion', 'month', 'another',
+('2025-11-22', 30, 30, 'begin', 30, 'big', 30, 'agreement', 'speak', 'green',
+('2024-04-09', 31, 31, 'hard', 31, 'ball', 31, 'oil', 'brother', 'society',
+('2024-05-19', 32, 32, 'economy', 32, 'exist', 32, 'test', 'person', 'nation',
+('2025-08-19', 33, 33, 'business', 33, 'indicate', 33, 'guess', 'quickly', 'gun',
+('2025-11-07', 34, 34, 'effect', 34, 'surface', 34, 'cell', 'move', 'turn',
+('2025-10-09', 35, 35, 'about', 35, 'keep', 35, 'collection', 'party', 'once',
+('2026-01-24', 36, 36, 'goal', 36, 'use', 36, 'occur', 'seven', 'tough',
+('2025-07-23', 37, 37, 'themselves', 37, 'front', 37, 'agent', 'just', 'interesting',
+('2025-12-11', 38, 38, 'capital', 38, 'he', 38, 'view', 'current', 'this',
+('2025-09-25', 39, 39, 'see', 39, 'example', 39, 'writer', 'set', 'everybody',
+('2025-09-22', 40, 40, 'song', 40, 'seat', 40, 'reveal', 'enough', 'quality',
+('2025-01-18', 41, 41, 'must', 41, 'address', 41, 'shake', 'section', 'beyond',
+('2025-01-12', 42, 42, 'feel', 42, 'article', 42, 'yes', 'those', 'west',
+('2024-05-01', 43, 43, 'indicate', 43, 'practice', 43, 'agree', 'threat', 'others',
+('2024-07-05', 44, 44, 'until', 44, 'still', 44, 'party', 'surface', 'better',
+('2025-11-22', 45, 45, 'executive', 45, 'entire', 45, 'huge', 'energy', 'fear',
+('2025-02-13', 46, 46, 'lead', 46, 'environment', 46, 'American', 'but', 'easy',
+('2024-08-16', 47, 47, 'eye', 47, 'no', 47, 'first', 'price', 'within',
+('2024-05-09', 48, 48, 'soon', 48, 'send', 48, 'raise', 'my', 'international',
+('2025-12-23', 49, 49, 'investment', 49, 'party', 49, 'item', 'risk', 'official',
+('2024-11-07', 50, 50, 'American', 50, 'time', 50, 'sing', 'perhaps', 'blue',
+('2025-02-09', 51, 51, 'score', 51, 'financial', 51, 'specific', 'cause', 'program',
+('2025-04-03', 52, 52, 'writer', 52, 'management', 52, 'strategy', 'general', 'continue',
+('2024-05-26', 53, 53, 'quickly', 53, 'forward', 53, 'item', 'finally', 'language',
+('2025-09-30', 54, 54, 'body', 54, 'official', 54, 'culture', 'organization', 'standard',
+('2025-03-14', 55, 55, 'catch', 55, 'indeed', 55, 'tough', 'maybe', 'door',
+('2025-06-10', 56, 56, 'decade', 56, 'debate', 56, 'during', 'early', 'factor',
+('2025-11-29', 57, 57, 'month', 57, 'our', 57, 'simple', 'cell', 'rock',
+('2024-04-27', 58, 58, 'item', 58, 'happen', 58, 'final', 'rate', 'enjoy',
+('2025-02-28', 59, 59, 'market', 59, 'other', 59, 'in', 'star', 'grow',
+('2024-04-14', 60, 60, 'marriage', 60, 'base', 60, 'food', 'college', 'TV',
+('2024-03-24', 61, 61, 'baby', 61, 'other', 61, 'star', 'follow', 'quality',
+('2025-02-05', 62, 62, 'take', 62, 'job', 62, 'me', 'natural', 'mind',
+('2024-07-04', 63, 63, 'training', 63, 'particular', 63, 'doctor', 'value', 'certain',
+('2024-07-07', 64, 64, 'series', 64, 'training', 64, 'fact', 'force', 'put',
+('2024-11-25', 65, 65, 'left', 65, 'discussion', 65, 'admit', 'control', 'performance',
+('2024-04-29', 66, 66, 'environmental', 66, 'truth', 66, 'federal', 'total', 'student',
+('2024-05-05', 67, 67, 'thought', 67, 'front', 67, 'party', 'seek', 'miss',
+('2025-05-18', 68, 68, 'poor', 68, 'right', 68, 'send', 'through', 'capital',
+('2025-10-10', 69, 69, 'reflect', 69, 'dream', 69, 'industry', 'cost', 'magazine',
+('2025-04-02', 70, 70, 'result', 70, 'difference', 70, 'test', 'sea', 'direction',
+('2025-11-18', 71, 71, 'American', 71, 'individual', 71, 'so', 'perform', 'throughout',
+('2024-12-16', 72, 72, 'game', 72, 'product', 72, 'success', 'about', 'join',
+('2024-10-07', 73, 73, 'kitchen', 73, 'raise', 73, 'society', 'always', 'actually',
+('2025-06-18', 74, 74, 'lose', 74, 'pull', 74, 'mission', 'bar', 'worker',
+('2025-05-10', 75, 75, 'by', 75, 'doctor', 75, 'such', 'expect', 'another',
+('2024-08-27', 76, 76, 'hear', 76, 'herself', 76, 'magazine', 'no', 'fill',
+('2024-06-18', 77, 77, 'cell', 77, 'difference', 77, 'everyone', 'final', 'major',
+('2025-07-24', 78, 78, 'send', 78, 'protect', 78, 'coach', 'white', 'free',
+('2025-03-15', 79, 79, 'trial', 79, 'officer', 79, 'own', 'rest', 'into',
+('2025-04-01', 80, 80, 'man', 80, 'clear', 80, 'decision', 'assume', 'drop',
+('2024-12-24', 81, 81, 'north', 81, 'treatment', 81, 'drug', 'less', 'hand',
+('2025-10-14', 82, 82, 'democratic', 82, 'husband', 82, 'once', 'evening', 'recognize',
+('2025-08-21', 83, 83, 'exactly', 83, 'long', 83, 'tonight', 'owner', 'work',
+('2025-12-10', 84, 84, 'friend', 84, 'price', 84, 'figure', 'glass', 'person',
+('2025-09-08', 85, 85, 'western', 85, 'interesting', 85, 'public', 'identify', 'sound',
+('2024-07-12', 86, 86, 'word', 86, 'law', 86, 'major', 'amount', 'hand',
+('2024-11-24', 87, 87, 'their', 87, 'inside', 87, 'big', 'throw', 'head',
+('2025-04-23', 88, 88, 'sea', 88, 'choice', 88, 'attention', 'impact', 'catch',
+('2025-07-02', 89, 89, 'evidence', 89, 'nor', 89, 'young', 'realize', 'first',
+('2025-05-10', 90, 90, 'involve', 90, 'available', 90, 'pass', 'couple', 'second',
+('2024-04-18', 91, 91, 'hold', 91, 'let', 91, 'face', 'science', 'beat',
+('2025-07-08', 92, 92, 'account', 92, 'several', 92, 'believe', 'difficult', 'my',
+('2024-09-06', 93, 93, 'manage', 93, 'order', 93, 'success', 'protect', 'listen',
+('2025-03-16', 94, 94, 'teacher', 94, 'a', 94, 'city', 'reason', 'debate',
+('2025-06-20', 95, 95, 'serve', 95, 'you', 95, 'political', 'traditional', 'end',
+('2024-10-14', 96, 96, 'than', 96, 'heart', 96, 'include', 'most', 'other',
+('2025-10-17', 97, 97, 'particular', 97, 'production', 97, 'TV', 'theory', 'main',
+('2024-07-29', 98, 98, 'recently', 98, 'west', 98, 'leader', 'before', 'nation',
+('2024-03-17', 99, 99, 'site', 99, 'couple', 99, 'not', 'feel', 'begin',
+('2025-05-16', 100, 100, 'fill', 100, 'career', 100, 'sport', 'hear', 'about',
+('2025-06-27', 101, 101, 'people', 101, 'city', 101, 'little', 'force', 'long',
+('2025-06-21', 102, 102, 'million', 102, 'around', 102, 'election', 'friend', 'less',
+('2024-08-21', 103, 103, 'attack', 103, 'ahead', 103, 'herself', 'minute', 'surface',
+('2024-06-07', 104, 104, 'fill', 104, 'candidate', 104, 'look', 'western', 'must',
+('2024-11-03', 105, 105, 'plan', 105, 'plan', 105, 'suggest', 'budget', 'result',
+('2024-05-12', 106, 106, 'while', 106, 'help', 106, 'however', 'leave', 'leader',
+('2024-05-02', 107, 107, 'subject', 107, 'too', 107, 'form', 'western', 'race',
+('2025-06-05', 108, 108, 'care', 108, 'not', 108, 'impact', 'approach', 'walk',
+('2025-05-22', 109, 109, 'strong', 109, 'everyone', 109, 'price', 'poor', 'face',
+('2026-01-03', 110, 110, 'job', 110, 'line', 110, 'beat', 'present', 'television',
+('2025-02-05', 111, 111, 'risk', 111, 'cause', 111, 'leave', 'service', 'production',
+('2025-08-22', 112, 112, 'speech', 112, 'there', 112, 'it', 'tree', 'forward',
+('2025-07-09', 113, 113, 'try', 113, 'pretty', 113, 'order', 'apply', 'American',
+('2025-10-21', 114, 114, 'free', 114, 'pay', 114, 'until', 'fish', 'eight',
+('2024-05-15', 115, 115, 'may', 115, 'consider', 115, 'cup', 'consumer', 'enough',
+('2025-04-09', 116, 116, 'above', 116, 'cut', 116, 'toward', 'participant', 'approach',
+('2025-08-01', 117, 117, 'budget', 117, 'source', 117, 'campaign', 'back', 'police',
+('2026-01-06', 118, 118, 'try', 118, 'would', 118, 'often', 'far', 'safe',
+('2024-03-21', 119, 119, 'upon', 119, 'economy', 119, 'magazine', 'single', 'seek',
+('2025-10-07', 120, 120, 'perhaps', 120, 'list', 120, 'modern', 'person', 'ball',
+('2025-07-01', 121, 121, 'receive', 121, 'focus', 121, 'west', 'art', 'nature',
+('2025-07-21', 122, 122, 'forward', 122, 'Democrat', 122, 'fire', 'democratic', 'five',
+('2024-03-19', 123, 123, 'this', 123, 'plan', 123, 'single', 'however', 'sure',
+('2024-11-25', 124, 124, 'trade', 124, 'political', 124, 'sense', 'food', 'style',
+('2025-07-28', 125, 125, 'purpose', 125, 'begin', 125, 'among', 'his', 'add',
+('2025-11-18', 126, 126, 'without', 126, 'data', 126, 'role', 'single', 'garden',
+('2024-08-20', 127, 127, 'job', 127, 'become', 127, 'article', 'ball', 'which',
+('2025-01-24', 128, 128, 'view', 128, 'build', 128, 'author', 'store', 'almost',
+('2024-10-01', 129, 129, 'fire', 129, 'letter', 129, 'price', 'worker', 'edge',
+('2025-07-02', 130, 130, 'article', 130, 'prevent', 130, 'do', 'fish', 'include',
+('2025-05-15', 131, 131, 'receive', 131, 'Republican', 131, 'exactly', 'population', 'movie',
+('2025-08-06', 132, 132, 'how', 132, 'middle', 132, 'answer', 'improve', 'office',
+('2025-04-08', 133, 133, 'race', 133, 'as', 133, 'understand', 'business', 'your',
+('2025-09-27', 134, 134, 'recent', 134, 'computer', 134, 'open', 'similar', 'risk',
+('2025-01-14', 135, 135, 'meeting', 135, 'star', 135, 'miss', 'lead', 'vote',
+('2025-07-09', 136, 136, 'win', 136, 'city', 136, 'your', 'money', 'choose',
+('2024-02-25', 137, 137, 'house', 137, 'unit', 137, 'look', 'street', 'husband',
+('2024-10-03', 138, 138, 'old', 138, 'around', 138, 'course', 'fight', 'several',
+('2025-07-06', 139, 139, 'action', 139, 'base', 139, 'evening', 'true', 'medical',
+('2024-12-15', 140, 140, 'accept', 140, 'anything', 140, 'among', 'box', 'push',
+('2025-02-06', 141, 141, 'mission', 141, 'offer', 141, 'risk', 'ever', 'lot',
+('2025-02-06', 142, 142, 'popular', 142, 'throughout', 142, 'method', 'me', 'society',
+('2025-06-18', 143, 143, 'ever', 143, 'actually', 143, 'machine', 'always', 'recognize',
+('2026-01-30', 144, 144, 'different', 144, 'within', 144, 'treat', 'evidence', 'control',
+('2025-07-06', 145, 145, 'mention', 145, 'center', 145, 'table', 'front', 'prove',
+('2025-03-25', 146, 146, 'later', 146, 'issue', 146, 'book', 'various', 'prevent',
+('2025-10-07', 147, 147, 'job', 147, 'class', 147, 'tonight', 'dream', 'scientist',
+('2025-08-17', 148, 148, 'claim', 148, 'coach', 148, 'green', 'per', 'candidate',
+('2025-04-18', 149, 149, 'plant', 149, 'better', 149, 'help', 'success', 'beautiful',
+('2025-02-08', 150, 150, 'ago', 150, 'receive', 150, 'consider', 'market', 'yard',
+('2025-02-15', 151, 151, 'happen', 151, 'huge', 151, 'social', 'traditional', 'camera',
+('2025-02-22', 152, 152, 'idea', 152, 'industry', 152, 'recognize', 'mean', 'act',
+('2024-11-12', 153, 153, 'popular', 153, 'second', 153, 'teach', 'walk', 'so',
+('2024-08-29', 154, 154, 'way', 154, 'artist', 154, 'require', 'race', 'career',
+('2024-03-07', 155, 155, 'seven', 155, 'note', 155, 'here', 'its', 'against',
+('2025-03-17', 156, 156, 'report', 156, 'ability', 156, 'give', 'step', 'born',
+('2025-07-22', 157, 157, 'station', 157, 'difficult', 157, 'clearly', 'as', 'successful',
+('2024-11-25', 158, 158, 'anyone', 158, 'Democrat', 158, 'really', 'herself', 'because',
+('2025-07-17', 159, 159, 'former', 159, 'after', 159, 'majority', 'easy', 'politics',
+('2026-01-21', 160, 160, 'daughter', 160, 'collection', 160, 'enough', 'every', 'find',
+('2024-06-15', 161, 161, 'enough', 161, 'write', 161, 'reduce', 'yard', 'raise',
+('2024-03-28', 162, 162, 'subject', 162, 'analysis', 162, 'thing', 'push', 'color',
+('2024-05-02', 163, 163, 'issue', 163, 'trade', 163, 'social', 'agency', 'store',
+('2025-09-02', 164, 164, 'perform', 164, 'gun', 164, 'contain', 'dream', 'surface',
+('2024-05-19', 165, 165, 'life', 165, 'true', 165, 'attention', 'stay', 'too',
+('2024-06-07', 166, 166, 'argue', 166, 'it', 166, 'table', 'address', 'actually',
+('2024-06-14', 167, 167, 'nice', 167, 'article', 167, 'product', 'whole', 'themselves',
+('2026-01-22', 168, 168, 'us', 168, 'require', 168, 'shoulder', 'more', 'explain',
+('2025-04-16', 169, 169, 'reflect', 169, 'base', 169, 'huge', 'culture', 'officer',
+('2024-04-12', 170, 170, 'imagine', 170, 'grow', 170, 'street', 'opportunity', 'price',
+('2025-02-27', 171, 171, 'budget', 171, 'agree', 171, 'his', 'sea', 'last',
+('2024-02-26', 172, 172, 'dog', 172, 'where', 172, 'fast', 'other', 'base',
+('2024-10-18', 173, 173, 'law', 173, 'term', 173, 'imagine', 'perhaps', 'hotel',
+('2024-04-04', 174, 174, 'lay', 174, 'somebody', 174, 'skill', 'news', 'listen',
+('2025-12-04', 175, 175, 'necessary', 175, 'door', 175, 'break', 'along', 'owner',
+('2025-06-23', 176, 176, 'lot', 176, 'wife', 176, 'during', 'future', 'like',
+('2024-12-25', 177, 177, 'you', 177, 'carry', 177, 'some', 'mind', 'run',
+('2024-07-07', 178, 178, 'these', 178, 'pretty', 178, 'again', 'remember', 'truth',
+('2026-01-17', 179, 179, 'authority', 179, 'evening', 179, 'suggest', 'toward', 'avoid',
+('2024-12-31', 180, 180, 'suggest', 180, 'civil', 180, 'trouble', 'very', 'past',
+('2025-03-25', 181, 181, 'few', 181, 'senior', 181, 'artist', 'business', 'study',
+('2025-08-03', 182, 182, 'class', 182, 'control', 182, 'administration', 'pull', 'economic',
+('2025-01-02', 183, 183, 'television', 183, 'financial', 183, 'catch', 'past', 'them',
+('2024-07-21', 184, 184, 'individual', 184, 'outside', 184, 'he', 'model', 'bag',
+('2025-03-08', 185, 185, 'draw', 185, 'senior', 185, 'election', 'drug', 'science',
+('2025-06-14', 186, 186, 'image', 186, 'magazine', 186, 'other', 'dark', 'true',
+('2024-12-03', 187, 187, 'religious', 187, 'reveal', 187, 'audience', 'face', 'anyone',
+('2025-12-14', 188, 188, 'former', 188, 'ten', 188, 'tax', 'can', 'industry',
+('2026-01-07', 189, 189, 'Democrat', 189, 'spend', 189, 'cup', 'war', 'Republican',
+('2024-06-17', 190, 190, 'interview', 190, 'end', 190, 'than', 'citizen', 'history',
+('2024-04-27', 191, 191, 'six', 191, 'watch', 191, 'billion', 'travel', 'what',
+('2025-05-20', 192, 192, 'study', 192, 'own', 192, 'either', 'course', 'believe',
+('2025-03-11', 193, 193, 'perhaps', 193, 'community', 193, 'official', 'save', 'political',
+('2025-07-28', 194, 194, 'write', 194, 'lawyer', 194, 'her', 'artist', 'on',
+('2024-09-26', 195, 195, 'serve', 195, 'art', 195, 'consumer', 'site', 'capital',
+('2025-07-04', 196, 196, 'very', 196, 'yet', 196, 'old', 'fast', 'play',
+('2024-04-16', 197, 197, 'usually', 197, 'professor', 197, 'into', 'research', 'form',
+('2024-06-08', 198, 198, 'already', 198, 'new', 198, 'range', 'reduce', 'senior',
+('2024-12-23', 199, 199, 'local', 199, 'gas', 199, 'model', 'quite', 'one',
+('2024-10-13', 200, 200, 'American', 200, 'economic', 200, 'action', 'song', 'war',
+('2024-12-31', 201, 201, 'relate', 201, 'cause', 201, 'decade', 'age', 'service',
+('2025-02-12', 202, 202, 'may', 202, 'court', 202, 'energy', 'seek', 'begin',
+('2024-06-27', 203, 203, 'argue', 203, 'art', 203, 'station', 'foreign', 'health',
+('2025-12-08', 204, 204, 'partner', 204, 'key', 204, 'his', 'event', 'success',
+('2025-03-07', 205, 205, 'any', 205, 'Mr', 205, 'test', 'available', 'account',
+('2025-07-26', 206, 206, 'front', 206, 'play', 206, 'early', 'daughter', 'figure',
+('2024-04-26', 207, 207, 'employee', 207, 'region', 207, 'away', 'heart', 'research',
+('2024-06-28', 208, 208, 'wonder', 208, 'whether', 208, 'beautiful', 'per', 'tend',
+('2025-07-30', 209, 209, 'four', 209, 'share', 209, 'reality', 'arm', 'into',
+('2024-08-13', 210, 210, 'born', 210, 'suggest', 210, 'half', 'great', 'boy',
+('2025-10-22', 211, 211, 'film', 211, 'lose', 211, 'customer', 'card', 'hot',
+('2024-08-04', 212, 212, 'wonder', 212, 'easy', 212, 'customer', 'act', 'personal',
+('2024-02-10', 213, 213, 'sport', 213, 'foreign', 213, 'performance', 'process', 'decision',
+('2025-06-26', 214, 214, 'address', 214, 'something', 214, 'seven', 'difference', 'available',
+('2024-04-20', 215, 215, 'administration', 215, 'school', 215, 'reflect', 'population', 'board',
+('2024-06-12', 216, 216, 'return', 216, 'just', 216, 'difference', 'product', 'establish',
+('2025-03-27', 217, 217, 'begin', 217, 'find', 217, 'including', 'actually', 'bring',
+('2024-12-27', 218, 218, 'toward', 218, 'stop', 218, 'pay', 'however', 'relationship',
+('2025-08-28', 219, 219, 'page', 219, 'shoulder', 219, 'computer', 'well', 'relate',
+('2025-06-09', 220, 220, 'themselves', 220, 'present', 220, 'wait', 'main', 'rest',
+('2025-03-03', 221, 221, 'thank', 221, 'small', 221, 'too', 'agreement', 'medical',
+('2025-07-18', 222, 222, 'help', 222, 'expert', 222, 'threat', 'picture', 'maintain',
+('2026-01-25', 223, 223, 'interview', 223, 'no', 223, 'gas', 'cut', 'source',
+('2025-09-04', 224, 224, 'scene', 224, 'customer', 224, 'good', 'from', 'most',
+('2025-03-25', 225, 225, 'trouble', 225, 'political', 225, 'shoulder', 'tell', 'air',
+('2024-03-16', 226, 226, 'simply', 226, 'understand', 226, 'soon', 'fill', 'chance',
+('2025-01-26', 227, 227, 'that', 227, 'actually', 227, 'financial', 'push', 'avoid',
+('2026-01-20', 228, 228, 'care', 228, 'out', 228, 'put', 'article', 'reduce',
+('2025-05-17', 229, 229, 'language', 229, 'business', 229, 'best', 'whose', 'compare',
+('2025-10-04', 230, 230, 'imagine', 230, 'character', 230, 'our', 'involve', 'kitchen',
+('2025-11-10', 231, 231, 'involve', 231, 'its', 231, 'goal', 'imagine', 'war',
+('2025-07-11', 232, 232, 'consumer', 232, 'total', 232, 'final', 'real', 'show',
+('2025-04-08', 233, 233, 'use', 233, 'nor', 233, 'interview', 'herself', 'per',
+('2025-08-16', 234, 234, 'happen', 234, 'value', 234, 'partner', 'idea', 'never',
+('2025-09-27', 235, 235, 'available', 235, 'past', 235, 'mean', 'character', 'challenge',
+('2024-02-29', 236, 236, 'example', 236, 'bed', 236, 'usually', 'wrong', 'in',
+('2024-05-19', 237, 237, 'choose', 237, 'process', 237, 'thought', 'like', 'song',
+('2025-07-01', 238, 238, 'between', 238, 'view', 238, 'name', 'across', 'source',
+('2025-03-06', 239, 239, 'bed', 239, 'suddenly', 239, 'media', 'common', 'contain',
+('2025-06-08', 240, 240, 'theory', 240, 'weight', 240, 'three', 'actually', 'manager',
+('2025-05-19', 241, 241, 'east', 241, 'although', 241, 'spend', 'positive', 'military',
+('2025-05-19', 242, 242, 'per', 242, 'affect', 242, 'future', 'police', 'fact',
+('2025-12-27', 243, 243, 'answer', 243, 'anything', 243, 'most', 'building', 'need',
+('2024-05-05', 244, 244, 'system', 244, 'line', 244, 'catch', 'represent', 'majority',
+('2025-10-29', 245, 245, 'black', 245, 'use', 245, 'present', 'realize', 'send',
+('2025-11-09', 246, 246, 'forward', 246, 'speak', 246, 'camera', 'almost', 'per',
+('2025-05-31', 247, 247, 'win', 247, 'newspaper', 247, 'left', 'sound', 'star',
+('2025-09-13', 248, 248, 'culture', 248, 'off', 248, 'guess', 'above', 'along',
+('2025-12-23', 249, 249, 'admit', 249, 'traditional', 249, 'how', 'environment', 'eye',
+('2024-02-09', 250, 250, 'marriage', 250, 'good', 250, 'way', 'Mrs', 'agent',
+('2024-06-01', 251, 251, 'beyond', 251, 'moment', 251, 'smile', 'difficult', 'little',
+('2025-06-14', 252, 252, 'be', 252, 'never', 252, 'quickly', 'door', 'behind',
+('2024-08-06', 253, 253, 'us', 253, 'coach', 253, 'explain', 'information', 'analysis',
+('2026-01-11', 254, 254, 'early', 254, 'religious', 254, 'nor', 'leave', 'safe',
+('2024-02-17', 255, 255, 'rise', 255, 'design', 255, 'type', 'difference', 'article',
+('2024-03-06', 256, 256, 'out', 256, 'southern', 256, 'whose', 'total', 'claim',
+('2025-11-22', 257, 257, 'represent', 257, 'fact', 257, 'any', 'might', 'language',
+('2025-09-06', 258, 258, 'best', 258, 'they', 258, 'debate', 'resource', 'team',
+('2025-04-26', 259, 259, 'not', 259, 'together', 259, 'field', 'since', 'voice',
+('2024-03-21', 260, 260, 'religious', 260, 'push', 260, 'sense', 'team', 'system',
+('2024-08-18', 261, 261, 'owner', 261, 'identify', 261, 'bank', 'number', 'wife',
+('2024-06-22', 262, 262, 'line', 262, 'Mr', 262, 'teacher', 'drive', 'share',
+('2025-01-15', 263, 263, 'physical', 263, 'inside', 263, 'fact', 'standard', 'song',
+('2024-03-11', 264, 264, 'open', 264, 'without', 264, 'who', 'government', 'hit',
+('2024-08-18', 265, 265, 'voice', 265, 'fly', 265, 'meet', 'hair', 'whose',
+('2025-11-24', 266, 266, 'different', 266, 'generation', 266, 'call', 'so', 'nearly',
+('2025-08-15', 267, 267, 'today', 267, 'whether', 267, 'region', 'than', 'top',
+('2024-11-24', 268, 268, 'to', 268, 'laugh', 268, 'by', 'small', 'down',
+('2025-02-21', 269, 269, 'system', 269, 'though', 269, 'statement', 'service', 'mission',
+('2025-02-09', 270, 270, 'process', 270, 'gun', 270, 'plan', 'baby', 'goal',
+('2024-04-30', 271, 271, 'lay', 271, 'often', 271, 'not', 'ask', 'population',
+('2024-07-11', 272, 272, 'once', 272, 'growth', 272, 'save', 'one', 'enough',
+('2024-08-10', 273, 273, 'because', 273, 'generation', 273, 'once', 'tonight', 'each',
+('2024-09-19', 274, 274, 'suggest', 274, 'rate', 274, 'summer', 'show', 'three',
+('2026-01-27', 275, 275, 'expect', 275, 'movement', 275, 'practice', 'thing', 'magazine',
+('2025-11-14', 276, 276, 'mission', 276, 'Congress', 276, 'fine', 'sort', 'positive',
+('2025-08-31', 277, 277, 'about', 277, 'eight', 277, 'foot', 'also', 'full',
+('2025-10-15', 278, 278, 'claim', 278, 'create', 278, 'fine', 'lead', 'size',
+('2024-02-17', 279, 279, 'impact', 279, 'sport', 279, 'business', 'rest', 'instead',
+('2024-03-07', 280, 280, 'another', 280, 'decade', 280, 'despite', 'use', 'suffer',
+('2024-07-11', 281, 281, 'place', 281, 'long', 281, 'southern', 'social', 'station',
+('2025-01-26', 282, 282, 'research', 282, 'budget', 282, 'court', 'such', 'lead',
+('2025-05-27', 283, 283, 'candidate', 283, 'six', 283, 'no', 'phone', 'experience',
+('2025-11-19', 284, 284, 'magazine', 284, 'drive', 284, 'continue', 'investment', 'article',
+('2026-01-14', 285, 285, 'such', 285, 'future', 285, 'pull', 'Democrat', 'author',
+('2024-11-28', 286, 286, 'friend', 286, 'Democrat', 286, 'trial', 'range', 'consumer',
+('2024-06-22', 287, 287, 'lawyer', 287, 'family', 287, 'information', 'born', 'score',
+('2025-06-17', 288, 288, 'worker', 288, 'order', 288, 'figure', 'edge', 'maybe',
+('2025-06-23', 289, 289, 'hear', 289, 'so', 289, 'kind', 'enter', 'away',
+('2024-08-20', 290, 290, 'receive', 290, 'off', 290, 'job', 'my', 'over',
+('2024-12-24', 291, 291, 'own', 291, 'go', 291, 'week', 'meeting', 'seem',
+('2024-09-26', 292, 292, 'lot', 292, 'receive', 292, 'movie', 'result', 'campaign',
+('2024-10-28', 293, 293, 'hold', 293, 'no', 293, 'by', 'live', 'time',
+('2024-10-30', 294, 294, 'a', 294, 'for', 294, 'time', 'dream', 'laugh',
+('2024-05-22', 295, 295, 'another', 295, 'beyond', 295, 'single', 'industry', 'play',
+('2024-04-19', 296, 296, 'else', 296, 'until', 296, 'sign', 'right', 'leave',
+('2026-01-03', 297, 297, 'plant', 297, 'full', 297, 'see', 'garden', 'open',
+('2024-08-01', 298, 298, 'well', 298, 'simple', 298, 'explain', 'life', 'music',
+('2025-03-26', 299, 299, 'chance', 299, 'ground', 299, 'close', 'far', 'we',
+('2025-04-24', 300, 300, 'blue', 300, 'note', 300, 'cost', 'fear', 'partner');
