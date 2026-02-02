@@ -1,899 +1,301 @@
 INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('energy', 'look', 'executive', 'other', 'avoid');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('adult', 'miss', 'dream', 'enjoy', 'fight');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('let', 'economic', 'world', 'citizen', 'employee');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('if', 'individual', 'cold', 'between', 'answer');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('effort', 'evening', 'begin', 'sound', 'fish');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('mother', 'spring', 'tell', 'nice', 'heart');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('case', 'sport', 'draw', 'any', 'case');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('whose', 'win', 'TV', 'since', 'future');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('board', 'fight', 'start', 'foreign', 'direction');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('station', 'girl', 'light', 'fly', 'some');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('term', 'their', 'parent', 'letter', 'four');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('short', 'instead', 'by', 'step', 'lead');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('admit', 'seem', 'will', 'local', 'key');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('mouth', 'PM', 'safe', 'program', 'protect');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('different', 'yard', 'soldier', 'option', 'great');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('argue', 'letter', 'event', 'quality', 'meeting');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('network', 'stage', 'term', 'religious', 'of');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('it', 'line', 'issue', 'will', 'item');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('last', 'particularly', 'focus', 'nearly', 'control');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('music', 'fight', 'debate', 'war', 'teach');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('future', 'final', 'defense', 'reduce', 'hour');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('perhaps', 'current', 'field', 'military', 'force');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('recent', 'ask', 'source', 'time', 'beautiful');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('society', 'they', 'chance', 'laugh', 'real');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('area', 'develop', 'attention', 'tell', 'father');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('game', 'already', 'company', 'share', 'everything');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('education', 'attorney', 'media', 'pick', 'send');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('help', 'usually', 'kind', 'specific', 'believe');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('hope', 'take', 'gun', 'bad', 'daughter');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('campaign', 'still', 'major', 'could', 'should');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('thank', 'middle', 'last', 'free', 'whose');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('only', 'shake', 'keep', 'his', 'cell');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('apply', 'skill', 'success', 'election', 'late');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('region', 'sit', 'however', 'along', 'what');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('voice', 'man', 'exist', 'office', 'agent');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('appear', 'each', 'world', 'week', 'summer');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('accept', 'blood', 'hope', 'always', 'true');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('agency', 'myself', 'so', 'indicate', 'agent');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('girl', 'front', 'age', 'season', 'dream');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('pattern', 'well', 'decide', 'behavior', 'everyone');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('long', 'certainly', 'discuss', 'family', 'focus');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('large', 'involve', 'from', 'thank', 'responsibility');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('option', 'his', 'street', 'unit', 'event');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('under', 'same', 'give', 'it', 'yard');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('determine', 'fear', 'behind', 'difficult', 'lose');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('high', 'break', 'explain', 'defense', 'give');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('capital', 'must', 'kid', 'rather', 'event');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('partner', 'other', 'and', 'drive', 'care');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('about', 'or', 'clearly', 'thousand', 'benefit');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('child', 'final', 'senior', 'blue', 'true');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('big', 'garden', 'century', 'offer', 'west');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('indicate', 'education', 'number', 'save', 'occur');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('must', 'floor', 'before', 'tax', 'fight');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('economic', 'begin', 'mention', 'state', 'security');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('staff', 'year', 'star', 'top', 'attorney');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('lose', 'add', 'into', 'those', 'image');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('work', 'between', 'deep', 'war', 'home');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('state', 'see', 'worker', 'plan', 'especially');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('wind', 'listen', 'theory', 'clear', 'political');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('management', 'left', 'sign', 'news', 'market');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('tend', 'at', 'art', 'rise', 'within');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('letter', 'air', 'if', 'personal', 'worry');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('attorney', 'doctor', 'determine', 'capital', 'those');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('between', 'national', 'say', 'art', 'out');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('put', 'better', 'happen', 'cell', 'race');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('imagine', 'piece', 'enter', 'hospital', 'build');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('share', 'thing', 'defense', 'article', 'prevent');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('develop', 'unit', 'debate', 'article', 'sea');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('message', 'would', 'authority', 'camera', 'or');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('meeting', 'practice', 'such', 'sort', 'lot');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('end', 'organization', 'citizen', 'poor', 'store');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('always', 'nation', 'wall', 'production', 'bed');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('thought', 'final', 'visit', 'care', 'kind');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('attack', 'at', 'eye', 'control', 'option');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('key', 'who', 'writer', 'happen', 'form');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('the', 'reflect', 'knowledge', 'require', 'door');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('figure', 'until', 'law', 'friend', 'really');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('great', 'put', 'travel', 'six', 'most');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('alone', 'Mr', 'agreement', 'well', 'community');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('movement', 'response', 'chair', 'ahead', 'reveal');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('TV', 'strategy', 'law', 'series', 'tonight');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('language', 'matter', 'need', 'effect', 'none');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('item', 'including', 'wonder', 'something', 'where');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('particular', 'draw', 'anyone', 'eight', 'door');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('forget', 'under', 'create', 'bit', 'form');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('card', 'cultural', 'pick', 'husband', 'analysis');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('carry', 'national', 'wind', 'small', 'Mr');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('hard', 'ever', 'fly', 'material', 'also');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('human', 'every', 'she', 'green', 'fire');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('my', 'born', 'example', 'have', 'my');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('challenge', 'serious', 'specific', 'data', 'cost');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('recent', 'employee', 'toward', 'reflect', 'task');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('woman', 'education', 'strong', 'well', 'court');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('expect', 'hard', 'sing', 'this', 'while');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('actually', 'never', 'meeting', 'deal', 'significant');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('industry', 'boy', 'attention', 'man', 'focus');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('environment', 'free', 'bill', 'hot', 'more');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('per', 'majority', 'before', 'image', 'long');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('look', 'speak', 'eye', 'security', 'heart');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('meeting', 'bag', 'represent', 'industry', 'subject');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('result', 'yes', 'hope', 'purpose', 'full');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('guy', 'upon', 'begin', 'power', 'our');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('trip', 'sing', 'notice', 'build', 'ok');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('from', 'fill', 'current', 'him', 'decision');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('suffer', 'structure', 'suddenly', 'parent', 'life');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('face', 'become', 'alone', 'agreement', 'citizen');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('expect', 'gas', 'various', 'individual', 'claim');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('much', 'keep', 'he', 'out', 'government');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('baby', 'protect', 'weight', 'probably', 'many');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('leave', 'contain', 'reason', 'want', 'of');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('myself', 'star', 'successful', 'senior', 'nearly');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('hold', 'but', 'while', 'stock', 'live');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('politics', 'when', 'agency', 'by', 'suddenly');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('far', 'body', 'long', 'reason', 'sell');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('necessary', 'trial', 'action', 'task', 'hold');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('will', 'hundred', 'southern', 'page', 'possible');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('entire', 'boy', 'push', 'authority', 'husband');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('appear', 'make', 'allow', 'speak', 'then');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('hit', 'first', 'hear', 'officer', 'simple');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('imagine', 'hear', 'whether', 'skin', 'just');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('four', 'way', 'team', 'toward', 'a');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('lot', 'follow', 'program', 'create', 'walk');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('travel', 'stage', 'feeling', 'lot', 'mission');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('reflect', 'mouth', 'because', 'daughter', 'PM');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('trouble', 'through', 'hear', 'career', 'other');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('four', 'we', 'page', 'person', 'actually');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('day', 'today', 'event', 'set', 'follow');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('physical', 'name', 'always', 'whom', 'side');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('long', 'food', 'outside', 'grow', 'indeed');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('prove', 'data', 'pull', 'just', 'different');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('something', 'town', 'miss', 'fact', 'instead');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('already', 'safe', 'clearly', 'response', 'test');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('social', 'themselves', 'he', 'find', 'your');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('floor', 'mention', 'about', 'clearly', 'treat');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('discuss', 'voice', 'action', 'situation', 'experience');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('accept', 'film', 'trial', 'set', 'population');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('beyond', 'responsibility', 'final', 'above', 'believe');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('force', 'particularly', 'future', 'society', 'well');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('key', 'pull', 'family', 'kitchen', 'this');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('own', 'adult', 'remember', 'community', 'yourself');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('truth', 'look', 'job', 'technology', 'paper');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('speech', 'industry', 'tax', 'staff', 'difference');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('report', 'under', 'bag', 'now', 'sport');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('rather', 'business', 'large', 'relationship', 'body');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('organization', 'certain', 'best', 'wish', 'commercial');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('director', 'without', 'anything', 'high', 'evening');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('return', 'toward', 'dinner', 'check', 'these');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('whom', 'method', 'try', 'sure', 'bank');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('bring', 'prevent', 'notice', 'stock', 'personal');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('sound', 'today', 'movie', 'everything', 'my');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('soon', 'road', 'rise', 'agent', 'wait');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('material', 'hundred', 'they', 'difficult', 'night');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('happy', 'hope', 'wife', 'discuss', 'same');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('unit', 'manage', 'hold', 'must', 'feeling');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('arm', 'fast', 'budget', 'often', 'particular');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('common', 'mouth', 'art', 'source', 'spring');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('hold', 'total', 'itself', 'certainly', 'tonight');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('debate', 'eat', 'under', 'capital', 'analysis');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('same', 'deal', 'professional', 'peace', 'issue');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('off', 'true', 'result', 'cause', 'visit');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('here', 'during', 'onto', 'west', 'letter');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('concern', 'include', 'most', 'sport', 'more');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('answer', 'serve', 'audience', 'middle', 'although');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('true', 'notice', 'add', 'something', 'foreign');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('knowledge', 'measure', 'project', 'report', 'research');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('stand', 'project', 'whom', 'notice', 'such');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('first', 'will', 'large', 'method', 'bit');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('environmental', 'ask', 'various', 'parent', 'very');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('near', 'age', 'goal', 'guess', 'rich');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('degree', 'section', 'memory', 'check', 'wear');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('on', 'company', 'figure', 'meeting', 'law');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('any', 'effect', 'require', 'day', 'sell');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('same', 'analysis', 'others', 'economy', 'wrong');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('so', 'approach', 'believe', 'player', 'chance');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('possible', 'stuff', 'yet', 'his', 'window');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('month', 'question', 'break', 'at', 'field');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('institution', 'nature', 'physical', 'information', 'cup');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('each', 'gun', 'part', 'possible', 'generation');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('go', 'bring', 'few', 'real', 'fly');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('manage', 'toward', 'how', 'candidate', 'computer');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('matter', 'simply', 'eight', 'cold', 'move');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('research', 'full', 'want', 'sign', 'condition');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('rock', 'list', 'theory', 'firm', 'leave');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('minute', 'future', 'evidence', 'thousand', 'seat');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('deal', 'east', 'present', 'arm', 'media');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('money', 'long', 'cost', 'statement', 'during');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('dinner', 'find', 'heavy', 'machine', 'any');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('itself', 'me', 'those', 'life', 'compare');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('television', 'soon', 'school', 'Mrs', 'until');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('speak', 'land', 'admit', 'stop', 'structure');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('front', 'fall', 'those', 'yard', 'four');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('radio', 'paper', 'fill', 'power', 'should');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('talk', 'we', 'already', 'enough', 'answer');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('system', 'marriage', 'near', 'amount', 'range');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('medical', 'total', 'realize', 'as', 'around');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('seek', 'product', 'buy', 'people', 'look');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('moment', 'food', 'day', 'go', 'agree');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('mean', 'around', 'course', 'threat', 'their');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('baby', 'rock', 'play', 'mouth', 'build');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('full', 'skin', 'beautiful', 'clear', 'environmental');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('direction', 'draw', 'summer', 'represent', 'current');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('hand', 'do', 'building', 'seek', 'put');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('common', 'up', 'score', 'wife', 'key');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('on', 'PM', 'often', 'tree', 'level');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('decision', 'least', 'major', 'sit', 'southern');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('while', 'task', 'sort', 'without', 'rate');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('decade', 'almost', 'less', 'hard', 'involve');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('camera', 'organization', 'position', 'tend', 'loss');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('body', 'available', 'expert', 'right', 'beautiful');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('send', 'enough', 'thing', 'whatever', 'cold');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('factor', 'write', 'story', 'lose', 'save');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('expert', 'music', 'she', 'present', 'low');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('dream', 'need', 'ten', 'include', 'couple');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('factor', 'thing', 'list', 'charge', 'Mr');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('media', 'body', 'federal', 'win', 'produce');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('six', 'since', 'century', 'degree', 'keep');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('experience', 'rate', 'activity', 'very', 'return');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('herself', 'many', 'your', 'image', 'century');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('address', 'break', 'issue', 'cell', 'few');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('determine', 'us', 'again', 'soldier', 'for');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('again', 'inside', 'experience', 'break', 'page');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('change', 'project', 'force', 'then', 'data');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('score', 'weight', 'property', 'church', 'cup');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('arrive', 'set', 'business', 'plan', 'nearly');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('series', 'space', 'discuss', 'forward', 'partner');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('public', 'card', 'entire', 'leader', 'ground');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('benefit', 'production', 'try', 'foot', 'picture');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('write', 'body', 'laugh', 'always', 'discover');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('help', 'quickly', 'give', 'whatever', 'establish');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('concern', 'name', 'scientist', 'open', 'sport');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('west', 'impact', 'detail', 'movement', 'out');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('throw', 'discuss', 'in', 'various', 'artist');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('available', 'enjoy', 'behavior', 'method', 'size');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('outside', 'fact', 'author', 'wide', 'impact');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('exactly', 'movement', 'edge', 'guy', 'usually');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('PM', 'away', 'crime', 'care', 'five');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('size', 'tell', 'amount', 'upon', 'couple');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('pressure', 'example', 'environment', 'become', 'management');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('truth', 'open', 'glass', 'name', 'someone');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('character', 'song', 'event', 'history', 'end');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('him', 'require', 'who', 'organization', 'suddenly');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('those', 'not', 'develop', 'great', 'spring');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('support', 'rule', 'staff', 'traditional', 'same');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('form', 'other', 'forward', 'sell', 'themselves');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('good', 'behavior', 'down', 'sport', 'keep');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('crime', 'government', 'sound', 'quite', 'story');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('number', 'big', 'economic', 'wonder', 'physical');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('four', 'test', 'heart', 'kid', 'other');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('to', 'wife', 'range', 'dark', 'care');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('night', 'hold', 'natural', 'skill', 'professional');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('think', 'next', 'future', 'song', 'especially');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('draw', 'theory', 'environmental', 'skin', 'analysis');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('around', 'look', 'than', 'education', 'church');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('firm', 'theory', 'source', 'reveal', 'language');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('natural', 'job', 'model', 'type', 'door');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('mean', 'teacher', 'start', 'red', 'season');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('which', 'least', 'son', 'new', 'she');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('far', 'but', 'red', 'different', 'discuss');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('officer', 'else', 'half', 'before', 'catch');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('be', 'Congress', 'head', 'race', 'possible');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('lawyer', 'actually', 'instead', 'major', 'become');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('cell', 'mean', 'affect', 'easy', 'responsibility');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('remain', 'lawyer', 'line', 'young', 'home');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('before', 'close', 'because', 'within', 'teach');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('traditional', 'million', 'today', 'safe', 'other');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('people', 'cultural', 'new', 'you', 'ever');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('off', 'imagine', 'environmental', 'figure', 'ready');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('lot', 'realize', 'war', 'art', 'size');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('mother', 'check', 'leader', 'act', 'field');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('professional', 'family', 'happy', 'write', 'provide');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('address', 'three', 'this', 'particular', 'safe');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('off', 'either', 'response', 'interesting', 'environmental');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('effect', 'western', 'training', 'stage', 'outside');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('morning', 'talk', 'actually', 'it', 'do');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('unit', 'where', 'early', 'class', 'official');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('industry', 'design', 'either', 'raise', 'example');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('item', 'may', 'education', 'more', 'order');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('within', 'certain', 'guy', 'each', 'hot');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('some', 'left', 'school', 'pattern', 'know');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('art', 'pattern', 'interesting', 'free', 'writer');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('article', 'in', 'thought', 'ground', 'color');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('career', 'nation', 'painting', 'third', 'want');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('rise', 'return', 'economy', 'course', 'myself');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('summer', 'activity', 'analysis', 'so', 'that');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('rise', 'instead', 'character', 'there', 'decide');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('right', 'current', 'price', 'popular', 'about');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('bit', 'third', 'girl', 'new', 'to');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('season', 'tend', 'open', 'authority', 'everyone');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('catch', 'difficult', 'reach', 'minute', 'blood');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('painting', 'artist', 'return', 'five', 'office');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('consider', 'end', 'law', 'tough', 'black');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('table', 'game', 'main', 'theory', 'business');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('build', 'against', 'difficult', 'total', 'think');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('kid', 'according', 'relationship', 'company', 'it');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('think', 'lawyer', 'from', 'church', 'fear');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('region', 'always', 'budget', 'current', 'court');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('agreement', 'size', 'treatment', 'who', 'mention');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('yourself', 'lay', 'number', 'company', 'quality');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('clearly', 'figure', 'grow', 'cold', 'them');
-
-INSERT INTO iris (petal_length, petal_width, sepal_length, sepal_width, variety)
-VALUES ('blood', 'catch', 'focus', 'marriage', 'much');
+VALUES ('energy', 'look', 'executive', 'other', 'avoid',
+('adult', 'miss', 'dream', 'enjoy', 'fight',
+('let', 'economic', 'world', 'citizen', 'employee',
+('if', 'individual', 'cold', 'between', 'answer',
+('effort', 'evening', 'begin', 'sound', 'fish',
+('mother', 'spring', 'tell', 'nice', 'heart',
+('case', 'sport', 'draw', 'any', 'case',
+('whose', 'win', 'TV', 'since', 'future',
+('board', 'fight', 'start', 'foreign', 'direction',
+('station', 'girl', 'light', 'fly', 'some',
+('term', 'their', 'parent', 'letter', 'four',
+('short', 'instead', 'by', 'step', 'lead',
+('admit', 'seem', 'will', 'local', 'key',
+('mouth', 'PM', 'safe', 'program', 'protect',
+('different', 'yard', 'soldier', 'option', 'great',
+('argue', 'letter', 'event', 'quality', 'meeting',
+('network', 'stage', 'term', 'religious', 'of',
+('it', 'line', 'issue', 'will', 'item',
+('last', 'particularly', 'focus', 'nearly', 'control',
+('music', 'fight', 'debate', 'war', 'teach',
+('future', 'final', 'defense', 'reduce', 'hour',
+('perhaps', 'current', 'field', 'military', 'force',
+('recent', 'ask', 'source', 'time', 'beautiful',
+('society', 'they', 'chance', 'laugh', 'real',
+('area', 'develop', 'attention', 'tell', 'father',
+('game', 'already', 'company', 'share', 'everything',
+('education', 'attorney', 'media', 'pick', 'send',
+('help', 'usually', 'kind', 'specific', 'believe',
+('hope', 'take', 'gun', 'bad', 'daughter',
+('campaign', 'still', 'major', 'could', 'should',
+('thank', 'middle', 'last', 'free', 'whose',
+('only', 'shake', 'keep', 'his', 'cell',
+('apply', 'skill', 'success', 'election', 'late',
+('region', 'sit', 'however', 'along', 'what',
+('voice', 'man', 'exist', 'office', 'agent',
+('appear', 'each', 'world', 'week', 'summer',
+('accept', 'blood', 'hope', 'always', 'true',
+('agency', 'myself', 'so', 'indicate', 'agent',
+('girl', 'front', 'age', 'season', 'dream',
+('pattern', 'well', 'decide', 'behavior', 'everyone',
+('long', 'certainly', 'discuss', 'family', 'focus',
+('large', 'involve', 'from', 'thank', 'responsibility',
+('option', 'his', 'street', 'unit', 'event',
+('under', 'same', 'give', 'it', 'yard',
+('determine', 'fear', 'behind', 'difficult', 'lose',
+('high', 'break', 'explain', 'defense', 'give',
+('capital', 'must', 'kid', 'rather', 'event',
+('partner', 'other', 'and', 'drive', 'care',
+('about', 'or', 'clearly', 'thousand', 'benefit',
+('child', 'final', 'senior', 'blue', 'true',
+('big', 'garden', 'century', 'offer', 'west',
+('indicate', 'education', 'number', 'save', 'occur',
+('must', 'floor', 'before', 'tax', 'fight',
+('economic', 'begin', 'mention', 'state', 'security',
+('staff', 'year', 'star', 'top', 'attorney',
+('lose', 'add', 'into', 'those', 'image',
+('work', 'between', 'deep', 'war', 'home',
+('state', 'see', 'worker', 'plan', 'especially',
+('wind', 'listen', 'theory', 'clear', 'political',
+('management', 'left', 'sign', 'news', 'market',
+('tend', 'at', 'art', 'rise', 'within',
+('letter', 'air', 'if', 'personal', 'worry',
+('attorney', 'doctor', 'determine', 'capital', 'those',
+('between', 'national', 'say', 'art', 'out',
+('put', 'better', 'happen', 'cell', 'race',
+('imagine', 'piece', 'enter', 'hospital', 'build',
+('share', 'thing', 'defense', 'article', 'prevent',
+('develop', 'unit', 'debate', 'article', 'sea',
+('message', 'would', 'authority', 'camera', 'or',
+('meeting', 'practice', 'such', 'sort', 'lot',
+('end', 'organization', 'citizen', 'poor', 'store',
+('always', 'nation', 'wall', 'production', 'bed',
+('thought', 'final', 'visit', 'care', 'kind',
+('attack', 'at', 'eye', 'control', 'option',
+('key', 'who', 'writer', 'happen', 'form',
+('the', 'reflect', 'knowledge', 'require', 'door',
+('figure', 'until', 'law', 'friend', 'really',
+('great', 'put', 'travel', 'six', 'most',
+('alone', 'Mr', 'agreement', 'well', 'community',
+('movement', 'response', 'chair', 'ahead', 'reveal',
+('TV', 'strategy', 'law', 'series', 'tonight',
+('language', 'matter', 'need', 'effect', 'none',
+('item', 'including', 'wonder', 'something', 'where',
+('particular', 'draw', 'anyone', 'eight', 'door',
+('forget', 'under', 'create', 'bit', 'form',
+('card', 'cultural', 'pick', 'husband', 'analysis',
+('carry', 'national', 'wind', 'small', 'Mr',
+('hard', 'ever', 'fly', 'material', 'also',
+('human', 'every', 'she', 'green', 'fire',
+('my', 'born', 'example', 'have', 'my',
+('challenge', 'serious', 'specific', 'data', 'cost',
+('recent', 'employee', 'toward', 'reflect', 'task',
+('woman', 'education', 'strong', 'well', 'court',
+('expect', 'hard', 'sing', 'this', 'while',
+('actually', 'never', 'meeting', 'deal', 'significant',
+('industry', 'boy', 'attention', 'man', 'focus',
+('environment', 'free', 'bill', 'hot', 'more',
+('per', 'majority', 'before', 'image', 'long',
+('look', 'speak', 'eye', 'security', 'heart',
+('meeting', 'bag', 'represent', 'industry', 'subject',
+('result', 'yes', 'hope', 'purpose', 'full',
+('guy', 'upon', 'begin', 'power', 'our',
+('trip', 'sing', 'notice', 'build', 'ok',
+('from', 'fill', 'current', 'him', 'decision',
+('suffer', 'structure', 'suddenly', 'parent', 'life',
+('face', 'become', 'alone', 'agreement', 'citizen',
+('expect', 'gas', 'various', 'individual', 'claim',
+('much', 'keep', 'he', 'out', 'government',
+('baby', 'protect', 'weight', 'probably', 'many',
+('leave', 'contain', 'reason', 'want', 'of',
+('myself', 'star', 'successful', 'senior', 'nearly',
+('hold', 'but', 'while', 'stock', 'live',
+('politics', 'when', 'agency', 'by', 'suddenly',
+('far', 'body', 'long', 'reason', 'sell',
+('necessary', 'trial', 'action', 'task', 'hold',
+('will', 'hundred', 'southern', 'page', 'possible',
+('entire', 'boy', 'push', 'authority', 'husband',
+('appear', 'make', 'allow', 'speak', 'then',
+('hit', 'first', 'hear', 'officer', 'simple',
+('imagine', 'hear', 'whether', 'skin', 'just',
+('four', 'way', 'team', 'toward', 'a',
+('lot', 'follow', 'program', 'create', 'walk',
+('travel', 'stage', 'feeling', 'lot', 'mission',
+('reflect', 'mouth', 'because', 'daughter', 'PM',
+('trouble', 'through', 'hear', 'career', 'other',
+('four', 'we', 'page', 'person', 'actually',
+('day', 'today', 'event', 'set', 'follow',
+('physical', 'name', 'always', 'whom', 'side',
+('long', 'food', 'outside', 'grow', 'indeed',
+('prove', 'data', 'pull', 'just', 'different',
+('something', 'town', 'miss', 'fact', 'instead',
+('already', 'safe', 'clearly', 'response', 'test',
+('social', 'themselves', 'he', 'find', 'your',
+('floor', 'mention', 'about', 'clearly', 'treat',
+('discuss', 'voice', 'action', 'situation', 'experience',
+('accept', 'film', 'trial', 'set', 'population',
+('beyond', 'responsibility', 'final', 'above', 'believe',
+('force', 'particularly', 'future', 'society', 'well',
+('key', 'pull', 'family', 'kitchen', 'this',
+('own', 'adult', 'remember', 'community', 'yourself',
+('truth', 'look', 'job', 'technology', 'paper',
+('speech', 'industry', 'tax', 'staff', 'difference',
+('report', 'under', 'bag', 'now', 'sport',
+('rather', 'business', 'large', 'relationship', 'body',
+('organization', 'certain', 'best', 'wish', 'commercial',
+('director', 'without', 'anything', 'high', 'evening',
+('return', 'toward', 'dinner', 'check', 'these',
+('whom', 'method', 'try', 'sure', 'bank',
+('bring', 'prevent', 'notice', 'stock', 'personal',
+('sound', 'today', 'movie', 'everything', 'my',
+('soon', 'road', 'rise', 'agent', 'wait',
+('material', 'hundred', 'they', 'difficult', 'night',
+('happy', 'hope', 'wife', 'discuss', 'same',
+('unit', 'manage', 'hold', 'must', 'feeling',
+('arm', 'fast', 'budget', 'often', 'particular',
+('common', 'mouth', 'art', 'source', 'spring',
+('hold', 'total', 'itself', 'certainly', 'tonight',
+('debate', 'eat', 'under', 'capital', 'analysis',
+('same', 'deal', 'professional', 'peace', 'issue',
+('off', 'true', 'result', 'cause', 'visit',
+('here', 'during', 'onto', 'west', 'letter',
+('concern', 'include', 'most', 'sport', 'more',
+('answer', 'serve', 'audience', 'middle', 'although',
+('true', 'notice', 'add', 'something', 'foreign',
+('knowledge', 'measure', 'project', 'report', 'research',
+('stand', 'project', 'whom', 'notice', 'such',
+('first', 'will', 'large', 'method', 'bit',
+('environmental', 'ask', 'various', 'parent', 'very',
+('near', 'age', 'goal', 'guess', 'rich',
+('degree', 'section', 'memory', 'check', 'wear',
+('on', 'company', 'figure', 'meeting', 'law',
+('any', 'effect', 'require', 'day', 'sell',
+('same', 'analysis', 'others', 'economy', 'wrong',
+('so', 'approach', 'believe', 'player', 'chance',
+('possible', 'stuff', 'yet', 'his', 'window',
+('month', 'question', 'break', 'at', 'field',
+('institution', 'nature', 'physical', 'information', 'cup',
+('each', 'gun', 'part', 'possible', 'generation',
+('go', 'bring', 'few', 'real', 'fly',
+('manage', 'toward', 'how', 'candidate', 'computer',
+('matter', 'simply', 'eight', 'cold', 'move',
+('research', 'full', 'want', 'sign', 'condition',
+('rock', 'list', 'theory', 'firm', 'leave',
+('minute', 'future', 'evidence', 'thousand', 'seat',
+('deal', 'east', 'present', 'arm', 'media',
+('money', 'long', 'cost', 'statement', 'during',
+('dinner', 'find', 'heavy', 'machine', 'any',
+('itself', 'me', 'those', 'life', 'compare',
+('television', 'soon', 'school', 'Mrs', 'until',
+('speak', 'land', 'admit', 'stop', 'structure',
+('front', 'fall', 'those', 'yard', 'four',
+('radio', 'paper', 'fill', 'power', 'should',
+('talk', 'we', 'already', 'enough', 'answer',
+('system', 'marriage', 'near', 'amount', 'range',
+('medical', 'total', 'realize', 'as', 'around',
+('seek', 'product', 'buy', 'people', 'look',
+('moment', 'food', 'day', 'go', 'agree',
+('mean', 'around', 'course', 'threat', 'their',
+('baby', 'rock', 'play', 'mouth', 'build',
+('full', 'skin', 'beautiful', 'clear', 'environmental',
+('direction', 'draw', 'summer', 'represent', 'current',
+('hand', 'do', 'building', 'seek', 'put',
+('common', 'up', 'score', 'wife', 'key',
+('on', 'PM', 'often', 'tree', 'level',
+('decision', 'least', 'major', 'sit', 'southern',
+('while', 'task', 'sort', 'without', 'rate',
+('decade', 'almost', 'less', 'hard', 'involve',
+('camera', 'organization', 'position', 'tend', 'loss',
+('body', 'available', 'expert', 'right', 'beautiful',
+('send', 'enough', 'thing', 'whatever', 'cold',
+('factor', 'write', 'story', 'lose', 'save',
+('expert', 'music', 'she', 'present', 'low',
+('dream', 'need', 'ten', 'include', 'couple',
+('factor', 'thing', 'list', 'charge', 'Mr',
+('media', 'body', 'federal', 'win', 'produce',
+('six', 'since', 'century', 'degree', 'keep',
+('experience', 'rate', 'activity', 'very', 'return',
+('herself', 'many', 'your', 'image', 'century',
+('address', 'break', 'issue', 'cell', 'few',
+('determine', 'us', 'again', 'soldier', 'for',
+('again', 'inside', 'experience', 'break', 'page',
+('change', 'project', 'force', 'then', 'data',
+('score', 'weight', 'property', 'church', 'cup',
+('arrive', 'set', 'business', 'plan', 'nearly',
+('series', 'space', 'discuss', 'forward', 'partner',
+('public', 'card', 'entire', 'leader', 'ground',
+('benefit', 'production', 'try', 'foot', 'picture',
+('write', 'body', 'laugh', 'always', 'discover',
+('help', 'quickly', 'give', 'whatever', 'establish',
+('concern', 'name', 'scientist', 'open', 'sport',
+('west', 'impact', 'detail', 'movement', 'out',
+('throw', 'discuss', 'in', 'various', 'artist',
+('available', 'enjoy', 'behavior', 'method', 'size',
+('outside', 'fact', 'author', 'wide', 'impact',
+('exactly', 'movement', 'edge', 'guy', 'usually',
+('PM', 'away', 'crime', 'care', 'five',
+('size', 'tell', 'amount', 'upon', 'couple',
+('pressure', 'example', 'environment', 'become', 'management',
+('truth', 'open', 'glass', 'name', 'someone',
+('character', 'song', 'event', 'history', 'end',
+('him', 'require', 'who', 'organization', 'suddenly',
+('those', 'not', 'develop', 'great', 'spring',
+('support', 'rule', 'staff', 'traditional', 'same',
+('form', 'other', 'forward', 'sell', 'themselves',
+('good', 'behavior', 'down', 'sport', 'keep',
+('crime', 'government', 'sound', 'quite', 'story',
+('number', 'big', 'economic', 'wonder', 'physical',
+('four', 'test', 'heart', 'kid', 'other',
+('to', 'wife', 'range', 'dark', 'care',
+('night', 'hold', 'natural', 'skill', 'professional',
+('think', 'next', 'future', 'song', 'especially',
+('draw', 'theory', 'environmental', 'skin', 'analysis',
+('around', 'look', 'than', 'education', 'church',
+('firm', 'theory', 'source', 'reveal', 'language',
+('natural', 'job', 'model', 'type', 'door',
+('mean', 'teacher', 'start', 'red', 'season',
+('which', 'least', 'son', 'new', 'she',
+('far', 'but', 'red', 'different', 'discuss',
+('officer', 'else', 'half', 'before', 'catch',
+('be', 'Congress', 'head', 'race', 'possible',
+('lawyer', 'actually', 'instead', 'major', 'become',
+('cell', 'mean', 'affect', 'easy', 'responsibility',
+('remain', 'lawyer', 'line', 'young', 'home',
+('before', 'close', 'because', 'within', 'teach',
+('traditional', 'million', 'today', 'safe', 'other',
+('people', 'cultural', 'new', 'you', 'ever',
+('off', 'imagine', 'environmental', 'figure', 'ready',
+('lot', 'realize', 'war', 'art', 'size',
+('mother', 'check', 'leader', 'act', 'field',
+('professional', 'family', 'happy', 'write', 'provide',
+('address', 'three', 'this', 'particular', 'safe',
+('off', 'either', 'response', 'interesting', 'environmental',
+('effect', 'western', 'training', 'stage', 'outside',
+('morning', 'talk', 'actually', 'it', 'do',
+('unit', 'where', 'early', 'class', 'official',
+('industry', 'design', 'either', 'raise', 'example',
+('item', 'may', 'education', 'more', 'order',
+('within', 'certain', 'guy', 'each', 'hot',
+('some', 'left', 'school', 'pattern', 'know',
+('art', 'pattern', 'interesting', 'free', 'writer',
+('article', 'in', 'thought', 'ground', 'color',
+('career', 'nation', 'painting', 'third', 'want',
+('rise', 'return', 'economy', 'course', 'myself',
+('summer', 'activity', 'analysis', 'so', 'that',
+('rise', 'instead', 'character', 'there', 'decide',
+('right', 'current', 'price', 'popular', 'about',
+('bit', 'third', 'girl', 'new', 'to',
+('season', 'tend', 'open', 'authority', 'everyone',
+('catch', 'difficult', 'reach', 'minute', 'blood',
+('painting', 'artist', 'return', 'five', 'office',
+('consider', 'end', 'law', 'tough', 'black',
+('table', 'game', 'main', 'theory', 'business',
+('build', 'against', 'difficult', 'total', 'think',
+('kid', 'according', 'relationship', 'company', 'it',
+('think', 'lawyer', 'from', 'church', 'fear',
+('region', 'always', 'budget', 'current', 'court',
+('agreement', 'size', 'treatment', 'who', 'mention',
+('yourself', 'lay', 'number', 'company', 'quality',
+('clearly', 'figure', 'grow', 'cold', 'them',
+('blood', 'catch', 'focus', 'marriage', 'much');
